@@ -4,19 +4,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "$0" , "accessDays": "Sun Oct 17 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
+          "name": "Free Tips", "amount": "Ksh 0" , "accessDays": "Sun Oct 17 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
        },
        
        {
-          "name": "Basic Tips", "amount": "$5" , "accessDays": "Sun Oct 17 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
+          "name": "Basic Tips", "amount": "Ksh 100" , "accessDays": "Sun Oct 17 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
        },
        {
-           "name": "Standard Tips", "amount": "$8" , "accessDays": "Sun Oct 17 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":8     },
+           "name": "Standard Tips", "amount": "Ksh 300" , "accessDays": "Sun Oct 17 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":8     },
         {
-           "name": "Premium Tips", "amount": "$15" , "accessDays": "Sun Oct 17 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh 500" , "accessDays": "Sun Oct 17 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
         },
         {
-           "name": "Fixed Matches", "amount": "$30" , "accessDays": "Sun Oct 17 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
+           "name": "Fixed Matches", "amount": "Ksh 1000" , "accessDays": "Sun Oct 17 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
         }
       
    ],
