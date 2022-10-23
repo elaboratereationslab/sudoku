@@ -1,47 +1,75 @@
 {
      
-    "visibility": false,
+    "visibility": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Oct 17 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Oct 23 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Oct 17 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Oct 23 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":4
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Oct 17 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":8     },
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Oct 23 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":8     },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Oct 17 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Oct 23 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Sun Oct 17 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Sun Oct 23 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
         }
       
    ],
     
     
    "freePredictions":[
-       {
-               "fixture": "Liverpool vs Man City",
+        {
+               "fixture": "Jong Ajax Amsterdam Vs VVV Venlo",
                "prediction": "Over 1.5",
-               "date": "16/10/2022"
+               "date": "24/10/2022"
            },
            {
-               "fixture": "Bayern Munich vs Freiburg",
-               "prediction": "Home win/Draw, Over 1.5",
-               "date": "16/10/2022"
+               "fixture": "Jong AZ Alkmaar Vs Telstar",
+               "prediction": "Over 1.5",
+               "date": "24/10/2022"
            },
         {
-               "fixture": "Lillestrøm SK vs Molde",
-               "prediction": "Over 1.5",
-               "date": "16/10/2022"
+               "fixture": "Levadiakos Vs AEK Athens",
+               "prediction": "Away win",
+               "date": "24/10/2022"
            },
         {
-               "fixture": "Vålerenga vs Bodø/Glimt",
+               "fixture": "Jong Utrecht Vs Zwolle",
                "prediction": "Over 1.5",
-               "date": "16/10/2022"
+               "date": "23/10/2022"
+           } ,
+        {
+               "fixture": "Borussia Dortmund Vs Man City",
+               "prediction": "Over 1.5",
+               "date": "24/10/2022"
+           } ,
+        
+        
+        
+       {
+               "fixture": "Molde Vs Rosenborg BK",
+               "prediction": "Over 1.5",
+               "date": "23/10/2022"
+           },
+           {
+               "fixture": "Bodø/Glimt Vs Kristiansund BK",
+               "prediction": "Over 1.5 Home win",
+               "date": "23/10/2022"
+           },
+        {
+               "fixture": "Southampton Vs Arsenal",
+               "prediction": "Away win/Draw",
+               "date": "23/10/2022"
+           },
+        {
+               "fixture": "Volendam Vs Heerenveen",
+               "prediction": "Over 1.5",
+               "date": "23/10/2022"
            } 
        
        
@@ -135,6 +163,115 @@
    
    
    "predictionResults":[
+        {
+           "date": "Saturday, 22nd October 2022",
+           "gamesList": [
+            {
+                "fixture": "Malkiya VS Qalali",
+                "prediction": "CS 1-2",
+                "odds": "7.04",
+                "results": "Odds 7.04 (WIN)"
+            },
+            {
+                "fixture": "Ittihad (BHR) VS Ittifaq Maqaba",
+                "prediction": "Correct Score 2-1",
+                "odds": "6.37",
+                "results": "6.37 (WIN)"
+            },
+            {
+                "fixture": "Najma Manama VS Ittihad Al Ree",
+                "prediction": "HT/FT 1/1",
+                "odds": "5.37",
+                "results": "Odds 5.37 (WIN)"
+            },
+                {
+                "fixture": "FR Haguenau VS US Lusitanos (FRA)",
+                "prediction": "Draw 1-1",
+                "odds": "3.51",
+                "results": "Odds 3.51 (WIN)"
+            },
+                {
+                "fixture": "Stade Marocain VS JS Massira",
+                "prediction": "Over 5.5",
+                "odds": "6.21",
+                "results": "Odds 6.21 (WIN)"
+            }
+           ]
+        },
+        
+        
+        {
+           "date": "Friday, 21st October 2022",
+           "gamesList": [
+            {
+                "fixture": "Austria Wien II VS SKU Amstetten",
+                "prediction": "Over 5.5",
+                "odds": "5.86",
+                "results": "Odds 5.86 (WIN)"
+            },
+            {
+                "fixture": "FC Liefering VS Rapid Wien II",
+                "prediction": "Over 5.5",
+                "odds": "5.54",
+                "results": "5.54 (WIN)"
+            },
+            {
+                "fixture": "Shabab Al Khaleel VS Shabab Alsamu",
+                "prediction": "Over 4.5",
+                "odds": "4.26",
+                "results": "Odds 4.26 (WIN)"
+            },
+                {
+                "fixture": "Ethnikos Achnas VS Ermis Aradippou",
+                "prediction": "CS 1-2",
+                "odds": "7.62",
+                "results": "Odds 7.62 (WIN)"
+            },
+                {
+                "fixture": "FC Saburtalo VS Dinamo Batumi",
+                "prediction": "CS 1-0",
+                "odds": "3.54",
+                "results": "Odds 3.54 (WIN)"
+            }
+           ]
+        },
+        
+        
+        {
+           "date": "Tuesday, 18.10.2022",
+           "gamesList": [
+            {
+                "fixture": "NK Domzale VS ND Ilirija",
+                "prediction": "HT Draw",
+                "odds": "2.53",
+                "results": "Odds 2.53 (WIN)"
+            },
+            {
+                "fixture": "Ittihad (BHR) VS Malkiya",
+                "prediction": "HT/FT X/2",
+                "odds": "6.09",
+                "results": "6.09 (WIN)"
+            },
+            {
+                "fixture": "Al Qaisoma VS Sahel (KSA)",
+                "prediction": "Under 0.5",
+                "odds": "6.55",
+                "results": "Odds 6.55 (WIN)"
+            },
+                {
+                "fixture": "Stellenbosch FC VS SuperSport United",
+                "prediction": "Correct Score 0-2",
+                "odds": "5.94",
+                "results": "Odds 5.94 (WIN)"
+            },
+                {
+                "fixture": "Chippa United VS Sekhukhune Utd",
+                "prediction": "CS 1-0",
+                "odds": "4.53",
+                "results": "Odds 4.53 (WIN)"
+            }
+           ]
+        },
        {
            "date": "Thursday, 13.10.2022",
            "gamesList": [
