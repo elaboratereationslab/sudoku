@@ -24,57 +24,63 @@
     
     
    "freePredictions":[
-        {
-               "fixture": "Jong Ajax Amsterdam Vs VVV Venlo",
-               "prediction": "Over 1.5",
-               "date": "24/10/2022"
+    {
+               "fixture": "Sevilla Vs Copenhagen",
+               "prediction": "Home Win",
+               "date": "25/10/2022"
            },
            {
-               "fixture": "Jong AZ Alkmaar Vs Telstar",
-               "prediction": "Over 1.5",
-               "date": "24/10/2022"
+               "fixture": "FC Red Bull Salzburg Vs Chelsea",
+               "prediction": "Away Win",
+               "date": "25/10/2022"
            },
         {
-               "fixture": "Levadiakos Vs AEK Athens",
-               "prediction": "Away win",
-               "date": "24/10/2022"
+               "fixture": "Celtic Vs Shakhtar Donetsk",
+               "prediction": "Draw",
+               "date": "25/10/2022"
            },
         {
-               "fixture": "Jong Utrecht Vs Zwolle",
-               "prediction": "Over 1.5",
-               "date": "23/10/2022"
-           } ,
+               "fixture": "Borussia Dortmund Vs Manchester Cit",
+               "prediction": "Over 2.5",
+               "date": "25/10/2022"
+           },
         {
-               "fixture": "Borussia Dortmund Vs Man City",
-               "prediction": "Over 1.5",
-               "date": "24/10/2022"
-           } ,
-        
-        
+               "fixture": "Benfica Vs Juventus",
+               "prediction": "Both to score",
+               "date": "25/10/2022"
+           },   
         
        {
-               "fixture": "Molde Vs Rosenborg BK",
-               "prediction": "Over 1.5",
-               "date": "23/10/2022"
+               "fixture": "AaB Vs Viborg",
+               "prediction": "Over 2.5",
+               "date": "24/10/2022"
            },
            {
-               "fixture": "Bodø/Glimt Vs Kristiansund BK",
-               "prediction": "Over 1.5 Home win",
-               "date": "23/10/2022"
+               "fixture": "AEL Limassol Vs Nea Salamina",
+               "prediction": "Home win",
+               "date": "24/10/2022"
            },
         {
-               "fixture": "Southampton Vs Arsenal",
-               "prediction": "Away win/Draw",
-               "date": "23/10/2022"
+               "fixture": "Le Havre Vs Metz",
+               "prediction": "Home win",
+               "date": "24/10/2022"
            },
         {
-               "fixture": "Volendam Vs Heerenveen",
-               "prediction": "Over 1.5",
-               "date": "23/10/2022"
+               "fixture": "Versailles 78- : -Cholet",
+               "prediction": "Home Win",
+               "date": "24/10/2022"
+           },
+    {
+               "fixture": "Orleans- : -Red Star",
+               "prediction": "Unde 2.5",
+               "date": "24/10/2022"
+           },
+    {
+               "fixture": "Maccabi Tel Aviv Vs Maccabi Netanya",
+               "prediction": "Home Win",
+               "date": "24/10/2022"
            } 
-       
-       
-    ],
+ ],
     "fixedPredictions":[
         {
                "fixture": "IFK Norrkoping FK Vs Mjallby AIF",
