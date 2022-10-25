@@ -4,20 +4,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Oct 23 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Oct 25 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":4
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Oct 23 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Oct 23 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":11     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":11     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Oct 23 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Sun Oct 23 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
         }
       
    ],
@@ -48,38 +48,7 @@
                "fixture": "Benfica Vs Juventus",
                "prediction": "Both to score",
                "date": "25/10/2022"
-           },   
-        
-       {
-               "fixture": "AaB Vs Viborg",
-               "prediction": "Over 2.5",
-               "date": "24/10/2022"
-           },
-           {
-               "fixture": "AEL Limassol Vs Nea Salamina",
-               "prediction": "Home win",
-               "date": "24/10/2022"
-           },
-        {
-               "fixture": "Le Havre Vs Metz",
-               "prediction": "Home win",
-               "date": "24/10/2022"
-           },
-        {
-               "fixture": "Versailles 78- : -Cholet",
-               "prediction": "Home Win",
-               "date": "24/10/2022"
-           },
-    {
-               "fixture": "Orleans- : -Red Star",
-               "prediction": "Unde 2.5",
-               "date": "24/10/2022"
-           },
-    {
-               "fixture": "Maccabi Tel Aviv Vs Maccabi Netanya",
-               "prediction": "Home Win",
-               "date": "24/10/2022"
-           } 
+           }
  ],
     "fixedPredictions":[
         {
