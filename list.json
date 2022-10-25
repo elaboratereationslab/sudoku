@@ -4,26 +4,63 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Oct 25 2022", "odds":"5 Odds Daily","id":"id_free_sub", "length":10
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Oct 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":10
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":15
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":14     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":18     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":18
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":20
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":18
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
         }
       
    ],
     
     
    "freePredictions":[
+
+    {
+        "fixture": "Club Brugge Vs Porto",
+        "prediction": "Home Win / Draw",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Inter Milan Vs Viktoria Plzen",
+        "prediction": "Home Win (ht-ft)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Eintracht Frankfurt Vs Marseille",
+        "prediction": "Draw (half-time)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Napoli Vs Rangers",
+        "prediction": "Home Win (3 Way)",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Barcelona Vs Bayern Munich",
+        "prediction": "Both to score",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Tottenham Hotspur Vs Sporting Lisbon",
+        "prediction": "Both to score",
+        "date": "26/10/2022"
+    },
+    {
+        "fixture": "Atletico Madrid Vs Bayer 04 Leverkusen",
+        "prediction": "Under 2.5",
+        "date": "26/10/2022"
+    },
+
     {
                "fixture": "Sevilla Vs Copenhagen",
                "prediction": "Home Win",
