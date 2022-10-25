@@ -8,16 +8,16 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":15
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":18     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":14     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":20
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":18
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":18
         }
       
    ],
@@ -75,123 +75,98 @@
     
     "paidPredictions":[
        
-        {
-            "fixture": "Cremonese Vs Sampdoria",
-            "prediction": "Draw",
-            "date": "24/10/2022"
-        },
-        {
-            "fixture": "Sassuolo Vs Hellas Verona",
-            "prediction": "Over 2.5",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Pirin Blagoevgrad Vs Septemvri Sofia",
-            "prediction": "Under 2.5",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Hebar Vs Beroe",
-            "prediction": "Away win",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Celta Vigo Vs Getafe",
-            "prediction": "3-Way Win",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "West Ham United Vs Bournemouth",
-            "prediction": "Over 2.5",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Rio Ave Vs Portimonense",
-            "prediction": "Under 2.5",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Hatayspor vs Besiktas",
-            "prediction": "Over 2.5",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Giresunspor Vs MKE Ankaragucu",
-            "prediction": "Home win / Draw",
-            "date": "24/10/2022"
-        },
-     {
-            "fixture": "Ural Vs Krylia Sovetov Samara",
-            "prediction": "Over 2.5",
-            "date": "24/10/2022"
-        },
-        {
-            "fixture": "Zenit St Petersburg Vs Sochi",
-            "prediction": "Home win",
-            "date": "24/10/2022"
-        },
-        {
-            "fixture": "Jong PSV Eindhoven Vs Helmond Sport",
-            "prediction": "Home win",
-            "date": "24/10/2022"
-        },
+    {
+        "fixture": "Coventry City Vs Rotherham United",
+        "prediction": "Home Win",
+        "date": "25/10/2022"
+    },
+    {
+        "fixture": "Burnley- : -Norwich",
+        "prediction": "Under 2.5",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Bradford City Vs Swindon",
+        "prediction": "Over 2.5",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Wimbledon Vs Crewe Alexandra",
+        "prediction": "Over 2.5",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Doncaster Rovers Vs Stevenage",
+        "prediction": "Away Win",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Mansfield Town Vs Newport",
+        "prediction": "12 (Double Chance)",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Hartlepool United Vs Salford City",
+        "prediction": "No (Both to score)",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Stockport County Vs Carlisle United",
+        "prediction": "Home Win",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Tranmere- : -Rochdale",
+        "prediction": "x (Half Time)",
+        "date": "25/10/2022"
+    },
+ {
+        "fixture": "Cheltenham Town Vs Morecambe",
+        "prediction": "Home Win",
+        "date": "25/10/2022"
+    },
+    {
+        "fixture": "Peterborough United Vs Accrington Stanley",
+        "prediction": "Over 2.5",
+        "date": "25/10/2022"
+    },
+    {
+        "fixture": "Bolton Vs Burton Albion",
+        "prediction": "Home win",
+        "date": "25/10/2022"
+    },
 
-        {
-         "fixture": "Jong AZ Alkmaar Vs Stormvogels Telstar",
-         "prediction": "Home win / Draw",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Jong Ajax Vs VVV-Venlo",
-         "prediction": "Over 3.5",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Jong FC Utrecht Vs PEC Zwolle",
-         "prediction": "Away win",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Piast Gliwice Vs Radomiak Radom",
-         "prediction": "Home win",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Zaglebie Lubin Vs Lechia Gdansk",
-         "prediction": "Home win",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Leixões Vs Tondela",
-         "prediction": "Home win / Draw",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Petrolul Ploiesti Vs Arges Pitesti",
-         "prediction": "Home win / Draw",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Sepsi Sfantu Gheorghe Vs CSA Steaua",
-         "prediction": "Under 2.5",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Barracas Central Vs Newells Old Boys",
-         "prediction": "Under 2.5",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "Mladost GAT Vs Radnik Surdulica",
-         "prediction": "Under 2.5",
-         "date": "24/10/2022"
-     },
-     {
-         "fixture": "IK Sirius Vs Kalmar",
-         "prediction": "Over 2.5",
-         "date": "24/10/2022"
-     }
-    ],   
+    {
+     "fixture": "Fleetwood Vs Forest Green Rovers",
+     "prediction": "Home win",
+     "date": "25/10/2022"
+ },
+ {
+     "fixture": "Barnsley- : -Lincoln",
+     "prediction": "Under 2.5",
+     "date": "25/10/2022"
+ },
+ {
+     "fixture": "Wuhan Three Towns- : -Dalian Pro",
+     "prediction": "Home Win",
+     "date": "25/10/2022"
+ },
+ {
+     "fixture": "Frydek Mistek Vs Liberec",
+     "prediction": "Away win",
+     "date": "25/10/2022"
+ },
+ {
+     "fixture": "Trinity Zlin Vs Jihlava",
+     "prediction": "Home win",
+     "date": "25/10/2022"
+ },
+ {
+     "fixture": "The New Saints- : -Caernarfon",
+     "prediction": "Over 2.5",
+     "date": "25/10/2022"
+ }
+],   
    
    "predictionResults":[
         {
