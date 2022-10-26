@@ -8,16 +8,16 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":13
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Oct 25 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":15
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":15     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Oct 25 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":18     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":18
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Oct 25 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":20
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":18
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Tue Oct 25 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
         }
       
    ],
@@ -59,33 +59,7 @@
         "fixture": "Atletico Madrid Vs Bayer 04 Leverkusen",
         "prediction": "Under 2.5",
         "date": "26/10/2022"
-    },
-
-    {
-               "fixture": "Sevilla Vs Copenhagen",
-               "prediction": "Home Win",
-               "date": "25/10/2022"
-           },
-           {
-               "fixture": "FC Red Bull Salzburg Vs Chelsea",
-               "prediction": "Away Win",
-               "date": "25/10/2022"
-           },
-        {
-               "fixture": "Celtic Vs Shakhtar Donetsk",
-               "prediction": "Draw",
-               "date": "25/10/2022"
-           },
-        {
-               "fixture": "Borussia Dortmund Vs Manchester Cit",
-               "prediction": "Over 2.5",
-               "date": "25/10/2022"
-           },
-        {
-               "fixture": "Benfica Vs Juventus",
-               "prediction": "Both to score",
-               "date": "25/10/2022"
-           }
+    }
  ],
     "fixedPredictions":[
         {
@@ -206,6 +180,76 @@
 ],   
    
    "predictionResults":[
+    {
+        "date": "Monday, 24th October 2022",
+        "gamesList": [
+         {
+             "fixture": "Petrolul Ploiesti VS Arges Pitesti",
+             "prediction": "HT/FT 1/1",
+             "odds": "5.19",
+             "results": "Odds 5.19 (WIN)"
+         },
+         {
+             "fixture": "FK Murom VS Khimik Dzerzhinsk",
+             "prediction": "HT/FT X/X",
+             "odds": "5.62",
+             "results": "5.62 (WIN)"
+         },
+         {
+             "fixture": "Pirin Blagoevgrad VS FK Septemvri",
+             "prediction": "Over 4.5",
+             "odds": "4.21",
+             "results": "Odds 4.21 (WIN)"
+         },
+             {
+             "fixture": "Al Karmal VS Arabi Irbid",
+             "prediction": "X",
+             "odds": "3.06",
+             "results": "Odds 3.06 (WIN)"
+         },
+             {
+             "fixture": "Dinamo Tirana VS Flamurtari Vlore",
+             "prediction": "Over 5.5",
+             "odds": "2.38",
+             "results": "Odds 2.38 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Sunday, 23nd October 2022",
+        "gamesList": [
+         {
+             "fixture": "Talleres Cordoba VS Gimnasia La Plata ",
+             "prediction": "Correct Score 2-1",
+             "odds": "6.21",
+             "results": "Odds 6.21 (WIN)"
+         },
+         {
+             "fixture": "CD Tulancingo VS Colima FC ",
+             "prediction": "Under 0.5",
+             "odds": "6.08",
+             "results": "6.08 (WIN)"
+         },
+         {
+             "fixture": "Garde Nationale VS Tevragh-Ze茯�ne ",
+             "prediction": "HT/FT X/2",
+             "odds": "4.63",
+             "results": "Odds 4.63 (WIN)"
+         },
+             {
+             "fixture": "AD Cofutpa VS AD Carmelita ",
+             "prediction": "Draw 1-1",
+             "odds": "3.45",
+             "results": "Odds 4.45 (WIN)"
+         },
+             {
+             "fixture": "FK Partizan VS Javor Ivanjica ",
+             "prediction": "Over 5.5 ",
+             "odds": "6.07",
+             "results": "Odds 6.07 (WIN)"
+         }
+        ]
+     },
         {
            "date": "Saturday, 22nd October 2022",
            "gamesList": [
