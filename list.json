@@ -4,20 +4,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Oct 26 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":10
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Oct 26 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Oct 26 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":15
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Oct 26 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Oct 26 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":18     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Oct 26 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":12     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Oct 26 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":20
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Oct 26 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":18
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Wed Oct 26 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":23
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Wed Oct 26 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":18
         }
       
    ],
