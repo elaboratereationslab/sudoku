@@ -87,97 +87,67 @@
     "paidPredictions":[
        
     {
-        "fixture": "Coventry City Vs Rotherham United",
-        "prediction": "Home Win",
-        "date": "25/10/2022"
+        "fixture": "Anyang Vs Suwon Bluewings",
+        "prediction": "1X",
+        "date": "26/10/2022"
     },
     {
-        "fixture": "Burnley- : -Norwich",
+        "fixture": "Velez Sarsfield Vs Central Cordoba",
+        "prediction": "Home Win",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Platense Vs Lanus",
+        "prediction": "Both to score",
+        "date": "26/10/2022"
+    },
+ {
+        "fixture": "Sol de America Vs Tacuary",
         "prediction": "Under 2.5",
-        "date": "25/10/2022"
+        "date": "26/10/2022"
     },
  {
-        "fixture": "Bradford City Vs Swindon",
-        "prediction": "Over 2.5",
-        "date": "25/10/2022"
+        "fixture": "VPS Vs Haka",
+        "prediction": "Under 2.5",
+        "date": "26/10/2022"
     },
  {
-        "fixture": "Wimbledon Vs Crewe Alexandra",
-        "prediction": "Over 2.5",
-        "date": "25/10/2022"
-    },
- {
-        "fixture": "Doncaster Rovers Vs Stevenage",
-        "prediction": "Away Win",
-        "date": "25/10/2022"
-    },
- {
-        "fixture": "Mansfield Town Vs Newport",
-        "prediction": "12 (Double Chance)",
-        "date": "25/10/2022"
-    },
- {
-        "fixture": "Hartlepool United Vs Salford City",
-        "prediction": "No (Both to score)",
-        "date": "25/10/2022"
-    },
- {
-        "fixture": "Stockport County Vs Carlisle United",
+        "fixture": "Sheffield Wednesday Vs Bristol Rovers",
         "prediction": "Home Win",
-        "date": "25/10/2022"
+        "date": "26/10/2022"
     },
  {
-        "fixture": "Tranmere- : -Rochdale",
-        "prediction": "x (Half Time)",
-        "date": "25/10/2022"
+        "fixture": "Brusque Vs CRB Maceio",
+        "prediction": "Under 1.5",
+        "date": "26/10/2022"
     },
  {
-        "fixture": "Cheltenham Town Vs Morecambe",
+        "fixture": "Flamengo Vs Santos SP",
         "prediction": "Home Win",
-        "date": "25/10/2022"
+        "date": "26/10/2022"
     },
     {
-        "fixture": "Peterborough United Vs Accrington Stanley",
-        "prediction": "Over 2.5",
-        "date": "25/10/2022"
+        "fixture": "Rapid Vienna Vs Hartberg",
+        "prediction": "Under 3.5",
+        "date": "26/10/2022"
     },
     {
-        "fixture": "Bolton Vs Burton Albion",
-        "prediction": "Home win",
-        "date": "25/10/2022"
+        "fixture": "Atletico PR Vs Palmeiras",
+        "prediction": "Under 2.5",
+        "date": "26/10/2022"
     },
 
     {
-     "fixture": "Fleetwood Vs Forest Green Rovers",
-     "prediction": "Home win",
-     "date": "25/10/2022"
+     "fixture": "CS Alagoano- : -Villa Nova AC",
+     "prediction": "Over 1.5",
+     "date": "26/10/2022"
  },
  {
-     "fixture": "Barnsley- : -Lincoln",
-     "prediction": "Under 2.5",
-     "date": "25/10/2022"
- },
- {
-     "fixture": "Wuhan Three Towns- : -Dalian Pro",
-     "prediction": "Home Win",
-     "date": "25/10/2022"
- },
- {
-     "fixture": "Frydek Mistek Vs Liberec",
-     "prediction": "Away win",
-     "date": "25/10/2022"
- },
- {
-     "fixture": "Trinity Zlin Vs Jihlava",
-     "prediction": "Home win",
-     "date": "25/10/2022"
- },
- {
-     "fixture": "The New Saints- : -Caernarfon",
-     "prediction": "Over 2.5",
-     "date": "25/10/2022"
+     "fixture": "Daejeon Citizen- : -Gimcheon Sangmu",
+     "prediction": "1X (Double Chance)",
+     "date": "26/10/2022"
  }
-],   
+],
    
    "predictionResults":[
     {
