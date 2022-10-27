@@ -4,62 +4,58 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Oct 26 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thurs Oct 27 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Oct 26 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thurs Oct 27 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Oct 26 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thurs Oct 27 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":12     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Oct 26 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thurs Oct 27 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":14
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Wed Oct 26 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":12
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Thurs Oct 27 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":14
         }
       
    ],
     
     
    "freePredictions":[
-
     {
-        "fixture": "Club Brugge Vs Porto",
-        "prediction": "Home Win / Draw",
-        "date": "26/10/2022"
-    },
-    {
-        "fixture": "Inter Milan Vs Viktoria Plzen",
-        "prediction": "Home Win (ht-ft)",
-        "date": "26/10/2022"
-    },
- {
-        "fixture": "Eintracht Frankfurt Vs Marseille",
-        "prediction": "Draw (half-time)",
-        "date": "26/10/2022"
-    },
- {
-        "fixture": "Napoli Vs Rangers",
-        "prediction": "Home Win (3 Way)",
-        "date": "26/10/2022"
-    },
- {
-        "fixture": "Barcelona Vs Bayern Munich",
-        "prediction": "Both to score",
-        "date": "26/10/2022"
-    },
-    {
-        "fixture": "Tottenham Hotspur Vs Sporting Lisbon",
-        "prediction": "Both to score",
-        "date": "26/10/2022"
-    },
-    {
-        "fixture": "Atletico Madrid Vs Bayer 04 Leverkusen",
-        "prediction": "Under 2.5",
-        "date": "26/10/2022"
-    }
+            "fixture": "19:45PSV- : -Arsenal",
+            "prediction": "Away win",
+            "date": "27/10/2022"
+        },
+        {
+            "fixture": "Malmo FF- : -Royale Union Saint-Gilloise",
+            "prediction": "Over 2.5",
+            "date": "27/10/2022"
+        },
+     {
+            "fixture": "Ludogorets Razgrad- : -Betis",
+            "prediction": "Over 2.5",
+            "date": "27/10/2022"
+        },
+     {
+            "fixture": "HJK Helsinki- : -Roma",
+            "prediction": "Away win (ht-ft)",
+            "date": "27/10/2022"
+        },
+        {
+            "fixture": "Omonia Nicosia- : -Real Sociedad",
+            "prediction": "Away win",
+            "date": "27/10/2022"
+        },
+        {
+            "fixture": "Freiburg- : -Olympiakos Piraeus",
+            "prediction": "Home win",
+            "date": "27/10/2022"
+        }    
+    
+    
  ],
     "fixedPredictions":[
         {
@@ -87,66 +83,76 @@
     "paidPredictions":[
        
     {
-        "fixture": "Anyang Vs Suwon Bluewings",
-        "prediction": "1X",
-        "date": "26/10/2022"
+        "fixture": "Union Berlin- : -Sporting de Braga",
+        "prediction": "Under 2.5",
+        "date": "27/10/2022"
     },
     {
-        "fixture": "Velez Sarsfield Vs Central Cordoba",
-        "prediction": "Home Win",
-        "date": "26/10/2022"
-    },
- {
-        "fixture": "Platense Vs Lanus",
+        "fixture": "Fenerbahce- : -Stade Rennais",
         "prediction": "Both to score",
-        "date": "26/10/2022"
+        "date": "27/10/2022"
     },
  {
-        "fixture": "Sol de America Vs Tacuary",
-        "prediction": "Under 2.5",
-        "date": "26/10/2022"
+        "fixture": "AEK Larnaca- : -Dynamo Kyiv",
+        "prediction": "Home Win / Draw",
+        "date": "27/10/2022"
     },
  {
-        "fixture": "VPS Vs Haka",
-        "prediction": "Under 2.5",
-        "date": "26/10/2022"
-    },
- {
-        "fixture": "Sheffield Wednesday Vs Bristol Rovers",
+        "fixture": "Lazio- : -Midtjylland",
         "prediction": "Home Win",
-        "date": "26/10/2022"
+        "date": "27/10/2022"
     },
  {
-        "fixture": "Brusque Vs CRB Maceio",
-        "prediction": "Under 1.5",
-        "date": "26/10/2022"
+        "fixture": "Zurich- : -Bodo/Glimt",
+        "prediction": "Over 2.5",
+        "date": "27/10/2022"
     },
  {
-        "fixture": "Flamengo Vs Santos SP",
-        "prediction": "Home Win",
-        "date": "26/10/2022"
+        "fixture": "Manchester United- : -FC Sheriff Tiraspol",
+        "prediction": "1 0-1 (handicap)",
+        "date": "27/10/2022"
+    },
+ {
+        "fixture": "Fiorentina- : -Istanbul Basaksehir",
+        "prediction": "Both to score",
+        "date": "27/10/2022"
+    },
+ {
+        "fixture": "Austria Wien- : -Lech Poznan",
+        "prediction": "Draw (3-Way)",
+        "date": "27/10/2022"
     },
     {
-        "fixture": "Rapid Vienna Vs Hartberg",
-        "prediction": "Under 3.5",
-        "date": "26/10/2022"
+        "fixture": "FC Vaduz- : -AZ Alkmaar",
+        "prediction": "Away Win (3-Way)",
+        "date": "27/10/2022"
     },
     {
-        "fixture": "Atletico PR Vs Palmeiras",
-        "prediction": "Under 2.5",
-        "date": "26/10/2022"
+        "fixture": "Anderlecht- : -CSA Steaua",
+        "prediction": "Home Win (3-Way)",
+        "date": "27/10/2022"
     },
 
     {
-     "fixture": "CS Alagoano- : -Villa Nova AC",
-     "prediction": "Over 1.5",
-     "date": "26/10/2022"
+     "fixture": "Villarreal- : -Hapoel Beer Sheva",
+     "prediction": "X/1 (3-Way)",
+     "date": "27/10/2022"
  },
  {
-     "fixture": "Daejeon Citizen- : -Gimcheon Sangmu",
-     "prediction": "1X (Double Chance)",
-     "date": "26/10/2022"
- }
+     "fixture": "Sivasspor- : -CFR Cluj",
+     "prediction": "Draw (Half time)",
+     "date": "27/10/2022"
+ },
+ {
+    "fixture": "Banfield- : -Talleres",
+    "prediction": "Over 1.5",
+    "date": "27/10/2022"
+},
+{
+    "fixture": "Internacional RS- : -Ceará",
+    "prediction": "Draw (Half time)",
+    "date": "27/10/2022"
+}
 ],
    
    "predictionResults":[
