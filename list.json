@@ -156,6 +156,41 @@
 ],
    
    "predictionResults":[
+        {
+        "date": "Tuesday, 25th October 2022",
+        "gamesList": [
+         {
+             "fixture": "Van Pars Isfahan VS Esteghlal Khuzestan",
+             "prediction": "Over 4.5 & GG",
+             "odds": "5.33",
+             "results": "Odds 5.33 (WIN)"
+         },
+         {
+             "fixture": "Talaba Baghdad VS Naft Maysan",
+             "prediction": "Half Time Draw",
+             "odds": "2.49",
+             "results": "2.49 (WIN)"
+         },
+         {
+             "fixture": "Al Qaisoma VS Ohud Medina",
+             "prediction": "HT Correct Score 1-0",
+             "odds": "5.63",
+             "results": "Odds 5.63 (WIN)"
+         },
+             {
+             "fixture": "Real Kings VS Golden Arrows",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.37",
+             "results": "Odds 4.37 (WIN)"
+         },
+             {
+             "fixture": "FK Zlin VS Jihlava",
+             "prediction": "CS 2-0",
+             "odds": "8.09",
+             "results": "Odds 8.09 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Monday, 24th October 2022",
         "gamesList": [
