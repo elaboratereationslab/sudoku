@@ -25,38 +25,40 @@
     
    "freePredictions":[
     {
-            "fixture": "19:45PSV- : -Arsenal",
-            "prediction": "Away win",
-            "date": "27/10/2022"
-        },
-        {
-            "fixture": "Malmo FF- : -Royale Union Saint-Gilloise",
-            "prediction": "Over 2.5",
-            "date": "27/10/2022"
-        },
-     {
-            "fixture": "Ludogorets Razgrad- : -Betis",
-            "prediction": "Over 2.5",
-            "date": "27/10/2022"
-        },
-     {
-            "fixture": "HJK Helsinki- : -Roma",
-            "prediction": "Away win (ht-ft)",
-            "date": "27/10/2022"
-        },
-        {
-            "fixture": "Omonia Nicosia- : -Real Sociedad",
-            "prediction": "Away win",
-            "date": "27/10/2022"
-        },
-        {
-            "fixture": "Freiburg- : -Olympiakos Piraeus",
+            "fixture": "Eindhoven- : -Jong PSV Eindhoven",
             "prediction": "Home win",
-            "date": "27/10/2022"
+            "date": "28/10/2022"
+        },
+        {
+            "fixture": "VVV-Venlo- : -Jong AZ Alkmaar",
+            "prediction": "Under 3.5",
+            "date": "28/10/2022"
+        },
+     {
+            "fixture": "Stormvogels Telstar- : -Dordrecht",
+            "prediction": "Both to score",
+            "date": "28/10/2022"
+        },
+     {
+            "fixture": "Almere City- : -Heracles Almelo",
+            "prediction": "X2 (Both to score)",
+            "date": "28/10/2022"
+        },
+        {
+            "fixture": "PEC Zwolle- : -MVV Maastricht",
+            "prediction": "Home win (3 Way)",
+            "date": "28/10/2022"
+        },
+        {
+            "fixture": "De Graafschap- : -Top Oss",
+            "prediction": "Under 3.5",
+            "date": "28/10/2022"
         }    
     
     
  ],
+     
+     
     "fixedPredictions":[
         {
                "fixture": "IFK Norrkoping FK Vs Mjallby AIF",
