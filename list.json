@@ -8,16 +8,16 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Oct 28 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Oct 28 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Oct 28 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":12     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Oct 28 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":15     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Oct 28 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":14
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Oct 28 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":20
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Fri Oct 28 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":14
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Fri Oct 28 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":20
         }
       
    ],
