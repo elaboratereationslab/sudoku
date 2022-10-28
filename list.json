@@ -218,6 +218,65 @@
 ],
    
    "predictionResults":[
+    {
+        "date": "Wednesday, 26th October 2022",
+        "gamesList": [
+         {
+             "fixture": "Napoli Vs Glasgow Rangers",
+             "prediction": "Home win & Over 2.5",
+             "odds": "1.62",
+             "results": "3-0 (WIN)"
+         },
+         {
+             "fixture": "Ajax Vs Liverpool",
+             "prediction": "Over 2.5",
+             "odds": "1.46",
+             "results": "0-3 (WIN)"
+         },
+         {
+             "fixture": "Inter Vs Viktoria Plzen",
+             "prediction": "Over 2.5",
+             "odds": "1.45",
+             "results": "4-0 (WIN)"
+         },
+             {
+             "fixture": "Barcelona Vs Bayern",
+             "prediction": "Over 2.5",
+             "odds": "1.44",
+             "results": "0-3 (WIN)"
+         },
+             {
+             "fixture": "Rapid Wien Vs Hartberg",
+             "prediction": "Over 2.5",
+             "odds": "1.55",
+             "results": "5-1 (WIN)"
+         },
+         {
+            "fixture": "Eintracht F. Vs Marseille",
+            "prediction": "Over 1.5",
+            "odds": "1.31",
+            "results": "2-1 (WIN)"
+        },
+        {
+            "fixture": "Club Brugge Vs Porto",
+            "prediction": "Over 1.5",
+            "odds": "1.30",
+            "results": "0-4 (WIN)"
+        },
+        {
+            "fixture": "Treaty United Vs Waterford Utd",
+            "prediction": "Over 1.5",
+            "odds": "1.20",
+            "results": "1-4 (WIN)"
+        },
+        {
+            "fixture": "Slavia Prague W Vs Wolfsburg W",
+            "prediction": "Over 2.5",
+            "odds": "1.37",
+            "results": "0-2 (LOSS)"
+        }
+        ]
+     },
         {
         "date": "Tuesday, 25th October 2022",
         "gamesList": [
