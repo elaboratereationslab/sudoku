@@ -115,75 +115,105 @@
     "paidPredictions":[
        
     {
-        "fixture": "Union Berlin- : -Sporting de Braga",
-        "prediction": "Under 2.5",
-        "date": "27/10/2022"
+        "fixture": "Birmingham- : -Queens Park Rangers",
+        "prediction": "Away Win",
+        "date": "28/10/2022"
     },
     {
-        "fixture": "Fenerbahce- : -Stade Rennais",
+        "fixture": "Gazovik Orenburg- : -Fakel",
+        "prediction": "1X",
+        "date": "28/10/2022"
+    },
+ {
+        "fixture": "Genk- : -Mechelen",
         "prediction": "Both to score",
-        "date": "27/10/2022"
+        "date": "28/10/2022"
     },
  {
-        "fixture": "AEK Larnaca- : -Dynamo Kyiv",
-        "prediction": "Home Win / Draw",
-        "date": "27/10/2022"
+        "fixture": "Fatih Karagumruk- : -Galatasaray",
+        "prediction": "Under 3.5",
+        "date": "28/10/2022"
     },
  {
-        "fixture": "Lazio- : -Midtjylland",
-        "prediction": "Home Win",
-        "date": "27/10/2022"
-    },
- {
-        "fixture": "Zurich- : -Bodo/Glimt",
+        "fixture": "Werder Bremen- : -Hertha BSC",
         "prediction": "Over 2.5",
-        "date": "27/10/2022"
+        "date": "28/10/2022"
     },
  {
-        "fixture": "Manchester United- : -FC Sheriff Tiraspol",
-        "prediction": "1 0-1 (handicap)",
-        "date": "27/10/2022"
+        "fixture": "Pacos Ferreira- : -Maritimo",
+        "prediction": "Under 3.5",
+        "date": "28/10/2022"
     },
  {
-        "fixture": "Fiorentina- : -Istanbul Basaksehir",
-        "prediction": "Both to score",
-        "date": "27/10/2022"
+        "fixture": "Lens- : -Toulouse",
+        "prediction": "Home Win",
+        "date": "28/10/2022"
     },
  {
-        "fixture": "Austria Wien- : -Lech Poznan",
-        "prediction": "Draw (3-Way)",
-        "date": "27/10/2022"
+        "fixture": "Mallorca- : -Espanyol",
+        "prediction": "Over 1.5",
+        "date": "28/10/2022"
     },
     {
-        "fixture": "FC Vaduz- : -AZ Alkmaar",
-        "prediction": "Away Win (3-Way)",
-        "date": "27/10/2022"
+        "fixture": "Chindia Targoviste- : -Botosani",
+        "prediction": "Under 3.5",
+        "date": "28/10/2022"
     },
     {
-        "fixture": "Anderlecht- : -CSA Steaua",
-        "prediction": "Home Win (3-Way)",
-        "date": "27/10/2022"
+        "fixture": "Craiova 1948- : -Farul Constanta",
+        "prediction": "Over 2.5",
+        "date": "28/10/2022"
     },
 
     {
-     "fixture": "Villarreal- : -Hapoel Beer Sheva",
-     "prediction": "X/1 (3-Way)",
-     "date": "27/10/2022"
+     "fixture": "Western Sydney- : -Newcastle Jets",
+     "prediction": "Home Win",
+     "date": "28/10/2022"
  },
  {
-     "fixture": "Sivasspor- : -CFR Cluj",
-     "prediction": "Draw (Half time)",
-     "date": "27/10/2022"
+     "fixture": "Miedz Legnica- : -Pogon Szczecin",
+     "prediction": "Away Win",
+     "date": "28/10/2022"
  },
  {
-    "fixture": "Banfield- : -Talleres",
-    "prediction": "Over 1.5",
-    "date": "27/10/2022"
+    "fixture": "Gornik Zabrze- : -Widzew Lodz",
+    "prediction": "Away Win",
+    "date": "28/10/2022"
 },
 {
-    "fixture": "Internacional RS- : -Ceará",
-    "prediction": "Draw (Half time)",
-    "date": "27/10/2022"
+    "fixture": "Cerro Porteno- : -General Caballero",
+    "prediction": "Away Win",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "Zlate Moravce- : -MSK Zilina",
+    "prediction": "1X",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "Domzale- : -ND Gorica",
+    "prediction": "Home Win",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "Neuchatel Xamax- : -Thun",
+    "prediction": "Over 2.5",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "Lausanne Ouchy- : -Aarau",
+    "prediction": "Home Win",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "Deportivo Toluca- : -Pachuca",
+    "prediction": "Both to score",
+    "date": "28/10/2022"
+},
+{
+    "fixture": "SKU Amstetten- : -Grazer AK",
+    "prediction": "Home Win",
+    "date": "28/10/2022"
 }
 ],
    
