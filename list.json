@@ -53,9 +53,39 @@
             "fixture": "De Graafschap- : -Top Oss",
             "prediction": "Under 3.5",
             "date": "28/10/2022"
-        }    
-    
-    
+        },
+        {
+            "fixture": "Zlate Moravce- : -MSK Zilina",
+            "prediction": "1x Home Win/Draw",
+            "date": "28/10/2022"
+        },
+        {
+            "fixture": "Domzale- : -ND Gorica",
+            "prediction": "Home Win",
+            "date": "28/10/2022"
+        }      
+ ],
+ "fixedPredictions":[
+     {
+            "fixture": "IFK Norrkoping FK Vs Mjallby AIF",
+            "prediction": "Home Win",
+            "date": "10/10/2022"
+        },
+        {
+            "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+            "prediction": "Home Win",
+            "date": "10/10/2022"
+        },
+     {
+            "fixture": "Istanbul Basaksehir Vs Sivasspor",
+            "prediction": "Home win, Over 1.5",
+            "date": "10/10/2022"
+        },
+     {
+            "fixture": "FC Oleksandriya Vs FC Metalist 1925 Kharkiv",
+            "prediction": "Home Win",
+            "date": "10/10/2022"
+        }     
  ],
      
      
