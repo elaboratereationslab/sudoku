@@ -218,6 +218,77 @@
 ],
    
    "predictionResults":[
+        
+        {
+        "date": "Thursday, 27th October 2022",
+        "gamesList": [
+         {
+             "fixture": "Petro Atletico VS Recreativo Libolo",
+             "prediction": "Correct Score 0-1 ",
+             "odds": "5.68",
+             "results": "Odds 5.68 (WIN)"
+         },
+         {
+             "fixture": "JS Massira VS Chabab Kh莨�nifra",
+             "prediction": "Draw Fixed",
+             "odds": "3.06",
+             "results": "3.05 (WIN)"
+         },
+         {
+             "fixture": "FC Pisek VS Admira Praha",
+             "prediction": "HT Draw",
+             "odds": "2.37",
+             "results": "Odds 2.37 (WIN)"
+         },
+             {
+             "fixture": "Markez Balata VS Ahli Al-Khalil",
+             "prediction": "HT/FT X/1",
+             "odds": "5.39",
+             "results": "Odds 5.39 (WIN)"
+         },
+             {
+             "fixture": "R��gas FS II VS Valmiera II ",
+             "prediction": "Over 5.5 Goals",
+             "odds": "6.42",
+             "results": "Odds 6.42 (WIN)"
+         }
+        ]
+     },
+        {
+        "date": "Friday, 27th October 2022",
+        "gamesList": [
+         {
+             "fixture": "Resistencia SC VS Olimpia Asunci��n",
+             "prediction": "GG & Over 3.5",
+             "odds": "4.67",
+             "results": "Odds 4.67 (WIN)"
+         },
+         {
+             "fixture": "Pahang FA VS Terengganu",
+             "prediction": "Over 4.5",
+             "odds": "4.39",
+             "results": "4.39 (WIN)"
+         },
+         {
+             "fixture": "Sanat Naft AC VS Paykan FC",
+             "prediction": "HT/FT 1/X",
+             "odds": "5.28",
+             "results": "Odds 5.28 (WIN)"
+         },
+             {
+             "fixture": "Persepolis FC VS Mes Kerman ",
+             "prediction": "Correct Score 1-0",
+             "odds": "5.44",
+             "results": "Odds 5.44 (WIN)"
+         },
+             {
+             "fixture": "Dinamo Bucuresti VS CSM Slatina",
+             "prediction": "Under 0.5 Goals",
+             "odds": "6.37",
+             "results": "Odds 6.37 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Wednesday, 26th October 2022",
         "gamesList": [
