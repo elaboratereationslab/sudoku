@@ -4,20 +4,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Oct 30 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Oct 31 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Oct 30 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Oct 31 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Oct 30 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Oct 31 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Oct 30 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Oct 31 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
         },
         {
-           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Sun Oct 30 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":16
+           "name": "Fixed Matches", "amount": "Ksh1,000" , "accessDays": "Mon Oct 31 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_fixed_sub","length":16
         }
       
    ],
@@ -25,35 +25,40 @@
     
    "freePredictions":[
     {
-            "fixture": "AZ v FC Volendam",
-            "prediction": "Over 1.5",
-            "date": "30/10/2022"
-        },
-        {
-            "fixture": "Elfsborg Vs Helsingborg",
-            "prediction": "Under 3.5",
-            "date": "30/10/2022"
-        },
-     {
-            "fixture": "Real Madrid Vs Girona",
-            "prediction": "Home Win",
-            "date": "30/10/2022"
-        },
-     {
-            "fixture": "PSV Vs NEC",
-            "prediction": "Home win, Over 1.5",
-            "date": "30/10/2022"
-        },
-        {
-            "fixture": "FC Sion- : -Zurich",
-            "prediction": "Over 2.5",
-            "date": "30/10/2022"
-        },
-        {
-            "fixture": "Young Boys- : -FC Basel",
+            "fixture": "Hellas Verona Vs Roma",
             "prediction": "Both to score",
-            "date": "30/10/2022"
-        }    
+            "date": "31/10/2022"
+        },
+        {
+            "fixture": "Vitoria Guimaraes Vs Famalicao",
+            "prediction": "Both to score",
+            "date": "31/10/2022"
+        },
+     {
+            "fixture": "Kolos-Kovalivka Kyiv Vs Veres Rivne",
+            "prediction": "Home Win",
+            "date": "31/10/2022"
+        },
+     {
+            "fixture": "	Jong Ajax Amsterdam  Vs Willem II",
+            "prediction": "Over 1.5",
+            "date": "31/10/2022"
+        },
+        {
+            "fixture": "FC Midtjylland Vs Odense BK",
+            "prediction": "Over 1.5",
+            "date": "31/10/2022"
+        },
+        {
+            "fixture": "Vasalunds IF – Taby FK",
+            "prediction": "Over 1.5",
+            "date": "31/10/2022"
+        },
+        {
+            "fixture": "IF Elfsborg Vs Helsingborgs IF",
+            "prediction": "Over 1.5",
+            "date": "31/10/2022"
+        } 
  ],
  "fixedPredictions":[
      {
