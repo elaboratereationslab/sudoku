@@ -88,83 +88,83 @@
  "paidPredictions":[
     
     {
-        "fixture": "Empoli- : -Atalanta",
-        "prediction": "Away Win",
-        "date": "30/10/2022"
-    },
-    {
-        "fixture": "Lazio- : -Salernitana 191",
-        "prediction": "Home win",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "Torino- : -AC Milan",
-        "prediction": "Away win / Draw",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "Nantes- : -Clermont Foot",
-        "prediction": "Over 2.5",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "AS Monaco- : -Angers SCO",
-        "prediction": "Home win",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "Lorient- : -Nice",
-        "prediction": "Home win",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "Livingston- : -Celtic",
-        "prediction": "Away win",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "Sochi- : -Ural",
-        "prediction": "Home win",
-        "date": "30/10/2022"
-    },
- {
-        "fixture": "FK Krasnodar- : -Zenit St Petersburg",
+        "fixture": "Stuttgart- : -Augsburg",
         "prediction": "Over 3.5",
-        "date": "30/10/2022"
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Leipzig- : -Bayer 04 Leverkusen",
+        "prediction": "Over 2.5",
+        "date": "31/10/2022"
     },
  {
-        "fixture": "Arsenal- : -Nottm Forest",
-        "prediction": "Home win / Draw",
-        "date": "30/10/2022"
+        "fixture": "Bayern Munich- : -Mainz 05",
+        "prediction": "Home win (ht-ft)",
+        "date": "31/10/2022"
     },
-    {
-        "fixture": "Manchester United- : -West Ham United",
+ {
+        "fixture": "Bristol City- : -Swansea",
         "prediction": "Both to score",
-        "date": "30/10/2022"
+        "date": "31/10/2022"
     },
-    {
-        "fixture": "FC Koln- : -TSG Hoffenheim",
-        "prediction": "Over 2.5",
-        "date": "30/10/2022"
+ {
+        "fixture": "Burnley- : -Reading",
+        "prediction": "Home Win",
+        "date": "31/10/2022"
     },
-    {
-        "fixture": "Osasuna- : -Real Valladolid",
-        "prediction": "Under 2.5",
-        "date": "30/10/2022"
-    },
-    {
-        "fixture": "Lechia Gdansk- : -Stal Miele",
+ {
+        "fixture": "Cardiff City- : -Rotherham United",
         "prediction": "Home win",
-        "date": "30/10/2022"
+        "date": "31/10/2022"
     },
-    {
-        "fixture": "Viking FK- : -Molde",
+ {
+        "fixture": "Rangers- : -Aberdeen",
+        "prediction": "Under 3.5",
+        "date": "31/10/2022"
+    },
+ {
+        "fixture": "Dundee United- : -Motherwell",
+        "prediction": "Home Win / Draw",
+        "date": "31/10/2022"
+    },
+ {
+        "fixture": "Paris SG- : -Troyes AC",
+        "prediction": "Over 3.5",
+        "date": "31/10/2022"
+    },
+ {
+        "fixture": "Sparta Rotterdam- : -Fortuna Sittard",
         "prediction": "Over 2.5",
-        "date": "30/10/2022"
+        "date": "31/10/2022"
     },
     {
-        "fixture": "Slovan Bratislava- : -Liptovsky Mikulas",
+        "fixture": "Valencia- : -Barcelona",
+        "prediction": "Both to score",
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Lecce- : -Juventus",
+        "prediction": "Away Win",
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Zulte-Waregem- : -Standard Liege",
+        "prediction": "Over 1.5",
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Yokohama Marinos- : -Urawa Red Diamonds",
         "prediction": "Home win",
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Beitar Jerusalem- : -Hapoel Haifa",
+        "prediction": "Over 2.5",
+        "date": "31/10/2022"
+    },
+    {
+        "fixture": "Valerenga- : -Sarpsborg 08",
+        "prediction": "Under 3.5",
         "date": "30/10/2022"
     }
 ],
