@@ -1,9 +1,9 @@
 {
      
     "visibility": true,
-     "showBannerAd": true,
+     "showBannerAd": false,
      "showInterstitialAd": false,
-     "showNativeAd": true,
+     "showNativeAd": false,
        
        "plans":[
        {
@@ -27,7 +27,7 @@
     {
             "fixture": "Porto- : -Atletico Madrid",
             "prediction": "Under 2.5",
-            "date": "11/1/2022"
+            "date": "1/11/2022"
         },
         {
             "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
@@ -41,7 +41,7 @@
     {
             "fixture": "Porto- : -Atletico Madrid",
             "prediction": "Under 2.5",
-            "date": "11/1/2022"
+            "date": "1/11/2022"
         },
         {
             "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
