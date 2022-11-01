@@ -11,13 +11,13 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 2 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 2 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":9
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 2 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 2 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":11     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 2 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 2 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":14
         }
       
    ],
