@@ -17,7 +17,7 @@
            "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 1 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 1 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 1 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
         }
         
       
@@ -110,11 +110,6 @@
     {
         "fixture": "Coventry City- : -Blackburn Rovers",
         "prediction": "Over 3.5",
-        "date": "1/11/2022"
-    },
-    {
-        "fixture": "Luton Town- : -Reading",
-        "prediction": "Under 2.5",
         "date": "1/11/2022"
     },
  {
