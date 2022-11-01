@@ -4,20 +4,36 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 1 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "$0" , "accessDays": "Tue Nov 1 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 1 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Tue Nov 1 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 1 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":13     
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Tue Nov 1 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 1 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount": "$5" , "accessDays": "Tue Nov 1 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":17
+        },
+        {
+           "name": "Jackpot Tips", "amount": "$10" , "accessDays": "Tue Nov 1 2022", "odds":"Get 5 Fixed Matches!!",  "id":"id_jackpot_sub","length":17
         }
       
    ],
+
+   "jackpotPredictions":[
+    {
+            "fixture": "Porto- : -Atletico Madrid",
+            "prediction": "Under 2.5",
+            "date": "11/1/2022"
+        },
+        {
+            "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
+            "prediction": "Both to score",
+            "date": "1/11/2022"
+        }
+    ],
     
     
    "freePredictions":[
