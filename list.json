@@ -1,25 +1,24 @@
 {
      
     "visibility": true,
-     "showBannerAd": false,
-     "showInterstitialAd": false,
-     "showNativeAd": false,
+    "showBannerAd": false,
+    "showInterstitialAd": false,
+    "showNativeAd": false,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 1 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 2 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 1 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 2 2022", "odds":"Total Basic Tips = 13.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 1 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":13     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 2 2022", "odds":"Total Standard Tips = 62.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 1 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 2 2022", "odds":"Total Premium Tips = 185.29 + Odds",  "id":"id_premium_sub","length":13
         }
-        
       
    ],
 
@@ -27,7 +26,7 @@
     {
             "fixture": "Porto- : -Atletico Madrid",
             "prediction": "Under 2.5",
-            "date": "1/11/2022"
+            "date": "11/1/2022"
         },
         {
             "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
@@ -39,45 +38,37 @@
     
    "freePredictions":[
     {
-            "fixture": "Porto- : -Atletico Madrid",
-            "prediction": "Under 2.5",
-            "date": "1/11/2022"
-        },
-        {
-            "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
+            "fixture": "Shakhtar Donetsk- : -RB Leipzig",
             "prediction": "Both to score",
-            "date": "1/11/2022"
+            "date": "2/11/2022"
         },
-     {
-            "fixture": "Liverpool- : -Napoli",
+        {
+            "fixture": "Real Madrid- : -Celtic",
             "prediction": "Home Win",
-            "date": "1/11/2022"
+            "date": "2/11/2022"
         },
      {
-            "fixture": "Viktoria Plzen- : -Barcelona",
-            "prediction": "2 2-0 (Handicap)",
-            "date": "1/11/2022"
+            "fixture": "Maccabi Haifa- : -Benfica",
+            "prediction": "Away Win (ht-ft)",
+            "date": "2/11/2022"
         },
-        {
-            "fixture": "Rangers- : -Ajax",
-            "prediction": "Over 1.5",
-            "date": "1/11/2022"
-        },
-        {
-            "fixture": "Sporting Lisbon- : -Eintracht Frankfurt",
+     {
+            "fixture": "Manchester City- : -Sevilla",
             "prediction": "Home Win / Draw",
-            "date": "1/10/2022"
+            "date": "2/11/2022"
         },
         {
-            "fixture": "Bayern Munich- : -Inter Milan",
-            "prediction": "Home Win",
-            "date": "1/11/2022"
+            "fixture": "Juventus- : -Paris SG",
+            "prediction": "Away Win",
+            "date": "2/11/2022"
         },
         {
-            "fixture": "Marseille- : -Tottenham Hotspur",
-            "prediction": "Both to score",
-            "date": "1/11/2022"
-        } 
+            "fixture": "Chelsea- : -Dinamo Zagreb",
+            "prediction": "1 0-1 (Handicap)",
+            "date": "2/11/2022"
+        }
+        
+
 
  ],
  "fixedPredictions":[
@@ -108,84 +99,74 @@
  "paidPredictions":[
     
     {
-        "fixture": "Coventry City- : -Blackburn Rovers",
-        "prediction": "Over 3.5",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "Luton Town- : -Reading",
-        "prediction": "Home win",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "Bristol City- : -Sheffield United",
-        "prediction": "Over 1.5",
-        "date": "1/1/2022"
-    },
- {
-        "fixture": "Ponferradina- : -Huesca",
-        "prediction": "Both Score",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "Zaragoza- : -FC Andorra",
-        "prediction": "Home win",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "22:00UD Ibiza Eivissa- : -Leganes",
-        "prediction": "Over 1.5",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "Graficar Beograd- : -Vojvodina Novi Sad",
-        "prediction": "Away Win / Draw",
-        "date": "1/10/2022"
-    },
- {
-        "fixture": "General Caballero- : -Resistencia SC",
-        "prediction": "Home Win",
-        "date": "1/11/2022"
-    },
- {
-        "fixture": "Tranmere- : -Stockport County",
-        "prediction": "Away Win / Draw",
-        "date": "1/11/2022"
-    },
-    {
-        "fixture": "Morecambe- : -Derby County",
+        "fixture": "Copenhagen- : -Borussia Dortmund",
         "prediction": "Away Win",
-        "date": "1/11/2022"
+        "date": "2/11/2022"
     },
     {
-        "fixture": "Oxford United- : -Fleetwood",
+        "fixture": "AC Milan- : -FC Red Bull Salzburg",
+        "prediction": "Both to score",
+        "date": "2/11/2022"
+    },
+ {
+        "fixture": "Cherno More Varna- : -Levski Sofia",
+        "prediction": "Under 2.5",
+        "date": "2/11/2022"
+    },
+ {
+        "fixture": "Cardiff City- : -Watford",
         "prediction": "Over 2.5",
-        "date": "1/11/2022"
+        "date": "2/1/2022"
     },
-    {
-        "fixture": "Wycombe Wanderers- : -Port Vale",
+ {
+        "fixture": "Burnley- : -Rotherham United",
         "prediction": "Home Win",
-        "date": "1/11/2022"
+        "date": "2/11/2022"
     },
-    {
-        "fixture": "CD Universidad Catolica- : -Audax Italiano Santiago",
+ {
+        "fixture": "Dinamo Minsk- : -Energetik-BGU",
         "prediction": "Home win",
-        "date": "1/11/2022"
+        "date": "2/11/2022"
+    },
+ {
+        "fixture": "Eibar- : -Lugo",
+        "prediction": "Home Win",
+        "date": "2/11/2022"
+    },
+ {
+        "fixture": "Atletico PR- : -Goias",
+        "prediction": "Home Win",
+        "date": "2/10/2022"
+    },
+ {
+        "fixture": "Malavan- : -Foolad Khuzestan",
+        "prediction": "Under 2.5",
+        "date": "2/11/2022"
+    },
+ {
+        "fixture": "CD Mirandes- : -Tenerife",
+        "prediction": "Away Win / Draw",
+        "date": "2/11/2022"
     },
     {
-        "fixture": "Liverpool- : -Napoli",
-        "prediction": "Over 2.5",
-        "date": "1/11/2022"
+        "fixture": "Manchester City- : -Sevilla",
+        "prediction": "Home Win / Draw",
+        "date": "2/11/2022"
     },
     {
-        "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
+        "fixture": "AC Milan- : -FC Red Bull Salzburg",
         "prediction": "Both to score",
-        "date": "1/11/2022"
+        "date": "2/11/2022"
     },
     {
-        "fixture": "Bayer 04 Leverkusen- : -Club Brugge",
-        "prediction": "Both to score",
-        "date": "1/11/2022"
+        "fixture": "Copenhagen- : -Borussia Dortmund",
+        "prediction": "Away Win",
+        "date": "2/11/2022"
+    },
+    {
+        "fixture": "Copenhagen- : -Borussia Dortmund",
+        "prediction": "Away Win",
+        "date": "2/11/2022"
     }
 ],
 
