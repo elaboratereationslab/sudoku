@@ -7,20 +7,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thurs Nov 3 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Nov 4 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thurs Nov 3 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Nov 4 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thurs Nov 3 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 4 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thurs Nov 3 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 4 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Thurs Nov 3 2022", "odds":"Jackpot Guaranteed Sportpesa Bonus!!",  "id":"id_jackpot_sub","length":13
+            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Fri Nov 4 2022", "odds":"Jackpot Guaranteed Sportpesa Bonus!!",  "id":"id_jackpot_sub","length":13
          }
       
    ],
@@ -117,29 +117,29 @@
     
    "freePredictions":[
     {
-            "fixture": "lympiakos Piraeus- : -Nantes",
-            "prediction": "Away Win",
-            "date": "3/11/2022"
+            "fixture": "Monchengladbach- : -Stuttgart",
+            "prediction": "Under 3.5",
+            "date": "4/11/2022"
         },
         {
-            "fixture": "Real Sociedad- : -Manchester United",
-            "prediction": "Away Win / Draw",
-            "date": "3/11/2022"
+            "fixture": "Aberdeen- : -Hibernian",
+            "prediction": "Both to score",
+            "date": "4/11/2022"
         },
      {
-            "fixture": "FC Sheriff Tiraspol- : -Omonia Nicosia",
-            "prediction": "Home Win",
-            "date": "3/11/2022"
+            "fixture": "Cambuur- : -NEC",
+            "prediction": "Away Win",
+            "date": "4/11/2022"
         },
      {
-            "fixture": "Betis- : -HJK Helsinki",
+            "fixture": "Udinese Calcio- : -Lecce",
             "prediction": "Home Win",
-            "date": "2/11/2022"
+            "date": "4/11/2022"
         },
         {
-            "fixture": "Roma- : -Ludogorets Razgrad",
-            "prediction": "Away Win",
-            "date": "2/11/2022"
+            "fixture": "Reading- : -Preston North End",
+            "prediction": "Draw",
+            "date": "4/11/2022"
         }
 
 
@@ -172,74 +172,74 @@
  "paidPredictions":[
     
     {
-        "fixture": "Sporting de Braga- : -Malmo FF",
-        "prediction": "Over 1.5",
-        "date": "3/11/2022"
+        "fixture": "FK Khimki- : -Gazovik Orenburg",
+        "prediction": "Over 2.5",
+        "date": "4/11/2022"
     },
     {
-        "fixture": "Istanbul Basaksehir- : -Heart of Midlothian",
-        "prediction": "Over 2.5",
-        "date": "3/11/2022"
+        "fixture": "Kasimpasa- : -MKE Ankaragucu",
+        "prediction": "Home Win",
+        "date": "4/11/2022"
     },
  {
-        "fixture": "FK Zalgiris Vilnius- : -Slovan Bratislava",
+        "fixture": "Umraniyespor- : -Alanyaspor",
         "prediction": "Away Win / Draw",
-        "date": "3/11/2022"
+        "date": "4/11/2022"
     },
  {
-        "fixture": "Slavia Prague- : -Sivasspor",
+        "fixture": "Girona- : -Athletic Bilbao",
+        "prediction": "Under 2.5",
+        "date": "4/1/2022"
+    },
+ {
+        "fixture": "Septemvri Sofia- : -Hebar",
         "prediction": "Both to score",
-        "date": "3/1/2022"
+        "date": "4/11/2022"
     },
  {
-        "fixture": "CFR Cluj- : -Ballkani",
+        "fixture": "Deportivo Alaves- : -Zaragoza",
+        "prediction": "Home win",
+        "date": "4/11/2022"
+    },
+ {
+        "fixture": "Vorskla Poltava- : -FK Lviv",
         "prediction": "Home Win",
-        "date": "3/11/2022"
+        "date": "4/11/2022"
     },
  {
-        "fixture": "Pyunik Yerevan- : -FC Basel",
-        "prediction": "Away win",
-        "date": "3/11/2022"
+        "fixture": "Dordrecht- : -Jong Ajax",
+        "prediction": "Over 3.5",
+        "date": "4/10/2022"
     },
  {
-        "fixture": "FC Koln- : -Nice",
-        "prediction": "Both to score",
-        "date": "3/11/2022"
-    },
- {
-        "fixture": "Avai- : -Bragantino",
-        "prediction": "Over 1.5",
-        "date": "3/10/2022"
-    },
- {
-        "fixture": "Palmeiras- : -Fortaleza",
-        "prediction": "Home Win",
-        "date": "3/11/2022"
-    },
- {
-        "fixture": "Changchun Yatai- : -Shanghai Shenhua",
-        "prediction": "Home Win",
-        "date": "3/11/2022"
-    },
-    {
-        "fixture": "Cartagena- : -Malaga",
-        "prediction": "Home Win",
-        "date": "3/11/2022"
-    },
-    {
-        "fixture": "Granada- : -Levante UD",
+        "fixture": "ADO Den Haag- : -VVV-Venlo",
         "prediction": "Over 2.5",
-        "date": "3/11/2022"
+        "date": "4/11/2022"
+    },
+ {
+        "fixture": "Willem II- : -Heracles Almelo",
+        "prediction": "Home Win / Draw",
+        "date": "4/11/2022"
     },
     {
-        "fixture": "Sandnes Ulf- : -Kongsvinger",
+        "fixture": "NAC- : -Stormvogels Telstar",
         "prediction": "Home Win",
-        "date": "3/11/2022"
+        "date": "4/11/2022"
     },
     {
-        "fixture": "Sandnes Ulf- : -Kongsvinger",
+        "fixture": "Legia Warsaw- : -Lechia Gdansk",
+        "prediction": "Under 3.5",
+        "date": "4/11/2022"
+    },
+    {
+        "fixture": "Mafra- : -Sporting Covilha",
         "prediction": "Home Win",
-        "date": "3/11/2022"
+        "date": "4/11/2022"
+    },
+    {
+        "fixture": "Farul Constanta- : -CS Mioveni",
+        "prediction": "Home Win",
+        "date": "4/11/2022"
     }
 ],
 
