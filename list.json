@@ -7,20 +7,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Nov 4 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Nov 5 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Nov 4 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Nov 5 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 4 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Nov 5 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 4 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Nov 5 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Fri Nov 4 2022", "odds":"Jackpot Guaranteed Sportpesa Bonus!!",  "id":"id_jackpot_sub","length":13
+            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Sat Nov 5 2022", "odds":"Jackpot Guaranteed Sportpesa Bonus!!",  "id":"id_jackpot_sub","length":13
          }
       
    ],
@@ -117,30 +117,36 @@
     
    "freePredictions":[
     {
-            "fixture": "Monchengladbach- : -Stuttgart",
-            "prediction": "Under 3.5",
-            "date": "4/11/2022"
+            "fixture": "Sheffield United- : -Burnley",
+            "prediction": "Under 2.5",
+            "date": "5/11/2022"
         },
         {
-            "fixture": "Aberdeen- : -Hibernian",
-            "prediction": "Both to score",
-            "date": "4/11/2022"
-        },
-     {
-            "fixture": "Cambuur- : -NEC",
+            "fixture": "Rotherham United- : -Norwich",
             "prediction": "Away Win",
-            "date": "4/11/2022"
+            "date": "5/11/2022"
         },
      {
-            "fixture": "Udinese Calcio- : -Lecce",
+            "fixture": "Watford- : -Coventry City",
             "prediction": "Home Win",
-            "date": "4/11/2022"
+            "date": "5/11/2022"
+        },
+     {
+            "fixture": "Swansea- : -Wigan Athletic",
+            "prediction": "Home Win",
+            "date": "5/11/2022"
         },
         {
-            "fixture": "Reading- : -Preston North End",
-            "prediction": "Draw",
-            "date": "4/11/2022"
+            "fixture": "Sunderland- : -Cardiff City",
+            "prediction": "Over 2.5",
+            "date": "5/11/2022"
+        },
+        {
+            "fixture": "Stoke City- : -Birmingham",
+            "prediction": "2 / Draw",
+            "date": "5/11/2022"
         }
+
 
 
  ],
@@ -172,74 +178,74 @@
  "paidPredictions":[
     
     {
-        "fixture": "FK Khimki- : -Gazovik Orenburg",
-        "prediction": "Over 2.5",
-        "date": "4/11/2022"
+        "fixture": "Millwall- : -Hull City",
+        "prediction": "Home Win",
+        "date": "5/11/2022"
     },
     {
-        "fixture": "Kasimpasa- : -MKE Ankaragucu",
-        "prediction": "Home Win",
-        "date": "4/11/2022"
-    },
- {
-        "fixture": "Umraniyespor- : -Alanyaspor",
+        "fixture": "South Shields- : -Forest Green Rovers",
         "prediction": "Away Win / Draw",
-        "date": "4/11/2022"
+        "date": "5/11/2022"
     },
  {
-        "fixture": "Girona- : -Athletic Bilbao",
-        "prediction": "Under 2.5",
-        "date": "4/1/2022"
-    },
- {
-        "fixture": "Septemvri Sofia- : -Hebar",
-        "prediction": "Both to score",
-        "date": "4/11/2022"
-    },
- {
-        "fixture": "Deportivo Alaves- : -Zaragoza",
-        "prediction": "Home win",
-        "date": "4/11/2022"
-    },
- {
-        "fixture": "Vorskla Poltava- : -FK Lviv",
-        "prediction": "Home Win",
-        "date": "4/11/2022"
-    },
- {
-        "fixture": "Dordrecht- : -Jong Ajax",
-        "prediction": "Over 3.5",
-        "date": "4/10/2022"
-    },
- {
-        "fixture": "ADO Den Haag- : -VVV-Venlo",
-        "prediction": "Over 2.5",
-        "date": "4/11/2022"
-    },
- {
-        "fixture": "Willem II- : -Heracles Almelo",
+        "fixture": "Bradford City- : -Harrogate Town",
         "prediction": "Home Win / Draw",
-        "date": "4/11/2022"
+        "date": "5/11/2022"
     },
-    {
-        "fixture": "NAC- : -Stormvogels Telstar",
+ {
+        "fixture": "Maidenhead United- : -Dagenham and Redbridge",
+        "prediction": "Draw",
+        "date": "5/1/2022"
+    },
+ {
+        "fixture": "Buxton FC- : -Merthyr Town",
         "prediction": "Home Win",
-        "date": "4/11/2022"
+        "date": "5/11/2022"
     },
-    {
-        "fixture": "Legia Warsaw- : -Lechia Gdansk",
-        "prediction": "Under 3.5",
-        "date": "4/11/2022"
+ {
+        "fixture": "Cheltenham Town- : -Alvechurch",
+        "prediction": "Over 2.5",
+        "date": "5/11/2022"
     },
-    {
-        "fixture": "Mafra- : -Sporting Covilha",
+ {
+        "fixture": "Burton Albion- : -Needham Market",
+        "prediction": "Over 2.5",
+        "date": "5/11/2022"
+    },
+ {
+        "fixture": "Sutton United- : -Farnborough",
         "prediction": "Home Win",
-        "date": "4/11/2022"
+        "date": "5/10/2022"
+    },
+ {
+        "fixture": "Manchester City- : -Fulham",
+        "prediction": "Home Win",
+        "date": "5/11/2022"
+    },
+ {
+        "fixture": "Everton- : -Leicester City",
+        "prediction": "Both to score",
+        "date": "5/11/2022"
     },
     {
-        "fixture": "Farul Constanta- : -CS Mioveni",
+        "fixture": "Borussia Dortmund- : -VfL Bochum1",
         "prediction": "Home Win",
-        "date": "4/11/2022"
+        "date": "5/11/2022"
+    },
+    {
+        "fixture": "Celtic- : -Dundee United",
+        "prediction": "1 0-2 (Handicap)",
+        "date": "5/11/2022"
+    },
+    {
+        "fixture": "CSKA Moscow- : -Pari Nizhny Novgorod",
+        "prediction": "Home Win",
+        "date": "5/11/2022"
+    },
+    {
+        "fixture": "Sporting Lisbon- : -Vitoria Guimaraes",
+        "prediction": "Home Win",
+        "date": "5/11/2022"
     }
 ],
 
