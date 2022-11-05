@@ -7,21 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Nov 5 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Nov 6 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Nov 5 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 6 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Nov 5 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 6 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Nov 5 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
-        },
-        {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Sat Nov 5 2022", "odds":"Jackpot Guaranteed Sportpesa Bonus!!",  "id":"id_jackpot_sub","length":13
-         }
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 6 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
+        }
+        
       
    ],
 
@@ -117,34 +115,34 @@
     
    "freePredictions":[
     {
-            "fixture": "Sheffield United- : -Burnley",
-            "prediction": "Under 2.5",
-            "date": "5/11/2022"
+            "fixture": "Utrecht- : -Groningen",
+            "prediction": "Both to score",
+            "date": "6/11/2022"
         },
         {
-            "fixture": "Rotherham United- : -Norwich",
-            "prediction": "Away Win",
-            "date": "5/11/2022"
+            "fixture": "Antwerp- : -Anderlecht",
+            "prediction": "Both to score",
+            "date": "6/11/2022"
         },
      {
-            "fixture": "Watford- : -Coventry City",
+            "fixture": "Monza 1912- : -Hellas Verona",
             "prediction": "Home Win",
-            "date": "5/11/2022"
+            "date": "6/11/2022"
         },
      {
             "fixture": "Swansea- : -Wigan Athletic",
             "prediction": "Home Win",
-            "date": "5/11/2022"
+            "date": "6/11/2022"
         },
         {
-            "fixture": "Sunderland- : -Cardiff City",
-            "prediction": "Over 2.5",
-            "date": "5/11/2022"
+            "fixture": "Juventus- : -Inter Milan",
+            "prediction": "Both to score",
+            "date": "6/11/2022"
         },
         {
-            "fixture": "Stoke City- : -Birmingham",
-            "prediction": "2 / Draw",
-            "date": "5/11/2022"
+            "fixture": "Molde- : -Sandefjord",
+            "prediction": "Home Win",
+            "date": "6/11/2022"
         }
 
 
@@ -178,74 +176,74 @@
  "paidPredictions":[
     
     {
-        "fixture": "Millwall- : -Hull City",
-        "prediction": "Home Win",
-        "date": "5/11/2022"
-    },
-    {
-        "fixture": "South Shields- : -Forest Green Rovers",
-        "prediction": "Away Win / Draw",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Bradford City- : -Harrogate Town",
-        "prediction": "Home Win / Draw",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Maidenhead United- : -Dagenham and Redbridge",
-        "prediction": "Draw",
-        "date": "5/1/2022"
-    },
- {
-        "fixture": "Buxton FC- : -Merthyr Town",
-        "prediction": "Home Win",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Cheltenham Town- : -Alvechurch",
-        "prediction": "Over 2.5",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Burton Albion- : -Needham Market",
-        "prediction": "Over 2.5",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Sutton United- : -Farnborough",
-        "prediction": "Home Win",
-        "date": "5/10/2022"
-    },
- {
-        "fixture": "Manchester City- : -Fulham",
-        "prediction": "Home Win",
-        "date": "5/11/2022"
-    },
- {
-        "fixture": "Everton- : -Leicester City",
+        "fixture": "Ajax- : -PSV",
         "prediction": "Both to score",
-        "date": "5/11/2022"
+        "date": "6/11/2022"
     },
     {
-        "fixture": "Borussia Dortmund- : -VfL Bochum1",
+        "fixture": "Sporting de Braga- : -Casa Pia Atletico",
         "prediction": "Home Win",
-        "date": "5/11/2022"
+        "date": "6/11/2022"
     },
-    {
-        "fixture": "Celtic- : -Dundee United",
-        "prediction": "1 0-2 (Handicap)",
-        "date": "5/11/2022"
+ {
+        "fixture": "Maritimo- : -Famalicao",
+        "prediction": "Home Win / Draw",
+        "date": "6/11/2022"
     },
-    {
-        "fixture": "CSKA Moscow- : -Pari Nizhny Novgorod",
+ {
+        "fixture": "Atletico Madrid- : -Espanyol",
         "prediction": "Home Win",
-        "date": "5/11/2022"
+        "date": "6/1/2022"
+    },
+ {
+        "fixture": "Villarreal- : -Mallorca",
+        "prediction": "Home Win",
+        "date": "6/11/2022"
+    },
+ {
+        "fixture": "Betis- : -Sevilla",
+        "prediction": "Both to score",
+        "date": "6/11/2022"
+    },
+ {
+        "fixture": "Bayer 04 Leverkusen- : -Union Berlin",
+        "prediction": "Both to score",
+        "date": "6/11/2022"
+    },
+ {
+        "fixture": "Freiburg- : -FC Koln",
+        "prediction": "Over 2.5",
+        "date": "6/10/2022"
+    },
+ {
+        "fixture": "Lorient- : -Paris SG",
+        "prediction": "Under 3.5",
+        "date": "6/11/2022"
+    },
+ {
+        "fixture": "Clermont Foot- : -Montpellier HSC",
+        "prediction": "Away Win / Draw",
+        "date": "6/11/2022"
     },
     {
-        "fixture": "Sporting Lisbon- : -Vitoria Guimaraes",
-        "prediction": "Home Win",
-        "date": "5/11/2022"
+        "fixture": "Ural- : -Lokomotiv Moscow",
+        "prediction": "Under 3.5",
+        "date": "6/11/2022"
+    },
+    {
+        "fixture": "Chelsea- : -Arsenal",
+        "prediction": "Both to score",
+        "date": "6/11/2022"
+    },
+    {
+        "fixture": "KAA Gent- : -Club Brugge",
+        "prediction": "Both to score",
+        "date": "6/11/2022"
+    },
+    {
+        "fixture": "Sampdoria- : -Fiorentina",
+        "prediction": "Both to score",
+        "date": "6/11/2022"
     }
 ],
 
