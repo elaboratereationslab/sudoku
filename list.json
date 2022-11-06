@@ -10,12 +10,11 @@
           "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Nov 7 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Mon Nov 7 2022", "odds":"Guaranteed Sportpesa Bonuss Win",  "id":"id_jackpot_sub","length":10
-     },
-       
-       {
           "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 7 20222", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
+            {
+        "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Mon Nov 7 2022", "odds":"Guaranteed Sportpesa Jackpot Bonuss Win",  "id":"id_jackpot_sub","length":10
+     },
        {
            "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Nov 7 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
         },
