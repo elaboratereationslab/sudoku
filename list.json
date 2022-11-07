@@ -2,129 +2,140 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": true,
+    "showInterstitialAd": false,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Nov 7 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 8 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+       },
+       
+       {
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 8 20222", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 7 20222", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
-       },
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Nov 7 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 8 20222", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Nov 7 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":10
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 8 20222", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":16
         },
         {
-        "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Mon Nov 7 2022", "odds":"Guaranteed Sportpesa Jackpot Bonuss Win",  "id":"id_jackpot_sub","length":10
-     }
+            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Tue Nov 8 20222", "odds":"Guaranteed Sportpesa Bonuss Win",  "id":"id_jackpot_sub","length":16
+         }
         
         
       
    ],
    "jackpotPredictions":[
     {
-            "fixture": "HANNOVER Vs FORTUNA DUSSELDORF",
-            "prediction": "2 / 1",
-            "date": "8/11/2022"
+            "fixture": "NOTTINGHAM Vs CRYSTAL PALACE",
+            "prediction": "1 / 2",
+            "date": "12/11/2022"
         },
         {
-            "fixture": "ELCHE Vs GIRONA",
-            "prediction": "2X",
-            "date": "8/11/2022"
+            "fixture": "BOURNEMOUTH Vs EVERTON",
+            "prediction": "2",
+            "date": "12/11/2022"
         },
     
         {
-            "fixture": "BOURNEMOUTH Vs EVERTON",
+            "fixture": "BRISTOL CITY Vs WATFORD",
             "prediction": "2 / 1",
-            "date": "8/11/2022"
+            "date": "12/11/2022"
         },
         {
-            "fixture": "BIRMINGHAM Vs SWANSEA",
+            "fixture": "PRESTON Vs MILLWALL",
             "prediction": "1",
-            "date": "8/11/2022"
+            "date": "12/11/2022"
         },
         {
-            "fixture": "JAHN REGENSBURG Vs EINTRACHT BRAUNSCHWEIG",
-            "prediction": "1 / 2",
-            "date": "8/11/2022"
+            "fixture": "COVENTRY Vs QPR",
+            "prediction": "1 / X",
+            "date": "12/11/2022"
         },
         {
-            "fixture": "HANSA Vs NURNBERG",
+            "fixture": "SAMPDORIA Vs LECCE",
             "prediction": "1",
-            "date": "8/11/2022"
+            "date": "12/11/2022"
         },
         {
-            "fixture": "SEVILLA FC Vs REAL SOCIEDAD",
+            "fixture": "BASAKSEHIR Vs GALATASARAY",
+            "prediction": "1",
+            "date": "12/11/2022"
+        },
+        {
+            "fixture": "NEWCASTLE Vs CHELSEA",
             "prediction": "2X",
-            "date": "8/11/2022"
+            "date": "12/11/2022"
         },
         {
-            "fixture": "FC KOLN Vs BAYER LEVERKUSEN",
+            "fixture": "BOLOGNA Vs SASSUOLO",
+            "prediction": "1",
+            "date": "12/11/2022"
+        },
+        {
+            "fixture": "ATALANTA Vs INTER",
+            "prediction": "2 / 1",
+            "date": "13/11/2022"
+        },
+        {
+            "fixture": "FC ZURICH Vs SERVETTE GENEVA",
+            "prediction": "1",
+            "date": "13/11/2022"
+        },
+        {
+            "fixture": "MONTPELLIER Vs REIMS",
+            "prediction": "1",
+            "date": "13/11/2022"
+        },
+        {
+            "fixture": "ISTANBULSPOR Vs HATAYSPOR",
             "prediction": "1X",
-            "date": "8/11/2022"
+            "date": "13/11/2022"
         },
         {
-            "fixture": "ESPANYOL Vs VILLARREAL",
-            "prediction": "2",
-            "date": "8/11/2022"
+            "fixture": "KAYSERISPOR Vs KONYASPOR",
+            "prediction": "1X",
+            "date": "13/11/2022"
         },
         {
-            "fixture": "FC LUZERN Vs FC BASEL",
-            "prediction": "2 / 1",
-            "date": "8/11/2022"
-        },
-        {
-            "fixture": "WOLVERHAMPTON Vs LEEDS",
-            "prediction": "1",
-            "date": "8/11/2022"
-        },
-        {
-            "fixture": "SHREWSBURY Vs OXFORD UTD",
-            "prediction": "2 / 3",
-            "date": "8/11/2022"
-        },
-        {
-            "fixture": "RAYO VALLECANO Vs CELTA VIGO",
-            "prediction": "2X",
-            "date": "8/11/2022"
+            "fixture": "MAINZ Vs EINTRACHT FRANKFURT",
+            "prediction": "1X",
+            "date": "13/11/2022"
         }
     ],
     
     
    "freePredictions":[
     {
-            "fixture": "Unión La Calera- : -Unión Española",
-            "prediction": "Home Win",
-            "date": "7/11/2022"
+            "fixture": "Shenzhen Honzuan- : -Dalian Pro",
+            "prediction": "Both-to-score (NO)",
+            "date": "8/11/2022"
         },
         {
-            "fixture": "Chengdu Rongcheng- : -Changchun Yatai",
-            "prediction": "Under 2.5",
-            "date": "7/11/2022"
+            "fixture": "Nykobing FC- : -SonderjyskE",
+            "prediction": "Over 1.5",
+            "date": "8/11/2022"
         },
      {
-            "fixture": "Tianjin Tiger- : -Hebei China Fortune",
-            "prediction": "Under 3.5",
-            "date": "7/11/2022"
+            "fixture": "Harrogate Town- : -Carlisle United",
+            "prediction": "Both-to-score (YES)",
+            "date": "8/11/2022"
         },
      {
-            "fixture": "Shandong Taishan- : -Shanghai Shenhua",
+            "fixture": "Mansfield Town- : -Bradford City",
+            "prediction": "1 or 2",
+            "date": "8/11/2022"
+        },
+        {
+            "fixture": "Harrogate Town- : -Carlisle United",
+            "prediction": "Both-to-score (YES)",
+            "date": "8/11/2022"
+        },
+        {
+            "fixture": "Shanghai Port- : -Cangzhou",
             "prediction": "Home Win",
-            "date": "7/11/2022"
-        },
-        {
-            "fixture": "Deportes Pereira- : -Athletico Junior",
-            "prediction": "Under 3.5",
-            "date": "7/11/2022"
-        },
-        {
-            "fixture": "Karmiotissa- : -Apollon Limasol",
-            "prediction": "Away Win",
-            "date": "7/11/2022"
+            "date": "8/11/2022"
         }
 
 
@@ -156,61 +167,91 @@
 
  
  "paidPredictions":[
+    {
+        "fixture": "Wuhan Zall FC- : -Guangzhou City",
+        "prediction": "Over 2.5",
+        "date": "8/11/2022"
+    },
+    {
+        "fixture": "Meizhou Hakka- : -Henan Songshan Longmen",
+        "prediction": "Under 3.5",
+        "date": "8/11/2022"
+    },
     
     {
-        "fixture": "Jong PSV Eindhoven- : -Almere City",
-        "prediction": "Under 2.5",
-        "date": "7/11/2022"
+        "fixture": "Bayern Munich- : -Werder Вremen",
+        "prediction": "Over 2.5",
+        "date": "8/11/2022"
     },
     {
-        "fixture": "Jong FC Utrecht- : -Eindhoveno",
+        "fixture": "VfL Wolfsburg- : -Borussia Dortmund",
+        "prediction": "Both to score",
+        "date": "8/11/2022"
+    },
+ {
+        "fixture": "VfL Bochum- : -Monchengladbach",
         "prediction": "Away Win",
-        "date": "7/11/2022"
+        "date": "8/11/2022"
     },
  {
-        "fixture": "Jong AZ Alkmaar- : -Roda Kerkrade",
-        "prediction": "Under 2.5",
-        "date": "7/11/2022"
+        "fixture": "Stoke City- : -Luton Town",
+        "prediction": "1 or 2",
+        "date": "8/1/2022"
     },
  {
-        "fixture": "Reggina- : -Genoal",
-        "prediction": "Away Win / Draw",
-        "date": "7/1/2022"
+        "fixture": "Watford- : -Reading",
+        "prediction": "Over 2.5",
+        "date": "8/11/2022"
     },
  {
-        "fixture": "Vitosha Bistritsa- : -FC Dobrudzha",
+        "fixture": "Livingston- : -Aberdeen",
+        "prediction": "Over 2.5",
+        "date": "8/11/2022"
+    },
+ {
+        "fixture": "Hibernian- : -Ross County",
         "prediction": "Home Win",
-        "date": "7/11/2022"
+        "date": "8/11/2022"
     },
  {
-        "fixture": "Montana- : -Levski Krumovgrad",
+        "fixture": "Elche- : -Girona",
         "prediction": "Home Win",
-        "date": "7/11/2022"
+        "date": "8/10/2022"
     },
  {
-        "fixture": "Villefranche- : -Nancy",
-        "prediction": "Home Win",
-        "date": "7/11/2022"
+        "fixture": "Osasuna- : -Barcelona",
+        "prediction": "Over 2.5",
+        "date": "8/11/2022"
     },
  {
-        "fixture": "Red Star- : -Dunkerque",
-        "prediction": "Home Win",
-        "date": "7/10/2022"
-    },
- {
-        "fixture": "Aris Limassol- : -Omonia Nicosia",
-        "prediction": "Home win / Away Win",
-        "date": "6/11/2022"
-    },
- {
-        "fixture": "Deportes Pereira- : -Athletico Junior",
-        "prediction": "Under 3.5",
-        "date": "7/11/2022"
+        "fixture": "Lokomotiv Plovdiv- : -Ludogorets Razgrad",
+        "prediction": "Away win",
+        "date": "8/11/2022"
     },
     {
-        "fixture": "Chengdu Rongcheng- : -Changchun Yatai",
+        "fixture": "Paderborn- : -Arminia Bielefeld",
+        "prediction": "Home Win",
+        "date": "8/11/2022"
+    },
+    {
+        "fixture": "Hapoel Katamon- : -Maccabi Tel Aviv",
+        "prediction": "Away win",
+        "date": "8/11/2022"
+    },
+    {
+        "fixture": "Atletico MG- : -Botafogo",
         "prediction": "Under 2.5",
-        "date": "7/11/2022"
+        "date": "8/11/2022"
+    },
+    {
+        "fixture": "Wimbledon- : -Leyton Orient",
+        "prediction": "Away win",
+        "date": "8/11/2022"
+    },
+    {
+        "fixture": "Harrogate Town- : -Carlisle United",
+        "prediction": "Both to score",
+        "date": "8/11/2022"
     }
 ],
 
