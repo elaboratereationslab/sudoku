@@ -20,7 +20,7 @@
            "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 8 20222", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":16
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Tue Nov 8 20222", "odds":"Guaranteed Sportpesa Bonuss Win",  "id":"id_jackpot_sub","length":16
+            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Tue Nov 8 20222", "odds":"Sportpesa Jackpot Guaranteed Bonus Win",  "id":"id_jackpot_sub","length":16
          }
         
         
