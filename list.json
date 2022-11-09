@@ -29,7 +29,7 @@
    "jackpotPredictions":[
     {
             "fixture": "NOTTINGHAM Vs CRYSTAL PALACE",
-            "prediction": "1 / 2",
+            "prediction": "12",
             "date": "12/11/2022"
         },
         {
@@ -39,13 +39,13 @@
         },
         {
             "fixture": "BRISTOL CITY Vs WATFORD",
-            "prediction": "2 / 1",
+            "prediction": "21",
             "date": "12/11/2022"
         },
     
         {
             "fixture": "HUDDERSFIELD Vs SWANSEA",
-            "prediction": "2 / 1",
+            "prediction": "21",
             "date": "12/11/2022"
         },
         {
@@ -55,7 +55,7 @@
         },
         {
             "fixture": "COVENTRY Vs QPR",
-            "prediction": "1 / X",
+            "prediction": "1X",
             "date": "12/11/2022"
         },
         {
@@ -65,7 +65,7 @@
         },
         {
             "fixture": "FC SION Vs ST. GALLEN",
-            "prediction": "1/2",
+            "prediction": "12",
             "date": "12/11/2022"
         },
         {
@@ -85,7 +85,7 @@
         },
         {
             "fixture": "ATALANTA Vs INTER",
-            "prediction": "2 / 1",
+            "prediction": "21",
             "date": "13/11/2022"
         },
         {
