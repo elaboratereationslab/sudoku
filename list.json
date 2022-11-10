@@ -20,7 +20,7 @@
            "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thur Nov 10 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":18
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Thur Nov 10 2022", "odds":"Guaranteed Sportpesa Bonuss Win",  "id":"id_jackpot_sub","length":18
+            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Thur Nov 10 2022", "odds":"Sportpesa Guaranteed Bonus Win",  "id":"id_jackpot_sub","length":18
          }
         
         
