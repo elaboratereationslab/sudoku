@@ -2,7 +2,7 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": true,
+    "showInterstitialAd": false,
     "showNativeAd": true,
        
        "plans":[
@@ -11,13 +11,13 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 13 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":15
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 13 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":13
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 13 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":18     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 13 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 13 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":21
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 13 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
         }
         
         
@@ -115,48 +115,30 @@
     
    "freePredictions":[
     {
-            "fixture": "NEC- : -RKC Waalwijk",
-            "prediction": "1X & Under 2.5",
-            "date": "13/11/2022"
-        },
-        {
-            "fixture": "Go Ahead Eagles- : -Vitesse",
+            "fixture": "Jong FC Utrecht- : -MVV Maastricht",
             "prediction": "Over 2.5",
-            "date": "13/11/2022"
+            "date": "14/11/2022"
+        },
+        {
+            "fixture": "Metalist Kharkiv- : -Kryvbas Kryvyi Rih",
+            "prediction": "1X",
+            "date": "14/11/2022"
         },
      {
-            "fixture": "Paris SG- : -Auxerre",
-            "prediction": "1X & under 3.5",
-            "date": "13/11/2022"
-        },
-     {
-            "fixture": "Nantes- : -AC Ajaccio",
-            "prediction": "HT-FT 1X",
-            "date": "13/11/2022"
+            "fixture": "Rukh Vinnyky- : -FK Minai",
+            "prediction": "1",
+            "date": "14/11/2022"
         },
         {
-            "fixture": "Freiburg- : -Union Berlin",
-            "prediction": "Both-to-score",
-            "date": "13/11/2022"
+            "fixture": "Chornomorets Odesa- : -FK Lviv",
+            "prediction": "HT-FT Under 2.5",
+            "date": "14/11/2022"
         },
         {
-            "fixture": "UTA Arad- : -CS Voluntari",
-            "prediction": "Under 2.5",
-            "date": "13/11/2022"
-        },
-        {
-            "fixture": "Valerenga- : -Molde",
-            "prediction": "HF-FT Under 3.5",
-            "date": "13/11/2022"
-        },
-        {
-            "fixture": "Stromsgodset- : -Bodo/Glimt",
-            "prediction": "Both-to-score",
-            "date": "13/11/2022"
+            "fixture": "Millonarios- : -Deportes Pereira",
+            "prediction": "FT 1",
+            "date": "14/11/2022"
         }
-
-
-
  ],
  "fixedPredictions":[
      {
@@ -185,115 +167,80 @@
  
  "paidPredictions":[
     {
-        "fixture": "Groningen- : -Fortuna Sittard",
-        "prediction": "1X",
-        "date": "13/11/2022"
+        "fixture": "Botev Vratsa- : -Septemvri Sofia",
+        "prediction": "HT-FT Under 2.5",
+        "date": "14/11/2022"
     },
     {
-        "fixture": "Heerenveen- : -Cambuur",
-        "prediction": "1X & Over 2.5",
-        "date": "13/11/2022"
+        "fixture": "Santa Clara- : -Estoril",
+        "prediction": "HT-FT Under 3.5",
+        "date": "14/11/2022"
     },
     
     {
-        "fixture": "Montpellier HSC- : -Reims",
-        "prediction": "No GG & Under 2.5",
-        "date": "13/11/2022"
+        "fixture": "Jong Ajax- : -Den Bosch",
+        "prediction": "HT Over 1.5 & FT Over 2.5",
+        "date": "14/11/2022"
     },
     {
-        "fixture": "Hradec Králové- : -Slovacko",
-        "prediction": "Both-to-score & Over 2.5",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "Lille OSC- : -Angers SCO",
-        "prediction": "HT/FT 1/1 ",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "AS Monaco- : -Marseille",
-        "prediction": "HT-FT 1X",
-        "date": "13/1/2022"
-    },
- {
-        "fixture": "Benfica- : -Gil Vicente",
-        "prediction": "HT/FT Under 3.5",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "Famalicao- : -Sporting Lisbon",
-        "prediction": "HT/FT 2X",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "Burnley- : -Blackburn Rovers",
-    "prediction": "HT/FT 1/1 & Over 2.5",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "Brighton- : -Aston Villa",
-        "prediction": "FT Under 3.5",
-        "date": "13/10/2022"
-    },
- {
-        "fixture": "Brighton- : -Aston Villa",
-        "prediction": "1 & Under 3.5",
-        "date": "13/11/2022"
-    },
- {
-        "fixture": "Fulham- : -Manchester United",
-        "prediction": "Both-to-score",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Mainz 05- : -Eintracht Frankfurt",
-        "prediction": "Over 2.5",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Dinamo Moscow- : -CSKA Moscow",
-        "prediction": "FT Over 1.5",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Roma- : -Torino",
-        "prediction": "HT no-GG",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "AC Milan- : -Fiorentina",
-        "prediction": "Both-to-score & Over 2.5",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Juventus- : -Lazio",
-        "prediction": "1X",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Besiktas- : -Antalyaspor",
-        "prediction": "HT/FT 1/X ",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Celje- : -Luka Koper",
-        "prediction": "2X",
-        "date": "13/11/2022"
-    },
-    {
-        "fixture": "Young Boys- : -Luzern",
+        "fixture": "Chornomorets Odesa- : -FK Lviv",
         "prediction": "HT-FT Under 2.5",
-        "date": "13/11/2022"
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "Universitatea Cluj- : -Arges Pitesti",
+        "prediction": "1 ",
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "Tondela- : -Moreirense",
+        "prediction": "HT-FT 2",
+        "date": "14/1/2022"
+    },
+ {
+        "fixture": "Mafra- : -Leixões",
+        "prediction": "HT/FT Under 3.5",
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "Beitar Jerusalem- : -Hapoel Bnei Sakhnin",
+        "prediction": "HT/FT Under 3.5",
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "Dunav Ruse- : -Spartak Pleven",
+    "prediction": "FT Under 3.5",
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "Asteras Tripolis- : -Ionikos",
+        "prediction": "1",
+        "date": "14/10/2022"
+    },
+ {
+        "fixture": "Nancy- : -Sedan",
+        "prediction": "1 & Over 2.5",
+        "date": "14/11/2022"
+    },
+ {
+        "fixture": "SD Aucas- : -Barcelona SC",
+        "prediction": "1 & Under 2.5",
+        "date": "14/11/2022"
     },
     {
-        "fixture": "Hapoel Ironi Kiryat Shmona- : -Hapoel Beer Sheva",
-        "prediction": "No GG & Under 2.5",
-        "date": "13/11/2022"
+        "fixture": "SonderjyskE- : -Vejle",
+        "prediction": "12 & Over 2.5",
+        "date": "14/11/2022"
     },
     {
-        "fixture": "Goias- : -Sao Paulo SP",
-        "prediction": "Both-to-score",
-        "date": "13/11/2022"
+        "fixture": "America de Cali- : -Deportivo Pasto",
+        "prediction": "FT Over 1.5",
+        "date": "14/11/2022"
+    },
+    {
+        "fixture": "America de Cali- : -Deportivo Pasto",
+        "prediction": "FT Over 1.5",
+        "date": "14/11/2022"
     }
 ],
 
