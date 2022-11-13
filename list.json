@@ -7,17 +7,17 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Nov 13 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Nov 14 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 13 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":13
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 14 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":13
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 13 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":13     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Nov 14 2022", "odds":"Total Standard Tips = 32.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 13 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Nov 14 2022", "odds":"Total Premium Tips = 100.29 + Odds",  "id":"id_premium_sub","length":13
         }
         
         
