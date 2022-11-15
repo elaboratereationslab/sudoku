@@ -7,20 +7,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 15 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 16 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 15 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":5
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 16 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 15 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":5     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 16 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 15 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":5
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":10
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Tue Nov 15 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":5
+            "name": "Jackpot Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":10
          }
         
         
@@ -98,19 +98,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Wimbledon- : -Weymouth FC",
+            "fixture": "Saudi Arabia- : -Croatia",
             "prediction": "1 & Unde 3.5",
-            "date": "15/11/2022"
+            "date": "16/11/2022"
         },
         {
-            "fixture": "Dunfermline- : -Celtic B",
-            "prediction": "HT/FT 1/1",
-            "date": "15/11/2022"
+            "fixture": "Nepal- : -Pakistan",
+            "prediction": "HT/FT Under 2.5",
+            "date": "16/11/2022"
         },
      {
-            "fixture": "Gillingham- : -AFC Fylde",
+            "fixture": "Oman- : -Germany",
+            "prediction": "HT-FT 2",
+            "date": "16/11/2022"
+        },
+        {
+            "fixture": "Moldova- : -Azerbaijan",
             "prediction": "Under 2.5",
-            "date": "15/11/2022"
+            "date": "16/11/2022"
+        },
+        {
+            "fixture": "Poland- : -Chile",
+            "prediction": "No GG & Under 2.5",
+            "date": "16/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -140,36 +150,62 @@
  
  "paidPredictions":[
     {
-        "fixture": "Gillingham- : -AFC Fylde",
-        "prediction": "HT-FT Under 2.5",
-        "date": "15/11/2022"
+        "fixture": "5Woking- : -Oxford United",
+        "prediction": "HT-FT 2",
+        "date": "16/11/2022"
     },
     {
-        "fixture": "Derby County- : -Torquay United",
+        "fixture": "Salford City- : -Peterborough United",
         "prediction": "FT Over 2.5",
-        "date": "15/11/2022"
+        "date": "16/11/2022"
     },
     
     {
-        "fixture": "Hartlepool United- : -Solihull Moors",
-        "prediction": "CS 1-0",
-        "date": "15/11/2022"
+        "fixture": "Dominican Republic- : -Cuba",
+        "prediction": "1/2",
+        "date": "16/11/2022"
     },
     {
-        "fixture": "Derby County- : -Torquay United",
-        "prediction": "CS 3-0",
-        "date": "15/11/2022"
+        "fixture": "Andorra- : -Austria",
+        "prediction": "2 & Over 2.5",
+        "date": "16/11/2022"
     },
     {
-        "fixture": "Cambridge United- : -Curzon Ashton",
+        "fixture": "Turkey- : -Scotland",
         "prediction": "Both-to-score (NO) & HT-FT 1/1",
-        "date": "15/11/2022"
+        "date": "16/11/2022"
     },
     {
-        "fixture": "Cambridge United- : -Curzon Ashton",
-        "prediction": "Both-to-score (NO) & HT-FT 1/1",
-        "date": "15/11/2022"
+        "fixture": "Cyprus- : -Bulgaria",
+        "prediction": "Both-to-score (NO) & HT-FT 2/2",
+        "date": "16/11/2022"
+    },
+    {
+        "fixture": "Mexico- : -Sweden",
+        "prediction": "Both-to-score (YES)",
+        "date": "16/11/2022"
+    },
+    {
+        "fixture": "Fakel- : -Zenit St Petersburg",
+        "prediction": "Over 2.5",
+        "date": "16/11/2022"
+    },
+    {
+        "fixture": "SC Farense- : -Trofense",
+        "prediction": "Home Win",
+        "date": "16/11/2022"
+    },
+    {
+        "fixture": "ADO Den Haag- : -Roda Kerkrade",
+        "prediction": "Over 2.5",
+        "date": "16/11/2022"
+    },
+    {
+        "fixture": "ADO Den Haag- : -Roda Kerkrade",
+        "prediction": "Over 2.5",
+        "date": "16/11/2022"
     }
+    
 ],
 
 
