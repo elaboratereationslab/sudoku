@@ -2,25 +2,25 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 16 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thurs Nov 17 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 16 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thurs Nov 17 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 16 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":10     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thurs Nov 17 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":10     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":10
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thurs Nov 17 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":10
         },
         {
-            "name": "Jackpot Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 16 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":10
+            "name": "Jackpot Tips", "amount": "Ksh500" , "accessDays": "Thurs Nov 17 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":10
          }
         
         
@@ -98,29 +98,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Saudi Arabia- : -Croatia",
-            "prediction": "1 & Unde 3.5",
-            "date": "16/11/2022"
+            "fixture": "Colo Colo- : -Betis",
+            "prediction": "2X",
+            "date": "17/11/2022"
         },
         {
-            "fixture": "Nepal- : -Pakistan",
-            "prediction": "HT/FT Under 2.5",
-            "date": "16/11/2022"
+            "fixture": "Peru- : -Paraguay",
+            "prediction": "FT Under 2.5",
+            "date": "17/11/2022"
         },
      {
-            "fixture": "Oman- : -Germany",
-            "prediction": "HT-FT 2",
-            "date": "16/11/2022"
-        },
-        {
-            "fixture": "Moldova- : -Azerbaijan",
+            "fixture": "Ghana- : -Switzerland",
             "prediction": "Under 2.5",
-            "date": "16/11/2022"
+            "date": "17/11/2022"
         },
         {
-            "fixture": "Poland- : -Chile",
-            "prediction": "No GG & Under 2.5",
-            "date": "16/11/2022"
+            "fixture": "Japan- : -Canada",
+            "prediction": "Both-to-score (YES)",
+            "date": "17/11/2022"
+        },
+        {
+            "fixture": "Jordan- : -Spain",
+            "prediction": "Handicap 22-0",
+            "date": "17/11/2022"
         }
  ],
  "fixedPredictions":[
