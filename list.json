@@ -1,9 +1,9 @@
 {
      
     "visibility": true,
-    "showBannerAd": false,
+    "showBannerAd": true,
     "showInterstitialAd": false,
-    "showNativeAd": false,
+    "showNativeAd": true,
        
        "plans":[
        {
@@ -227,6 +227,146 @@
 
 
    "predictionResults":[
+    {
+        "date": "Sunday, 13th November 2022",
+        "gamesList": [
+         {
+             "fixture": "CSD Municipal VS Deportivo Mixco",
+             "prediction": "Under 1.5 Goals",
+             "odds": "4.20",
+             "results": "Odds 4.20 (WIN)"
+         },
+         {
+             "fixture": "Paysandu VS Sao Raimundo/AM",
+             "prediction": "HT/FT 1/1",
+             "odds": "5.29",
+             "results": "5.26 (WIN)"
+         },
+         {
+             "fixture": "Britannia VS Santa Fe",
+             "prediction": "GG & Over 5.5",
+             "odds": "6.05",
+             "results": "Odds 6.05 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Fixed Over 6.5 Goals",
+             "odds": "3.86",
+             "results": "Odds 3.86 (WIN)"
+         },
+             {
+             "fixture": "River Plate VS Nacional",
+             "prediction": "HT/FT X/1",
+             "odds": "4.54",
+             "results": "Odds 4.54 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Saturday, 12th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Radcliffe Borough VS Guiseley AFC",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.04",
+             "results": "Odds 6.04 (WIN)"
+         },
+         {
+             "fixture": "S達o Jo達o de Ver VS CF Canelas 2010",
+             "prediction": "HT/FT 2/X",
+             "odds": "5.33",
+             "results": "5.33 (WIN)"
+         },
+         {
+             "fixture": "TuSpo Surheide VS Union Bremen",
+             "prediction": "HT/FT 1/2",
+             "odds": "5.53",
+             "results": "Odds 5.53 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "Odds 3.28 (WIN)"
+         },
+             {
+             "fixture": "ASEC Koudougou VS Douanes",
+             "prediction": "Under 0.5 Goals",
+             "odds": "6.81",
+             "results": "Odds 6.81 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Friday, 11th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Khor Fakkan Club VS Al Dhafra",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.46",
+             "results": "Odds 6.46 (WIN)"
+         },
+         {
+             "fixture": "Niki Volos VS Veria FC",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "3.28 (WIN)"
+         },
+         {
+             "fixture": "Shabab Alsamu VS Shabab Al Am'ari",
+             "prediction": "HT/FT X/1",
+             "odds": "5.33",
+             "results": "Odds 5.33 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Correct Score 2-0",
+             "odds": "7.05",
+             "results": "Odds 7.05 (WIN)"
+         },
+             {
+             "fixture": "Wolves U23s VS Reading U23s",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.97",
+             "results": "Odds 4.97 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Thursday, 10th November 2022",
+        "gamesList": [
+         {
+             "fixture": "Juventude VS Flamengo RJ",
+             "prediction": "HT/FT 1/X",
+             "odds": "5.11",
+             "results": "Odds 5.11 (WIN)"
+         },
+         {
+             "fixture": "Alashkert VS FC Urartu",
+             "prediction": "Under 0.5 Goals",
+             "odds": "5.09",
+             "results": "5.09 (WIN)"
+         },
+         {
+             "fixture": "Avtomobilist Noginsk VS Dinamo Vladivostok",
+             "prediction": "Fixed Draw",
+             "odds": "3.24",
+             "results": "Odds 3.24 (WIN)"
+         },
+             {
+             "fixture": "Tavagnacco W VS Pomigliano W",
+             "prediction": "Over 4.5 & GG",
+             "odds": "6.19",
+             "results": "Odds 6.19 (WIN)"
+         },
+             {
+             "fixture": "KF Ballkani VS KF Llapi",
+             "prediction": "Over 4.5 Goals",
+             "odds": "4.06",
+             "results": "Odds 4.06 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Wednesday, 9th November 2022",
         "gamesList": [
