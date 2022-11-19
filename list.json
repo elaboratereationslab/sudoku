@@ -2,25 +2,22 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Nov 19 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Nov 20 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Nov 19 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":12
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 20 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":12
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Nov 19 2022", "odds":"Guaranteed Jackpot Bonus Win",  "id":"id_jackpot_sub","length":12
-     },
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Nov 19 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":12     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 20 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":12     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Nov 19 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 20 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         }
     
         
@@ -119,39 +116,39 @@
     
    "freePredictions":[
     {
-            "fixture": "Baník Ostrava- : -Sparta Prague",
-            "prediction": "2",
-            "date": "19/11/2022"
+            "fixture": "Peru- : -Bolivia",
+            "prediction": "1",
+            "date": "20/11/2022"
         },
         {
-            "fixture": "Heracles Almelo- : -Top Oss",
+            "fixture": "North Macedonia- : -Azerbaijan",
             "prediction": "1",
-            "date": "19/11/2022"
+            "date": "20/11/2022"
         },
      {
-            "fixture": "MVV Maastricht- : -Almere City",
+            "fixture": "Slovenia- : -Montenegro",
+            "prediction": "X",
+            "date": "20/11/2022"
+        },
+        {
+            "fixture": "Oman- : -Belarus",
+            "prediction": "2",
+            "date": "20/11/2022"
+        },
+        {
+            "fixture": "Hungary- : -Greece",
+            "prediction": "Under 2.5",
+            "date": "20/11/2022"
+        },
+        {
+            "fixture": "5Austria- : -Italy",
             "prediction": "Over 2.5",
-            "date": "19/11/2022"
+            "date": "20/11/2022"
         },
         {
-            "fixture": "Sheffield Wednesday- : -Shrewsbury",
-            "prediction": "No GG",
-            "date": "19/11/2022"
-        },
-        {
-            "fixture": "Fleetwood- : -Bolton",
-            "prediction": "Over 2.5",
-            "date": "19/11/2022"
-        },
-        {
-            "fixture": "Exeter City- : -Ipswich Town",
-            "prediction": "HT/FT 2/2",
-            "date": "19/11/2022"
-        },
-        {
-            "fixture": "Kolos-Kovalivka Kyiv- : -Vorskla Poltava",
-            "prediction": "Over 2.5",
-            "date": "19/11/2022"
+            "fixture": "Torreense- : -Academica Viseu",
+            "prediction": "X",
+            "date": "20/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -181,69 +178,69 @@
  
  "paidPredictions":[
     {
-        "fixture": "Bohemians 1905- : -FC Hlucin",
-        "prediction": "1 & Over 2.5",
-        "date": "19/11/2022"
+        "fixture": "Colombia- : -Paraguay",
+        "prediction": "Under 2.5",
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Den Bosch- : -VVV-Venlo",
-        "prediction": "Under 3.5",
-        "date": "19/11/2022"
+        "fixture": "Uzbekistan- : -Russia",
+        "prediction": "Handicap 2 1-0",
+        "date": "20/11/2022"
     },
     
     {
-        "fixture": "Germany U20- : -Norway U20",
-        "prediction": "Over 2.5",
-        "date": "19/11/2022"
+        "fixture": "Slovakia- : -Chile",
+        "prediction": "2",
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Turkey- : -Czech Republic",
-        "prediction": "Over 2.5",
-        "date": "19/11/2022"
+        "fixture": "South Africa- : -Angola",
+        "prediction": "1",
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Sweden- : -Algeria",
+        "fixture": "Norway- : -Finland",
+        "prediction": "Over 2.5",
+        "date": "20/11/2022"
+    },
+    {
+        "fixture": "Moldova- : -Romania",
+        "prediction": "HT/FT 2/2",
+        "date": "20/11/2022"
+    },
+    {
+        "fixture": "Pacos Ferreira- : -Casa Pia Atletico",
+        "prediction": "Over 2.5",
+        "date": "20/11/2022"
+    },
+    {
+        "fixture": "FC Andorra- : -Lugo",
         "prediction": "Under 2.5",
-        "date": "19/11/2022"
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Colchester- : -Doncaster Rovers",
-        "prediction": "X",
-        "date": "19/11/2022"
-    },
-    {
-        "fixture": "Grimsby- : -Stevenage",
-        "prediction": "2X",
-        "date": "19/11/2022"
-    },
-    {
-        "fixture": "Sutton United- : -Rochdale",
-        "prediction": "1",
-        "date": "19/11/2022"
-    },
-    {
-        "fixture": "Barrow- : -Hartlepool United",
+        "fixture": "Eibar- : -Deportivo Alaves",
         "prediction": "Over 2.5",
-        "date": "19/11/2022"
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Tenerife- : -Huesca",
-        "prediction": "Over 1.5",
-        "date": "19/11/2022"
+        "fixture": "Serbia U19- : -San Marino U19",
+        "prediction": "HT Over 1.5 & FT Over 2.5",
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Oxford United- : -Forest Green Rovers",
+        "fixture": "Norway U19- : -North Macedonia U19",
         "prediction": "1",
-        "date": "19/11/2022"
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Barnsley- : -Milton Keynes Dons",
+        "fixture": "FK Minai- : -Metalist Kharkiv",
         "prediction": "1",
-        "date": "19/11/2022"
+        "date": "20/11/2022"
     },
     {
-        "fixture": "Airbus UK Broughton- : -Haverfordwest County",
-        "prediction": "GG & Over 2.5",
+        "fixture": "Kryvbas Kryvyi Rih- : -Metalist 1925",
+        "prediction": "1",
         "date": "19/11/2022"
     }
     
