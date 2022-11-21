@@ -11,7 +11,7 @@
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 21 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":12
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 21 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
         "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon Nov 21 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_basic_sub","length":12
@@ -99,34 +99,29 @@
     
    "freePredictions":[
     {
-            "fixture": "England Vs Iran",
-            "prediction": "1",
-            "date": "21/11/2022"
+            "fixture": "Argentina- : -Saudi Arabia",
+            "prediction": "HT/FT 1/1 ",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Senegal Vs Netherlands",
+            "fixture": "France- : -Australia",
             "prediction": "Over 2.5",
-            "date": "21/11/2022"
+            "date": "22/11/2022"
         },
      {
-            "fixture": "United States Vs Wales",
-            "prediction": "X",
-            "date": "21/11/2022"
+            "fixture": "Burton Albion VS Tranmere Rovers",
+            "prediction": "1",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Guangzhou City Vs Beijing Guoan",
-            "prediction": "2 ",
-            "date": "21/11/2022"
+            "fixture": "Forest Green VS Cheltenham",
+            "prediction": "1",
+            "date": "22/11/2022"
         },
         {
-            "fixture": "Guangzhou City Vs Beijing Guoan",
-            "prediction": "2 Under 3.5",
-            "date": "21/11/2022"
-        },
-        {
-            "fixture": "FC Ingulets Vs FK Lviv",
+            "fixture": "Salford City VS Bradford City",
             "prediction": "1X",
-            "date": "21/11/2022"
+            "date": "22/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -156,65 +151,65 @@
  
  "paidPredictions":[
     {
-        "fixture": "Tianjin Tiger Vs Shanghai Shenhua",
-        "prediction": "GG & Under 3.5",
-        "date": "21/11/2022"
+        "fixture": "Cangzhou- : -Dalian Pro",
+        "prediction": "HT-FT Under 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Hebei China Fortune Vs Changchun Yatai",
-        "prediction": "Over 3.5",
-        "date": "21/11/2022"
+        "fixture": "Denmark- : -Tunisia",
+        "prediction": "1",
+        "date": "22/11/2022"
     },
     
     {
-        "fixture": "Chengdu Rongcheng Vs Shandong Taishan",
-        "prediction": "2",
-        "date": "21/11/2022"
+        "fixture": "Lincoln- : -Morecambe",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Wuhan Three Towns Vs Meizhou Hakka",
-        "prediction": "1",
-        "date": "21/11/2022"
+        "fixture": "Stevenage VS Arsenal U23s",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Veres Rivne-Dynamo Kyiv",
-        "prediction": "Over 2.5 & 2",
-        "date": "21/11/2022"
+        "fixture": "Wolverhampton Wanderers U21- : -Man Utd U21",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "CD Mirandes Vs Cartagena",
-        "prediction": "HT/FT 1/2",
-        "date": "21/11/2022"
+        "fixture": "Peterborough VS Chelsea U23s",
+        "prediction": "Over 2.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Slovenia U21 Vs Bulgaria U21",
+        "fixture": "Grimsby Town VS Accrington Stanley",
         "prediction": "Over 2.5 & 1/2",
-        "date": "21/11/2022"
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Croatia U21 Vs Austria U21",
-        "prediction": "Over 2.5 & 1",
-        "date": "21/11/2022"
+        "fixture": "Bolton Wanderers VS Barrow AFC",
+        "prediction": "1 & Under 3.5",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Chile U20 Vs Brazil U20",
-        "prediction": "2",
-        "date": "21/11/2022"
+        "fixture": "Ipswich Town VS Portsmouth",
+        "prediction": "GG and 1/2",
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Georgia U21 Vs Ukraine U21",
-        "prediction": "X2",
-        "date": "21/11/2022"
-    },
-    {
-        "fixture": "Turkey U21 Vs Poland U21",
+        "fixture": "AFC Wimbledon VS Sutton United",
         "prediction": "X",
-        "date": "21/11/2022"
+        "date": "22/11/2022"
     },
     {
-        "fixture": "Saint Lucia Vs San Marino",
-        "prediction": "1",
-        "date": "21/11/2022"
+        "fixture": "Portugal U21- : -Japan U21",
+        "prediction": "1 & Over 2.5",
+        "date": "22/11/2022"
+    },
+    {
+        "fixture": "Crawley Town VS Gillingham",
+        "prediction": "GG & Over 2.5",
+        "date": "22/11/2022"
     },
     {
         "fixture": "Kryvbas Kryvyi Rih- : -Metalist 1925",
