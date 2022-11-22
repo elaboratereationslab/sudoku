@@ -7,20 +7,17 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 22 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 23 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 22 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 23 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue Nov 22 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_basic_sub","length":12
-     },
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 22 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":12     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 23 2022", "odds":"Total Standard Tips = 22.45 + Odds", "id":"id_standard_sub","length":8     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 22 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 23 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":8
         }
     
         
@@ -29,8 +26,8 @@
    ],
    "jackpotPredictions":[
     {
-            "fixture": "MEXICO VS POLAND",
-            "prediction": "X",
+            "fixture": "FLEETWOOD TOWN Vs BOLTON",
+            "prediction": "2",
             "date": "22/11/2022"
         },
         {
@@ -99,29 +96,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Argentina- : -Saudi Arabia",
-            "prediction": "HT/FT 1/1 ",
-            "date": "22/11/2022"
+            "fixture": "Morocco- : -Croatia",
+            "prediction": "X/2 ",
+            "date": "23/11/2022"
         },
         {
-            "fixture": "France- : -Australia",
+            "fixture": "Belgium- : -Canada",
             "prediction": "Over 2.5",
-            "date": "22/11/2022"
+            "date": "23/11/2022"
         },
      {
-            "fixture": "Burton Albion VS Tranmere Rovers",
+            "fixture": "Shakhtar Donetsk- : -Vorskla Poltava",
             "prediction": "1",
-            "date": "22/11/2022"
+            "date": "23/11/2022"
         },
         {
-            "fixture": "Forest Green VS Cheltenham",
-            "prediction": "1",
-            "date": "22/11/2022"
+            "fixture": "Akhmat Grozny- : -Dinamo Moscow",
+            "prediction": "X2",
+            "date": "23/11/2022"
         },
         {
-            "fixture": "Salford City VS Bradford City",
-            "prediction": "1X",
-            "date": "22/11/2022"
+            "fixture": "Serbia U19- : -Norway U19",
+            "prediction": "1",
+            "date": "23/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -151,70 +148,50 @@
  
  "paidPredictions":[
     {
-        "fixture": "Cangzhou- : -Dalian Pro",
-        "prediction": "HT-FT Under 2.5",
-        "date": "22/11/2022"
+        "fixture": "Germany- : -Japan",
+        "prediction": "1",
+        "date": "23/11/2022"
     },
     {
-        "fixture": "Denmark- : -Tunisia",
+        "fixture": "Spain- : -Costa Rica",
         "prediction": "1",
-        "date": "22/11/2022"
+        "date": "23/11/2022"
     },
     
     {
-        "fixture": "Lincoln- : -Morecambe",
+        "fixture": "Dnipro-1- : -FC Oleksandriya",
+        "prediction": "1 & Over 2.5",
+        "date": "23/11/2022"
+    },
+    {
+        "fixture": "Gazovik Orenburg- : -Rostov",
         "prediction": "GG & Over 2.5",
-        "date": "22/11/2022"
+        "date": "23/11/2022"
     },
     {
-        "fixture": "Stevenage VS Arsenal U23s",
+        "fixture": "K Krasnodar- : -Lokomotiv Moscow",
         "prediction": "GG & Over 2.5",
-        "date": "22/11/2022"
+        "date": "23/11/2022"
     },
     {
-        "fixture": "Wolverhampton Wanderers U21- : -Man Utd U21",
-        "prediction": "GG & Over 2.5",
-        "date": "22/11/2022"
+        "fixture": "Port Vale- : -Barnsley",
+        "prediction": "Under 3.5",
+        "date": "23/11/2022"
     },
     {
-        "fixture": "Peterborough VS Chelsea U23s",
-        "prediction": "Over 2.5",
-        "date": "22/11/2022"
+        "fixture": "Colchester- : -Bristol Rovers",
+        "prediction": "Under 2.5 & 1/2",
+        "date": "23/11/2022"
     },
     {
-        "fixture": "Grimsby Town VS Accrington Stanley",
-        "prediction": "Over 2.5 & 1/2",
-        "date": "22/11/2022"
-    },
-    {
-        "fixture": "Bolton Wanderers VS Barrow AFC",
-        "prediction": "1 & Under 3.5",
-        "date": "22/11/2022"
+        "fixture": "San Marino U19- : -North Macedonia U19",
+        "prediction": "Over 3.5",
+        "date": "23/11/2022"
     },
     {
         "fixture": "Ipswich Town VS Portsmouth",
         "prediction": "GG and 1/2",
         "date": "22/11/2022"
-    },
-    {
-        "fixture": "AFC Wimbledon VS Sutton United",
-        "prediction": "X",
-        "date": "22/11/2022"
-    },
-    {
-        "fixture": "Portugal U21- : -Japan U21",
-        "prediction": "1 & Over 2.5",
-        "date": "22/11/2022"
-    },
-    {
-        "fixture": "Crawley Town VS Gillingham",
-        "prediction": "GG & Over 2.5",
-        "date": "22/11/2022"
-    },
-    {
-        "fixture": "Kryvbas Kryvyi Rih- : -Metalist 1925",
-        "prediction": "1",
-        "date": "19/11/2022"
     }
     
     
