@@ -2,7 +2,7 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
