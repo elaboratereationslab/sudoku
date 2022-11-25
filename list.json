@@ -7,20 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thurs Nov 24 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
-       },
-       
-       {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thurs Nov 24 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Nov 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thurs Nov 24 2022", "odds":"Guaranteed Sportpesa Jackpot Bonus Win","id":"id_jackpot_sub","length":8
-     },
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Nov 25 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+       },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thurs Nov 24 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9     
+          "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Nov 25 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+       },
+       {
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 25 2022", "odds":"Total Standard Tips = 50.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thurs Nov 24 2022", "odds":"Total Premium Tips = 40.29 + Odds",  "id":"id_premium_sub","length":9
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 25 2022", "odds":"Total Premium Tips = 90.29 + Odds",  "id":"id_premium_sub","length":9
         }
     
         
@@ -119,29 +118,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Switzerland- : -Cameroon",
-            "prediction": "1/X ",
-            "date": "24/11/2022"
+            "fixture": "Wales Vs Iran",
+            "prediction": "Under 2.5",
+            "date": "25/11/2022"
         },
         {
-            "fixture": "Uruguay- : -South Korea",
+            "fixture": "Qatar Vs Senegal",
             "prediction": "Under 3.5",
-            "date": "24/11/2022"
+            "date": "25/11/2022"
         },
      {
-            "fixture": "Portugal- : -Ghana",
-            "prediction": "1/2",
-            "date": "24/11/2022"
+            "fixture": "RB Leipzig Vs Radomiak Radom",
+            "prediction": "1",
+            "date": "25/11/2022"
         },
         {
-            "fixture": "Brazil- : -Serbia",
+            "fixture": "Rapid Vienna Vs Floridsdorfer AC",
             "prediction": "Over 2.5",
-            "date": "24/11/2022"
+            "date": "25/11/2022"
         },
         {
-            "fixture": "Deportivo Pasto- : -America de Cali",
+            "fixture": "Netherlands Vs Ecuador",
             "prediction": "1/X",
-            "date": "24/11/2022"
+            "date": "25/11/2022"
         }
  ],
  "fixedPredictions":[
