@@ -2,7 +2,7 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
@@ -16,10 +16,10 @@
           "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Nov 25 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 25 2022", "odds":"Total Standard Tips = 50.45 + Odds", "id":"id_standard_sub","length":9     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 25 2022", "odds":"Total Standard Tips = 50.45 + Odds", "id":"id_standard_sub","length":11     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 25 2022", "odds":"Total Premium Tips = 90.29 + Odds",  "id":"id_premium_sub","length":9
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 25 2022", "odds":"Total Premium Tips = 90.29 + Odds",  "id":"id_premium_sub","length":11
         }
     
         
@@ -170,55 +170,65 @@
  
  "paidPredictions":[
     {
-        "fixture": "Athletico Junior- : -Independiente Santa Fe",
-        "prediction": "Under 2.5",
-        "date": "24/11/2022"
+        "fixture": "Netherlands VS Ecuador",
+        "prediction": "X",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Deportes Pereira- : -Millonarios",
-        "prediction": "2",
-        "date": "24/11/2022"
+        "fixture": "Aris Limassol Vs AE Paphos",
+        "prediction": "GG $ Over 2.5",
+        "date": "25/11/2022"
     },
     
     {
-        "fixture": "Spartak Trnava- : -MFK Zemplin Michalovce",
-        "prediction": "Under 3.5",
-        "date": "24/11/2022"
+        "fixture": "Red Star Vs Nancy",
+        "prediction": "Under 2.5",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Slovan Bratislava- : -Zlate Moravce",
-        "prediction": "1",
-        "date": "24/11/2022"
+        "fixture": "Yverdon Sport Vs Neuchatel Xamax",
+        "prediction": "GG & Over 2.5",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Dunajska Streda- : -MFK Ruzomberok",
-        "prediction": "2",
-        "date": "24/11/2022"
+        "fixture": "Avranches Vs Dunkerque",
+        "prediction": "Under 2.5",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Switzerland- : -Cameroon",
-        "prediction": "GG & Over 1.5",
-        "date": "24/11/2022"
+        "fixture": "FC Martigues Vs Orleans",
+        "prediction": "1 & Under 3.5",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Uruguay- : -South Korea",
+        "fixture": "Paris 13 Atletico Vs US Concarneau",
+        "prediction": "2 & Under 3.5",
+        "date": "25/11/2022"
+    },
+    {
+        "fixture": "Saint-Brieuc Vs Cholet",
+        "prediction": "Over 2.5 & 1/2",
+        "date": "25/11/2022"
+    },
+    {
+        "fixture": "England Vs United States",
+        "prediction": "1 & Over 2.5",
+        "date": "25/11/2022"
+    },
+    {
+        "fixture": "Huesca Vs Sporting Gijon",
         "prediction": "Under 2.5 & 1/2",
-        "date": "24/11/2022"
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Portugal- : -Ghana",
-        "prediction": "Over 3.5",
-        "date": "24/11/2022"
+        "fixture": "Porto Vs Mafra",
+        "prediction": "Under 2.5 & 1/2",
+        "date": "25/11/2022"
     },
     {
-        "fixture": "Brazil- : -Serbia",
-        "prediction": "Over 3.5",
-        "date": "24/11/2022"
-    },
-    {
-        "fixture": "Brazil- : -Serbia",
-        "prediction": "Over 3.5",
-        "date": "24/11/2022"
+        "fixture": "Porto Vs Mafra",
+        "prediction": "Under 2.5 & 1/2",
+        "date": "25/11/2022"
     }
     
     
