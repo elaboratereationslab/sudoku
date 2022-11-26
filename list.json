@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Nov 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Nov 26 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        },
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Nov 25 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Nov 26 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
        },
        {
-          "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Nov 25 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+          "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Nov 26 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":9
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Nov 25 2022", "odds":"Total Standard Tips = 50.45 + Odds", "id":"id_standard_sub","length":11     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Nov 26 2022", "odds":"Total Standard Tips = 50.45 + Odds", "id":"id_standard_sub","length":11     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Nov 25 2022", "odds":"Total Premium Tips = 90.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Nov 26 2022", "odds":"Total Premium Tips = 90.29 + Odds",  "id":"id_premium_sub","length":11
         }
     
         
@@ -118,29 +118,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Wales Vs Iran",
-            "prediction": "Under 2.5",
-            "date": "25/11/2022"
+            "fixture": "Tunisia VS Australia",
+            "prediction": "Under 3.5",
+            "date": "26/11/2022"
         },
         {
-            "fixture": "Qatar Vs Senegal",
-            "prediction": "Under 3.5",
-            "date": "25/11/2022"
+            "fixture": "Poland VS Saudi Arabia",
+            "prediction": "Under 2.5",
+            "date": "26/11/2022"
         },
      {
-            "fixture": "RB Leipzig Vs Radomiak Radom",
+            "fixture": "Shandong Taishan VS Wuhan Zall FC",
             "prediction": "1",
-            "date": "25/11/2022"
+            "date": "26/11/2022"
         },
         {
-            "fixture": "Rapid Vienna Vs Floridsdorfer AC",
-            "prediction": "Over 2.5",
-            "date": "25/11/2022"
+            "fixture": "Shenzhen Honzuan VS Wuhan Three Towns",
+            "prediction": "1 & Over 1.5",
+            "date": "26/11/2022"
         },
         {
-            "fixture": "Netherlands Vs Ecuador",
-            "prediction": "1/X",
-            "date": "25/11/2022"
+            "fixture": "Sochi VS CSKA Moscow",
+            "prediction": "X/2",
+            "date": "26/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -170,65 +170,65 @@
  
  "paidPredictions":[
     {
-        "fixture": "Netherlands VS Ecuador",
-        "prediction": "X",
-        "date": "25/11/2022"
+        "fixture": "Dynamo Kyiv VS Metalist 1925",
+        "prediction": "1 & Over 1.5",
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Aris Limassol Vs AE Paphos",
-        "prediction": "GG & Over 2.5",
-        "date": "25/11/2022"
+        "fixture": "Parma VS Modena",
+        "prediction": "1 & Over 2.5",
+        "date": "26/11/2022"
     },
     
     {
-        "fixture": "Red Star Vs Nancy",
+        "fixture": "Sheffield Wednesday VS Mansfield Town",
+        "prediction": "1 & GG & Over 2.5",
+        "date": "26/11/2022"
+    },
+    {
+        "fixture": "Barnsley VS Crewe Alexandra",
+        "prediction": "1",
+        "date": "26/11/2022"
+    },
+    {
+        "fixture": "Portsmouth VS Milton Keynes Dons",
         "prediction": "Under 2.5",
-        "date": "25/11/2022"
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Yverdon Sport Vs Neuchatel Xamax",
-        "prediction": "GG & Over 2.5",
-        "date": "25/11/2022"
-    },
-    {
-        "fixture": "Avranches Vs Dunkerque",
-        "prediction": "Under 2.5",
-        "date": "25/11/2022"
-    },
-    {
-        "fixture": "FC Martigues Vs Orleans",
+        "fixture": "Deportivo Alaves VS Villarreal II",
         "prediction": "1 & Under 3.5",
-        "date": "25/11/2022"
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Paris 13 Atletico Vs US Concarneau",
-        "prediction": "2 & Under 3.5",
-        "date": "25/11/2022"
-    },
-    {
-        "fixture": "Saint-Brieuc Vs Cholet",
-        "prediction": "Over 2.5 & 1/2",
-        "date": "25/11/2022"
-    },
-    {
-        "fixture": "England Vs United States",
+        "fixture": "France VS Denmark",
         "prediction": "1 & Over 2.5",
-        "date": "25/11/2022"
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Huesca Vs Sporting Gijon",
-        "prediction": "Under 2.5 & 1/2",
-        "date": "25/11/2022"
+        "fixture": "FC Wil 1900 Vs Lausanne Ouchy",
+        "prediction": "Over 2.5 & 1/2",
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Porto Vs Mafra",
-        "prediction": "Under 2.5 & 1/2",
-        "date": "25/11/2022"
+        "fixture": "AEK Larnaca Vs Apollon Limasol",
+        "prediction": "GG Over 2.5",
+        "date": "26/11/2022"
     },
     {
-        "fixture": "Porto Vs Mafra",
+        "fixture": "Pisa 1909 Vs Ternana Calcio",
+        "prediction": "GG",
+        "date": "26/11/2022"
+    },
+    {
+        "fixture": "Argentina Vs Mexico",
+        "prediction": "1 & Over 2.5",
+        "date": "26/11/2022"
+    },
+    {
+        "fixture": "Las Palmas Vs Tenerife",
         "prediction": "Under 2.5 & 1/2",
-        "date": "25/11/2022"
+        "date": "26/11/2022"
     }
     
     
