@@ -7,16 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Nov 27 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Nov 28 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Nov 27 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 28 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Nov 27 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":16     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Nov 28 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":8     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Nov 27 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Nov 28 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":8
         }
     
         
@@ -115,29 +115,24 @@
     
    "freePredictions":[
     {
-            "fixture": "Japan- : -Costa Rica",
-            "prediction": "1",
-            "date": "27/11/2022"
+            "fixture": "Cameroon- : -Serbia",
+            "prediction": "Under 2.5",
+            "date": "28/11/2022"
         },
         {
-            "fixture": "Belgium- : -Morocco",
-            "prediction": "Under 2.5",
-            "date": "27/11/2022"
+            "fixture": "South Korea- : -Ghana",
+            "prediction": "2",
+            "date": "28/11/2022"
         },
      {
-            "fixture": "Croatia- : -Canada",
-            "prediction": "2/X",
-            "date": "27/11/2022"
+            "fixture": "Deportes Pereira- : -Independiente Santa Fe",
+            "prediction": "1",
+            "date": "28/11/2022"
         },
         {
-            "fixture": "Spain- : -Germany",
-            "prediction": "Over 2.5",
-            "date": "27/11/2022"
-        },
-        {
-            "fixture":"Ebbsfleet United- : -Fleetwood",
-            "prediction": "GG & Over 2.5",
-            "date": "27/11/2022"
+            "fixture": "Aris Limassol- : -",
+            "prediction": "Under 2.5",
+            "date": "28/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -167,92 +162,50 @@
  
  "paidPredictions":[
     {
-        "fixture": "Bristol Rovers- : -Boreham Wood",
-        "prediction": "1 & Over 2.5",
-        "date": "27/11/2022"
+        "fixture": "Brazil- : -Switzerland",
+        "prediction": "1",
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Burton Albion- : -Chippenham Town",
+        "fixture": "Portugal- : -Uruguay",
         "prediction": "GG & Over 2.5",
-        "date": "27/11/2022"
+        "date": "28/11/2022"
     },
     
     {
-        "fixture": "Newport- : -Derby County",
-        "prediction": "2",
-        "date": "27/11/2022"
+        "fixture": "Olympiakos Nicosia- : -Nea Salamina",
+        "prediction": "1X",
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Burgos- : -Zaragoza",
-        "prediction": "1 & Under 3.5",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Leganes- : -Granada",
+        "fixture": "Chateauroux- : -Le Mans",
         "prediction": "Under 2.5",
-        "date": "27/11/2022"
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Lugo- : -Levante UD",
-        "prediction": "2",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Cartagena- : -Eibar",
-        "prediction": "GG & Over 2.5",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Dinamo Moscow- : -Gazovik Orenburg",
-        "prediction": "GG",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Krylia Sovetov Samara- : -Fakel",
-        "prediction": "GG",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Lokomotiv Moscow- : -Pari Nizhny Novgorod",
+        "fixture": "Boavista- : -UDV Vilafranquense",
         "prediction": "1",
-        "date": "27/11/2022"
-    },
-
-    {
-        "fixture": "MFK Ruzomberok- : -Zlate Moravce",
-        "prediction": "Under 2.5",
-        "date": "27/11/2022"
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Litex Lovech- : -Cherno More Varna",
-        "prediction": "Under 2.5",
-        "date": "27/11/2022"
+        "fixture": "UD Ibiza Eivissa- : -FC Andorra",
+        "prediction": "X",
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Zorya Luhansk- : -FK Minai",
+        "fixture": "FC Oleksandriya- : -Rukh Vinnyky",
         "prediction": "Over 2.5",
-        "date": "27/11/2022"
-    },
-
-    {
-        "fixture": "Reggina- : -Benevento Calcio",
-        "prediction": "GG & Over 2.5",
-        "date": "27/11/2022"
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Brescia- : -SPAL",
-        "prediction": "Under 2.5",
-        "date": "27/11/2022"
+        "fixture": "Kryvbas Kryvyi Rih- : -Dnipro-1",
+        "prediction": "2",
+        "date": "28/11/2022"
     },
     {
-        "fixture": "Apoel Nicosia- : -Omonia Nicosia",
-        "prediction": "Over 2.5",
-        "date": "27/11/2022"
-    },
-    {
-        "fixture": "Apoel Nicosia- : -Omonia Nicosia",
-        "prediction": "Over 2.5",
-        "date": "27/11/2022"
+        "fixture": "Kryvbas Kryvyi Rih- : -Dnipro-1",
+        "prediction": "2",
+        "date": "28/11/2022"
     }
     
     
