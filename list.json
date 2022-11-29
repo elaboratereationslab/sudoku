@@ -10,16 +10,16 @@
           "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 29 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Guarenteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+        "name": "Jackpot Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Guarenteed Jackpot Bonus","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 29 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":8     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 29 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 29 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":8
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 29 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":9
         }
     
         
@@ -136,6 +136,11 @@
             "fixture": "Queens Park Rangers- : -Livingston",
             "prediction": "Over 2.5",
             "date": "29/11/2022"
+        },
+        {
+            "fixture": "Fortuna Dusseldorf- : -De Graafschap",
+            "prediction": "1",
+            "date": "29/11/2022"
         }
  ],
  "fixedPredictions":[
@@ -165,50 +170,55 @@
  
  "paidPredictions":[
     {
-        "fixture": "Brazil- : -Switzerland",
-        "prediction": "1",
-        "date": "28/11/2022"
+        "fixture": "Koge- : -B93 Copenhagen",
+        "prediction": "Over 2.5",
+        "date": "29/11/2022"
     },
     {
-        "fixture": "Portugal- : -Uruguay",
-        "prediction": "GG & Over 2.5",
-        "date": "28/11/2022"
+        "fixture": "Fortuna Dusseldorf- : -De Graafschap",
+        "prediction": "1",
+        "date": "29/11/2022"
     },
     
     {
-        "fixture": "Olympiakos Nicosia- : -Nea Salamina",
+        "fixture": "Iran- : -United States",
         "prediction": "1X",
-        "date": "28/11/2022"
+        "date": "29/11/2022"
     },
     {
-        "fixture": "Chateauroux- : -Le Mans",
-        "prediction": "Under 2.5",
-        "date": "28/11/2022"
-    },
-    {
-        "fixture": "Boavista- : -UDV Vilafranquense",
+        "fixture": "Besiktas- : -İstanbulspor",
         "prediction": "1",
-        "date": "28/11/2022"
+        "date": "29/11/2022"
     },
     {
-        "fixture": "UD Ibiza Eivissa- : -FC Andorra",
-        "prediction": "X",
-        "date": "28/11/2022"
-    },
-    {
-        "fixture": "FC Oleksandriya- : -Rukh Vinnyky",
+        "fixture": "Germany U19- : -Portugal U19",
         "prediction": "Over 2.5",
-        "date": "28/11/2022"
+        "date": "29/11/2022"
     },
     {
-        "fixture": "Kryvbas Kryvyi Rih- : -Dnipro-1",
-        "prediction": "2",
-        "date": "28/11/2022"
+        "fixture": "Chindia Targoviste- : -Univ. Craiova",
+        "prediction": "Under 2.5",
+        "date": "29/11/2022"
     },
     {
-        "fixture": "Kryvbas Kryvyi Rih- : -Dnipro-1",
-        "prediction": "2",
-        "date": "28/11/2022"
+        "fixture": "ND Gorica- : -Tabor Sezana",
+        "prediction": "1X",
+        "date": "29/11/2022"
+    },
+    {
+        "fixture": "Maribor- : -Bravo",
+        "prediction": "1",
+        "date": "29/11/2022"
+    },
+    {
+        "fixture": "Ecuador- : -Senegal",
+        "prediction": "1X",
+        "date": "29/11/2022"
+    },
+    {
+        "fixture": "Ecuador- : -Senegal",
+        "prediction": "1X",
+        "date": "29/11/2022"
     }
     
     
