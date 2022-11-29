@@ -7,16 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Nov 28 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Tue Nov 29 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Nov 28 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Nov 28 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":8     
+        "name": "Jackpot Tips", "amount": "Ksh100" , "accessDays": "Tue Nov 29 2022", "odds":"Guarenteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+     },
+       {
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Nov 29 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":8     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Nov 28 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":8
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Nov 29 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":8
         }
     
         
@@ -115,24 +118,24 @@
     
    "freePredictions":[
     {
-            "fixture": "Cameroon- : -Serbia",
-            "prediction": "Under 2.5",
-            "date": "28/11/2022"
+            "fixture": "Netherlands- : -Qatar",
+            "prediction": "Under 3.5",
+            "date": "29/11/2022"
         },
         {
-            "fixture": "South Korea- : -Ghana",
-            "prediction": "2",
-            "date": "28/11/2022"
+            "fixture": "Ecuador- : -Senegal",
+            "prediction": "1/X",
+            "date": "29/11/2022"
         },
      {
-            "fixture": "Deportes Pereira- : -Independiente Santa Fe",
-            "prediction": "1",
-            "date": "28/11/2022"
+            "fixture": "Wales- : -England",
+            "prediction": "1/2",
+            "date": "29/11/2022"
         },
         {
-            "fixture": "Aris Limassol- : -AE Paphos",
-            "prediction": "Under 2.5",
-            "date": "28/11/2022"
+            "fixture": "Queens Park Rangers- : -Livingston",
+            "prediction": "Over 2.5",
+            "date": "29/11/2022"
         }
  ],
  "fixedPredictions":[
