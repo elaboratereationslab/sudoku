@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Wed Nov 30 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thur Dec 01 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Nov 30 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thur Dec 01 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":12
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed Nov 30 2022", "odds":"Guarenteed Jackpot Bonus","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thur Dec 01 2022", "odds":"Guarenteed Jackpot Bonus","id":"id_jackpot_sub","length":12
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Nov 30 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thur Dec 01 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":12     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Nov 30 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":9
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thur Dec 01 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":12
         }
     
         
@@ -98,29 +98,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Tunisia vs France",
-            "prediction": "Away win",
-            "date": "30/11/2022"
+            "fixture": "Canada- : -Morocco",
+            "prediction": "Over 2.5",
+            "date": "01/12/2022"
         },
         {
-            "fixture": "Australia vs Denmark",
-            "prediction": "Away win",
-            "date": "30/11/2022"
+            "fixture": "Croatia- : -Belgium",
+            "prediction": "1/2 & Under 3.5",
+            "date": "01/12/2022"
         },
      {
-            "fixture": "Shanghai Port- : -Henan Songshan Longmen",
-            "prediction": "Home Win",
-            "date": "30/11/2022"
+            "fixture": "Costa Rica- : -Germany",
+            "prediction": "HF/FT 2/2",
+            "date": "01/12/2022"
         },
         {
-            "fixture": "Wuhan Three Towns- : -Changchun Yatai",
-            "prediction": "Home Win",
-            "date": "30/11/2022"
+            "fixture": "Zorya Luhansk- : -Kolos-Kovalivka Kyiv",
+            "prediction": "Under 2.5",
+            "date": "01/12/2022"
         },
         {
-            "fixture": "Fortuna Dusseldorf- : -De Graafschap",
+            "fixture": "Ludogorets Razgrad- : -Levski Sofia",
             "prediction": "Home Win",
-            "date": "30/11/2022"
+            "date": "01/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -150,65 +150,70 @@
  
  "paidPredictions":[
     {
-        "fixture": "Saudi Arabia vs Mexico",
+        "fixture": "Japan vs Spain",
         "prediction": "2",
-        "date": "30/11/2022"
+        "date": "01/12/2022"
     },
     {
-        "fixture": "Poland vs Argentina",
-        "prediction": "2 & Over 2.5",
-        "date": "30/11/2022"
+        "fixture": "America de Cali- : -Rionegro Aguilas",
+        "prediction": "Under 2.5",
+        "date": "01/12/2022"
     },
     
     {
-        "fixture": "Shandong Taishan vs Cangzhou",
-        "prediction": "1 & Under 3.5",
-        "date": "30/11/2022"
+        "fixture": "Deportivo Pasto- : -Independiente Medellin",
+        "prediction": "Under 2.5",
+        "date": "01/12/2022"
     },
     {
-        "fixture": "Hebei China Fortune vs Dalian Pro",
-        "prediction": "X/2",
-        "date": "30/11/2022"
+        "fixture": "Independiente Santa Fe- : -Millonarios",
+        "prediction": "GG & Over 1.5",
+        "date": "01/12/2022"
     },
     {
-        "fixture": "Tianjin Tiger vs Guangzhou City",
+        "fixture": "Athletico Junior- : -Deportes Pereira",
+        "prediction": "FT Under 3.5",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Meizhou Hakka- : -Shanghai Shenhua",
+        "prediction": "Under 2.5",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Chengdu Rongcheng- : -Guangzhou FC",
         "prediction": "1",
-        "date": "30/11/2022"
+        "date": "01/12/2022"
     },
     {
-        "fixture": "Zhejiang Lucheng vs Beijing Guoan",
+        "fixture": "Sporting Lisbon- : -SC Farense",
+        "prediction": "1 & Under 2.5",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Academica Viseu- : -Estoril",
+        "prediction": "Under 3.5 & 2/X",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Maritimo- : -Rio Ave",
+        "prediction": "Under 2.5",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Botosani- : -CSA Steaua",
+        "prediction": "X",
+        "date": "01/12/2022"
+    },
+    {
+        "fixture": "Olimpija Ljubljana- : -Celje",
         "prediction": "Over 2.5",
-        "date": "30/11/2022"
+        "date": "01/12/2022"
     },
     {
-        "fixture": "Wuhan Three Towns vs Changchun Yatai",
-        "prediction": "1",
-        "date": "30/11/2022"
-    },
-    {
-        "fixture": "Shenzhen Honzuan vs Wuhan Zall FC",
+        "fixture": "Olimpija Ljubljana- : -Celje",
         "prediction": "Over 2.5",
-        "date": "30/11/2022"
-    },
-    {
-        "fixture": "Tenerife vs Real Oviedo",
-        "prediction": "Over 2.5",
-        "date": "30/11/2022"
-    },
-    {
-        "fixture": "Dynamo Kyiv- : -Metalist Kharkiv",
-        "prediction": "1",
-        "date": "30/11/2022"
-    },
-    {
-        "fixture": "Everton U21- : -Mansfield Town",
-        "prediction": "Over 2.5",
-        "date": "30/11/2022"
-    },
-    {
-        "fixture": "Everton U21- : -Mansfield Town",
-        "prediction": "Over 2.5",
-        "date": "30/11/2022"
+        "date": "01/12/2022"
     }
     
     
