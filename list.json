@@ -7,19 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Dec 03 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Dec 04 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Dec 03 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Dec 04 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 03 2022", "odds":"Guarenteed Jackpot Bonus","id":"id_jackpot_sub","length":11
-     },
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 03 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":11     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Dec 04 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":11     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 03 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Dec 04 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":11
         }
     
         
@@ -30,53 +27,53 @@
     {
             "fixture": "ACCRINGTON VS OXFORD UTD",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "COVE RANGERS VS PARTICK THISLE",
             "prediction": "X",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "ARBROATH VS MORTON",
             "prediction": "X",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
     
         {
             "fixture": "NORTHAMPTON Vs TRANMERE",
             "prediction": "2",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "SAKARYASPOR Vs ERZURUM BB",
             "prediction": "X",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "CAGLIARI Vs PARMA FC",
             "prediction": "2",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "MIRANDES Vs ALBACETE BALOMPIE",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "DEPORTIVO LA CORUNA Vs CORDOBA",
             "prediction": "X",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "SPORTING GIJON Vs LAS PALMAS UD",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "VILLARREAL B Vs LEGANES",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "MANISA BBSK Vs KECIORENGUCU",
@@ -120,27 +117,27 @@
     {
             "fixture": "France- : -Poland",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "England- : -Senegal",
             "prediction": "Over 2.5",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
      {
             "fixture": "Ludogorets Razgrad- : -Levski Sofia",
             "prediction": "Under 2.5",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "SPAL- : -Modena",
             "prediction": "1",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         },
         {
             "fixture": "Nuova Cosenza- : -Perugia",
             "prediction": "Over 2.5",
-            "date": "03/12/2022"
+            "date": "04/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -172,58 +169,58 @@
     {
         "fixture": "Genoa- : -Cittadella",
         "prediction": "1",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Brescia- : -Reggina",
         "prediction": "Under 2.5",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     
     {
         "fixture": "Benevento Calcio- : -Palermo",
         "prediction": "1",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "FC Andorra- : -Cartagena",
         "prediction": "1",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Eibar- : -Huesca",
         "prediction": "Over 1.5",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "CFR Cluj- : -Chindia Targoviste",
         "prediction": "Under 2.5",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Arges Pitesti- : -Rapid Bucharest",
         "prediction": "2",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Anorthosis Famagusta- : -Aris Limassol",
         "prediction": "HT/FT 2/2",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Apollon Limasol- : -AEL Limassol",
         "prediction": "GG",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Wycombe Wanderers- : -Portsmouth",
         "prediction": "No GG",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Farul Constanta- : -Botosani",
         "prediction": "No GG",
-        "date": "03/12/2022"
+        "date": "04/12/2022"
     },
     {
         "fixture": "Charlton Athletic- : -Cheltenham Town",
@@ -237,6 +234,111 @@
 
 
    "predictionResults":[
+   {
+        "date": "Saturday, 3rd December 2022",
+        "gamesList": [
+         {
+             "fixture": "Ahrweiler BC VS TuS Kirchberg",
+             "prediction": "Over 4.5 & NG",
+             "odds": "5.22",
+             "results": "Odds 5.22 (WIN)"
+         },
+         {
+             "fixture": "UE Sant Andreu VS Girona B",
+             "prediction": "HT/FT 1/1",
+             "odds": "7.34",
+             "results": "7.34 (WIN)"
+         },
+         {
+             "fixture": "CD Estradense VS Silva SD",
+             "prediction": "CS 3-1",
+             "odds": "7.26",
+             "results": "Odds 7.26 (WIN)"
+         },
+             {
+             "fixture": "AS Poissy VS Vannes OC",
+             "prediction": "HT Draw",
+             "odds": "2.41",
+             "results": "Odds 2.41 (WIN)"
+         },
+             {
+             "fixture": "FC Fleury 91 VS Besancon RC",
+             "prediction": "Draw",
+             "odds": "3.25",
+             "results": "Odds 3.25 (WIN)"
+         }
+        ]
+     },
+   {
+        "date": "Friday, 2nd December 2022",
+        "gamesList": [
+         {
+             "fixture": "Beroe Stara Zagora VS CSKA 1948",
+             "prediction": "HT Draw",
+             "odds": "2.51",
+             "results": "Odds 2.51 (WIN)"
+         },
+         {
+             "fixture": "Merani Martvili VS WIT Georgia",
+             "prediction": "HT/FT 1/1",
+             "odds": "5.02",
+             "results": "5.02 (WIN)"
+         },
+         {
+             "fixture": "FC Shukura VS Metalurgi Rustavi",
+             "prediction": "HT/FT 2/1",
+             "odds": "6.92",
+             "results": "Odds 6.92 (WIN)"
+         },
+             {
+             "fixture": "Real Esteli VS Matagalpa FC",
+             "prediction": "Over 5.5 Goals",
+             "odds": "4.68",
+             "results": "Odds 4.68 (WIN)"
+         },
+             {
+             "fixture": "Sreenidi Deccan VS Mohammedan SC",
+             "prediction": "HT Under 0.5 Goals",
+             "odds": "3.16",
+             "results": "Odds 3.16 (WIN)"
+         }
+        ]
+     },
+   {
+        "date": "Thursday, 01st December 2022",
+        "gamesList": [
+         {
+             "fixture": "Araz Nakhchivan VS Qaradag Lokbatan",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.92",
+             "results": "Odds 4.92 (WIN)"
+         },
+         {
+             "fixture": "Chengdu Qianbao VS GZ Evergrande FC",
+             "prediction": "Correct Score 2-0",
+             "odds": "6.51",
+             "results": "6.51 (WIN)"
+         },
+         {
+             "fixture": "MOIK Baku VS Energetik Mingachevir",
+             "prediction": "GG & Over 4.5",
+             "odds": "5.57",
+             "results": "Odds 5.57 (WIN)"
+         },
+             {
+             "fixture": "Gabala FC II VS Sebail II",
+             "prediction": "Draw",
+             "odds": "6.94",
+             "results": "Odds 6.94 (WIN)"
+         },
+             {
+             "fixture": "Sreenidi Deccan VS Mohammedan SC",
+             "prediction": "Over 5.5 Goals",
+             "odds": "5.74",
+             "results": "Odds 5.74 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Saturday, 19th November 2022",
         "gamesList": [
