@@ -7,16 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Dec 04 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Mon Dec 05 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Dec 04 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Dec 05 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Dec 04 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":11     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Dec 05 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":7     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Dec 04 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Dec 05 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":7
         }
     
         
@@ -115,29 +115,29 @@
     
    "freePredictions":[
     {
-            "fixture": "France- : -Poland",
-            "prediction": "1",
-            "date": "04/12/2022"
+            "fixture": "Japan- : -Croatia",
+            "prediction": "1X",
+            "date": "05/12/2022"
         },
         {
-            "fixture": "England- : -Senegal",
+            "fixture": "Brazil- : -South Korea",
             "prediction": "Over 2.5",
-            "date": "04/12/2022"
+            "date": "05/12/2022"
         },
      {
-            "fixture": "Ludogorets Razgrad- : -Levski Sofia",
-            "prediction": "Under 2.5",
-            "date": "04/12/2022"
-        },
-        {
-            "fixture": "SPAL- : -Modena",
+            "fixture": "Beijing Guoan- : -Dalian Pro",
             "prediction": "1",
-            "date": "04/12/2022"
+            "date": "05/12/2022"
         },
         {
-            "fixture": "Nuova Cosenza- : -Perugia",
+            "fixture": "Hebei China Fortune- : -Meizhou Hakka",
+            "prediction": "2",
+            "date": "05/12/2022"
+        },
+        {
+            "fixture": "Versailles 78- : -Sedan",
             "prediction": "Over 2.5",
-            "date": "04/12/2022"
+            "date": "05/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -167,65 +167,45 @@
  
  "paidPredictions":[
     {
-        "fixture": "Genoa- : -Cittadella",
-        "prediction": "1",
-        "date": "04/12/2022"
+        "fixture": "Tianjin Tiger- : -Guangzhou FC",
+        "prediction": "Under 2.5 & No GG",
+        "date": "05/12/2022"
     },
     {
-        "fixture": "Brescia- : -Reggina",
-        "prediction": "Under 2.5",
-        "date": "04/12/2022"
+        "fixture": "Hebei China Fortune- : -Meizhou Hakka",
+        "prediction": "Under 3.5",
+        "date": "05/12/2022"
     },
     
     {
-        "fixture": "Benevento Calcio- : -Palermo",
-        "prediction": "1",
-        "date": "04/12/2022"
+        "fixture": "Henan Songshan Longmen- : -Chengdu Rongcheng",
+        "prediction": "Under 2.5 & No GG",
+        "date": "05/12/2022"
     },
     {
         "fixture": "FC Andorra- : -Cartagena",
-        "prediction": "1",
-        "date": "04/12/2022"
-    },
-    {
-        "fixture": "Eibar- : -Huesca",
-        "prediction": "Over 1.5",
-        "date": "04/12/2022"
-    },
-    {
-        "fixture": "CFR Cluj- : -Chindia Targoviste",
         "prediction": "Under 2.5",
-        "date": "04/12/2022"
+        "date": "05/12/2022"
     },
     {
-        "fixture": "Arges Pitesti- : -Rapid Bucharest",
-        "prediction": "2",
-        "date": "04/12/2022"
+        "fixture": "Omonia Nicosia- : -Karmiotissa",
+        "prediction": "Over 2.5",
+        "date": "05/12/2022"
     },
     {
-        "fixture": "Anorthosis Famagusta- : -Aris Limassol",
-        "prediction": "HT/FT 2/2",
-        "date": "04/12/2022"
+        "fixture": "CSA Steaua- : -CS Mioveni",
+        "prediction": "1 & Under 2.5",
+        "date": "05/12/2022"
+    },
+    {
+        "fixture": "Ponferradina- : -Burgos",
+        "prediction": "2 & Under 2.5",
+        "date": "05/12/2022"
     },
     {
         "fixture": "Apollon Limasol- : -AEL Limassol",
         "prediction": "GG",
         "date": "04/12/2022"
-    },
-    {
-        "fixture": "Wycombe Wanderers- : -Portsmouth",
-        "prediction": "No GG",
-        "date": "04/12/2022"
-    },
-    {
-        "fixture": "Farul Constanta- : -Botosani",
-        "prediction": "No GG",
-        "date": "04/12/2022"
-    },
-    {
-        "fixture": "Charlton Athletic- : -Cheltenham Town",
-        "prediction": "GG",
-        "date": "02/12/2022"
     }
     
     
