@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Friday Dec 09 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Dec 10 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Friday Dec 09 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "ksh100" , "accessDays": "Sat Dec 10 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Friday Dec 09 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":6
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 10 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":6
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Friday Dec 09 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":7     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 10 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Friday Dec 09 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":7
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 10 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":12
         }
     
         
@@ -118,29 +118,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Shanghai Shenhua VS Dalian Pro",
-            "prediction": "X",
-            "date": "09/12/2022"
+            "fixture": "Wellington Phoenix vs Western Sydney",
+            "prediction": "Under 2.5",
+            "date": "10/12/2022"
         },
         {
-            "fixture": "Croatia VS Brazil",
-            "prediction": "2",
-            "date": "09/12/2022"
+            "fixture": "Blackburn Rovers vs Preston North End",
+            "prediction": "GG",
+            "date": "10/12/2022"
         },
         {
-            "fixture": "Netherlands vs Argentina",
-            "prediction": "2",
-            "date": "09/12/2022"
+            "fixture": "Zhejiang Lucheng vs Meizhou Hakka",
+            "prediction": "Home to score Over 1.5 & 1 & Over 2.5 & GG",
+            "date": "10/12/2022"
         },
         {
-            "fixture": "Wuhan Three Towns vs Shandong Taishan",
-            "prediction": "GG & 1",
-            "date": "09/12/2022"
+            "fixture": "Morocco vs Portugal",
+            "prediction": "2 to score & Win & HT Under 1.5",
+            "date": "10/12/2022"
         },
         {
-            "fixture": "Crawley Town vs Hartlepool United",
-            "prediction": "1",
-            "date": "09/12/2022"
+            "fixture": "Stoke City vs Cardiff City",
+            "prediction": "GG & Over 2.5",
+            "date": "10/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -175,45 +175,65 @@
  
  "paidPredictions":[
     {
-        "fixture": "Croatia VS Brazil",
-        "prediction": "1-2 (Fixed)",
-        "date": "09/12/2022"
+        "fixture": "Ipswich Town vs Peterborough United",
+        "prediction": "X & GG",
+        "date": "10/12/2022"
     },
     {
-        "fixture": "Doxa Katokopias vs AEK Larnaca",
-        "prediction": "2 & Under 2.5",
-        "date": "09/12/2022"
+        "fixture": "Rangers vs Bayer 04 Leverkusen",
+        "prediction": "2X",
+        "date": "10/12/2022"
     },
     
     {
-        "fixture": "Avranches vs Nancy",
+        "fixture": "Harrogate Town vs Northampton",
+        "prediction": "Over 2.5",
+        "date": "10/12/2022"
+    },
+    {
+        "fixture": "Crewe Alexandra vs Leyton Orient",
+        "prediction": "1 & Over 2.5",
+        "date": "10/12/2022"
+    },
+    {
+        "fixture": "Sutton United vs Colchester",
+        "prediction": "GG & Over 2.5",
+        "date": "10/12/2022"
+    },
+    {
+        "fixture": "Stevenage vs Mansfield Town",
+        "prediction": "Over 2.5 & 1",
+        "date": "10/12/2022"
+    },
+    {
+        "fixture": "Oxford United vs Barnsley",
+        "prediction": "Over 2.5",
+        "date": "10/12/2022"
+    },
+    {
+        "fixture": "Milton Keynes Dons vs Fleetwood",
         "prediction": "X",
-        "date": "09/12/2022"
+        "date": "10/12/2022"
     },
     {
-        "fixture": "Le Puy vs Dunkerque",
-        "prediction": "2 & Under 3.5",
-        "date": "09/12/2022"
+        "fixture": "Blackpool vs Birmingham",
+        "prediction": "Over 2.5",
+        "date": "10/12/2022"
     },
     {
-        "fixture": "Sedan vs Cholet",
-        "prediction": "GG",
-        "date": "09/12/2022"
-    },
-    {
-        "fixture": "Red Star vs Versailles 78",
+        "fixture": "Morecambe vs Charlton Athletic",
         "prediction": "X",
-        "date": "09/12/2022"
+        "date": "10/12/2022"
     },
     {
-        "fixture": "Netherlands vs Argentina",
-        "prediction": "HT Under 2.5 & FT Under 3.5",
-        "date": "09/12/2022"
+        "fixture": "England vs France",
+        "prediction": "GG & Over 2.5",
+        "date": "10/12/2022"
     },
     {
-        "fixture": "Netherlands vs Argentina",
-        "prediction": "HT Under 2.5 & FT Under 3.5",
-        "date": "09/12/2022"
+        "fixture": "England vs France",
+        "prediction": "GG & Over 2.5",
+        "date": "10/12/2022"
     }
     
 ],
