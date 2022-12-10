@@ -19,7 +19,7 @@
            "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 10 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 10 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 10 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":11
         }
     
         
