@@ -7,19 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Dec 10 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sun Dec 11 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "ksh100" , "accessDays": "Sat Dec 10 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "ksh100" , "accessDays": "Sun Dec 11 2022", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 10 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":6
-        },
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 10 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Dec 11 2022", "odds":"Total Standard Tips = 40.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 10 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun Dec 11 2022", "odds":"Total Premium Tips = 70.29 + Odds",  "id":"id_premium_sub","length":12
         }
     
         
@@ -118,29 +115,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Wellington Phoenix vs Western Sydney",
-            "prediction": "Under 2.5",
-            "date": "10/12/2022"
+            "fixture": "Macarthur Sydney vs Melbourne Victory",
+            "prediction": "Over 2.5",
+            "date": "11/12/2022"
         },
         {
-            "fixture": "Blackburn Rovers vs Preston North End",
+            "fixture": "Cagliari Calcio vs Perugia",
             "prediction": "GG",
-            "date": "10/12/2022"
+            "date": "11/12/2022"
         },
         {
-            "fixture": "Zhejiang Lucheng vs Meizhou Hakka",
-            "prediction": "Home to score Over 1.5 & 1 & Over 2.5 & GG",
-            "date": "10/12/2022"
+            "fixture": "Queens Park Rangers vs Burnley",
+            "prediction": "Over 2.5 & 1",
+            "date": "11/12/2022"
         },
         {
-            "fixture": "Morocco vs Portugal",
-            "prediction": "2 to score & Win & HT Under 1.5",
-            "date": "10/12/2022"
+            "fixture": "Gillingham vs Bradford City",
+            "prediction": "Over 2.5",
+            "date": "11/12/2022"
         },
         {
-            "fixture": "Stoke City vs Cardiff City",
-            "prediction": "GG & Over 2.5",
-            "date": "10/12/2022"
+            "fixture": "Las Palmas vs Albacete",
+            "prediction": "1",
+            "date": "11/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -175,65 +172,69 @@
  
  "paidPredictions":[
     {
-        "fixture": "Ipswich Town vs Peterborough United",
-        "prediction": "X & GG",
-        "date": "10/12/2022"
-    },
-    {
-        "fixture": "Rangers vs Bayer 04 Leverkusen",
+        "fixture": "Roda Kerkrade vs Heracles Almelo",
         "prediction": "2X",
-        "date": "10/12/2022"
+        "date": "11/12/2022"
     },
-    
     {
-        "fixture": "Harrogate Town vs Northampton",
+        "fixture": "De Graafschap vs Eindhoven",
         "prediction": "Over 2.5",
-        "date": "10/12/2022"
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Crewe Alexandra vs Leyton Orient",
-        "prediction": "1 & Over 2.5",
-        "date": "10/12/2022"
-    },
-    {
-        "fixture": "Sutton United vs Colchester",
+        "fixture": "Jong Ajax vs Jong FC Utrecht-",
         "prediction": "GG & Over 2.5",
-        "date": "10/12/2022"
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Stevenage vs Mansfield Town",
-        "prediction": "Over 2.5 & 1",
-        "date": "10/12/2022"
+        "fixture": "VVV-Venlo vs MVV Maastricht",
+        "prediction": "Under 3.5",
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Oxford United vs Barnsley",
+        "fixture": "Südtirol vs Ternana Calcio",
+        "prediction": "GG",
+        "date": "11/12/2022"
+    },
+    {
+        "fixture": "Frosinone Calcio vs Pisa 1909",
+        "prediction": "1",
+        "date": "11/12/2022"
+    },
+    {
+        "fixture": "Granada vs Burgos",
+        "prediction": "1X",
+        "date": "11/12/2022"
+    },
+    {
+        "fixture": "Eibar vs Real Oviedo",
+        "prediction": "Under 2.5",
+        "date": "11/12/2022"
+    },
+    {
+        "fixture": "Sporting Gijon vs Cartagena",
         "prediction": "Over 2.5",
-        "date": "10/12/2022"
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Milton Keynes Dons vs Fleetwood",
-        "prediction": "X",
-        "date": "10/12/2022"
+        "fixture": "AEL Limassol vs Aris Limassol",
+        "prediction": "2",
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Blackpool vs Birmingham",
-        "prediction": "Over 2.5",
-        "date": "10/12/2022"
+        "fixture": "Watford vs Hull City",
+        "prediction": "1",
+        "date": "11/12/2022"
     },
     {
-        "fixture": "Morecambe vs Charlton Athletic",
-        "prediction": "X",
-        "date": "10/12/2022"
+        "fixture": "Ascoli vs Genoa",
+        "prediction": "Over 2.5 & GG",
+        "date": "11/12/2022"
     },
     {
-        "fixture": "England vs France",
-        "prediction": "GG & Over 2.5",
-        "date": "10/12/2022"
-    },
-    {
-        "fixture": "England vs France",
-        "prediction": "GG & Over 2.5",
-        "date": "10/12/2022"
+        "fixture": "Ascoli vs Genoa",
+        "prediction": "Over 2.5 & GG",
+        "date": "11/12/2022"
     }
     
 ],
