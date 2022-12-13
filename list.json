@@ -13,7 +13,7 @@
           "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Dec 14 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh100" , "accessDays": "Wed Dec 14 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed Dec 14 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
      },
        {
            "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Dec 14 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9     
