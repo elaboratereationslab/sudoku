@@ -7,20 +7,22 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Thurs Dec 15 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Dec 16 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thurs Dec 15 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Dec 16 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thurs Dec 15 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Dec 16 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
      },
+       
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thurs Dec 15 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Dec 16 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thurs Dec 15 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Dec 16 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":11
         }
+        
         
     
         
@@ -99,29 +101,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Rangers- : -Hibernian",
+            "fixture": "Levadiakos vs Aris",
+            "prediction": "2X",
+            "date": "16/12/2022"
+        },
+        {
+            "fixture": "Eindhoven vs VVV-Venlo",
             "prediction": "1",
-            "date": "15/12/2022"
+            "date": "16/12/2022"
         },
         {
-            "fixture": "Panathinaikos- : -Volos NFC",
-            "prediction": "1 & Over 2.5",
-            "date": "15/12/2022"
+            "fixture": "Stormvogels Telstar vs MVV Maastricht",
+            "prediction": "1 & Under 3.5",
+            "date": "16/12/2022"
         },
         {
-            "fixture": "CSA Steaua- : -CFR Cluj",
-            "prediction": "Over 2.5 & GG",
-            "date": "15/12/2022"
+            "fixture": "Santa Clara vs Arouca",
+            "prediction": "GG & Over 2.5",
+            "date": "16/12/2022"
         },
         {
-            "fixture": "Portimonense- : -Gil Vicente",
-            "prediction": "Under 3.5",
-            "date": "15/12/2022"
-        },
-        {
-            "fixture": "Sporting Covilha- : -Nacional",
-            "prediction": "GG",
-            "date": "15/12/2022"
+            "fixture": "Saint-Brieuc vs Villefranche",
+            "prediction": "1",
+            "date": "16/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -156,64 +158,64 @@
  
  "paidPredictions":[
     {
-        "fixture": "Jong PSV Eindhoven- : -Jong Ajax",
-        "prediction": "1 & Over 2.5",
-        "date": "15/12/2022"
+        "fixture": "Porto vs Vizela",
+        "prediction": "HT/FT 1/1 ",
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Cascavel PR- : -Cianorte PR",
-        "prediction": "Under 2.5",
-        "date": "15/12/2022"
+        "fixture": "Dunkerque vs Bourg",
+        "prediction": "1/2 & Under 3.5",
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Miedz Legnica- : -Jablonec",
-        "prediction": "1/2",
-        "date": "15/12/2022"
-    },
-    {
-        "fixture": "Ingolstadt- : -Greuther Furth",
+        "fixture": "Chateauroux-Sedan",
         "prediction": "Over 2.5",
-        "date": "15/12/2022"
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Burgos- : -Athletic Bilbao",
-        "prediction": "2",
-        "date": "15/12/2022"
+        "fixture": "Cholet vs Red Star",
+        "prediction": "X",
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Cangzhou- : -Henan Songshan Longmen",
-        "prediction": "Over 2.5",
-        "date": "15/12/2022"
-    },
-    {
-        "fixture": "Paralimni- : -AEL Limassol",
-        "prediction": "Under 2.5",
-        "date": "15/12/2022"
-    },
-    {
-        "fixture": "Apollon Paralimniou- : -Agios Nikolaos",
-        "prediction": "1",
-        "date": "15/12/2022"
-    },
-    {
-        "fixture": "Bastia-Borgo- : -Avranches",
+        "fixture": "Aberystwyth Town vs Pen-y-Bont",
         "prediction": "GG & Over 2.5",
-        "date": "15/12/2022"
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Versailles 78- : -Paris 13 Atletico",
-        "prediction": "1",
-        "date": "15/12/2022"
+        "fixture": "US Concarneau vs Le Puy",
+        "prediction": "1 & Over 2.5",
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Guangzhou FC- : -Shandong Taishan",
-        "prediction": "Under 2.5",
-        "date": "15/12/2022"
+        "fixture": "Flint Town Utd vs The New Saints",
+        "prediction": "Over 3.5 & 2",
+        "date": "16/12/2022"
     },
     {
-        "fixture": "Guangzhou FC- : -Shandong Taishan",
-        "prediction": "Under 2.5",
-        "date": "15/12/2022"
+        "fixture": "Cardiff Metropolitan vs Haverfordwest County",
+        "prediction": "Over 2.5",
+        "date": "16/12/2022"
+    },
+    {
+        "fixture": "Heracles Almelo vs Dordrecht",
+        "prediction": "1 & Over 2.5",
+        "date": "16/12/2022"
+    },
+    {
+        "fixture": "NAC vs Almere City",
+        "prediction": "1/2 & Over 2.5",
+        "date": "16/12/2022"
+    },
+    {
+        "fixture": "Roda Kerkrade vs PEC Zwolle",
+        "prediction": "1/2 & Over 2.5",
+        "date": "16/12/2022"
+    },
+    {
+        "fixture": "Roda Kerkrade vs PEC Zwolle",
+        "prediction": "1/2 & Over 2.5",
+        "date": "16/12/2022"
     }
     
 ],
