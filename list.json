@@ -7,20 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Fri Dec 16 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "Ksh0" , "accessDays": "Sat Dec 17 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Dec 16 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Dec 17 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Dec 16 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
-     },
-       
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 17 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":10
+        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Dec 16 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9     
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 17 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13     
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Dec 16 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":11
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 17 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
         }
         
         
@@ -31,99 +30,119 @@
    ],
    "jackpotPredictions":[
     {
-            "fixture": "GD ESTORIL vs FAMALICAO",
+            "fixture": "Aquila Montevarchi vs Rimini FC 1912",
+            "prediction": "1X",
+            "date": "17/12/2022"
+        },
+        {
+            "fixture": "Olbia Calcio vs Lucchese Libertas 1905",
             "prediction": "1",
-            "date": "15/12/2022"
+            "date": "17/12/2022"
         },
         {
-            "fixture": "VISEU vs CD TONDELA",
-            "prediction": "1X",
-            "date": "15/12/2022"
+            "fixture": "SC Pisa vs Brescia Calcio",
+            "prediction": "X",
+            "date": "17/12/2022"
         },
         {
-            "fixture": "NEWCASTLE JETS vs BRISBANE ROAR",
-            "prediction": "1X",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "ABHA vs AL TAI",
-            "prediction": "1X",
-            "date": "16/12/2022"
+            "fixture": "Akritas Chlorakas vs Nea Salamina Famagusta",
+            "prediction": "2X",
+            "date": "17/12/2022"
         },
     
         {
-            "fixture": "SANTA CLARA vs FC AROUCA",
+            "fixture": "Beitar Jerusalem FC vs Maccabi Netanya FC",
             "prediction": "1X",
-            "date": "16/12/2022"
+            "date": "17/12/2022"
         },
         {
-            "fixture": "FCV DENDER EH vs JONG KRC GENK",
-            "prediction": "12",
-            "date": "16/12/2022"
+            "fixture": "Estrela Amadora vs FC Penafiel",
+            "prediction": "2",
+            "date": "17/12/2022"
         },
         {
-            "fixture": "RODA KERKRADE vs PEC ZWOLLE",
-            "prediction": "2X",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "NAC BREDA vs ALMERE CITY",
-            "prediction": "2X",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "HELMOND SPORT vs DEN BOSCH",
-            "prediction": "1X",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "NANCY vs FC MARTIGUES",
+            "fixture": "Reggina 1914 vs SSC Bari",
             "prediction": "1",
-            "date": "16/12/2022"
+            "date": "17/12/2022"
         },
         {
-            "fixture": "DE GRAAFSCHAP vs WILLEM II",
+            "fixture": "Real Oviedo vs Sporting Gijon",
+            "prediction": "X",
+            "date": "17/12/2022"
+        },
+        {
+            "fixture": "Western United FC vs Western Sydney Wanderers",
+            "prediction": "1",
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "Bandirmaspor vs Pendikspor",
+            "prediction": "X",
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "CD Atletico Baleares vs Real Murcia CF",
+            "prediction": "1X",
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "Turris Calcio vs Calcio Foggia",
+            "prediction": "2",
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "AO Egaleo 1931 PAE vs Chania FC",
             "prediction": "2X",
-            "date": "16/12/2022"
+            "date": "18/12/2022"
         },
         {
-            "fixture": "DUNKERQUE vs BOURG PERONNAS",
-            "prediction": "2",
-            "date": "16/12/2022"
+            "fixture": "Cosenza Calcio vs Ascoli Calcio 1898",
+            "prediction": "X",
+            "date": "18/12/2022"
         },
         {
-            "fixture": "SAINT BRIEUC vs VILLEFRANCHE SUR SAONE",
+            "fixture": "Modena FC vs Benevento Calcio",
+            "prediction": "1X",
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "Palermo FC vs Cagliari Calcio",
             "prediction": "2",
-            "date": "16/12/2022"
+            "date": "18/12/2022"
+        },
+        {
+            "fixture": "Burgos CF vs SD Huesca",
+            "prediction": "1",
+            "date": "18/12/2022"
         }
     ],
     
     
    "freePredictions":[
     {
-            "fixture": "Levadiakos vs Aris",
-            "prediction": "2X",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "Eindhoven vs VVV-Venlo",
-            "prediction": "1",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "Stormvogels Telstar vs MVV Maastricht",
-            "prediction": "1 & Under 3.5",
-            "date": "16/12/2022"
-        },
-        {
-            "fixture": "Santa Clara vs Arouca",
+            "fixture": "Hull City- : -Sunderland",
             "prediction": "GG & Over 2.5",
-            "date": "16/12/2022"
+            "date": "17/12/2022"
         },
         {
-            "fixture": "Saint-Brieuc vs Villefranche",
+            "fixture": "West Bromwich Albion vs Rotherham United",
+            "prediction": "Over 2.5",
+            "date": "17/12/2022"
+        },
+        {
+            "fixture": "Burnley vs Middlesbrough",
             "prediction": "1",
-            "date": "16/12/2022"
+            "date": "17/12/2022"
+        },
+        {
+            "fixture": "Aberdeen vs Celtic",
+            "prediction": "2 & 2 to score Over 1.5",
+            "date": "17/12/2022"
+        },
+        {
+            "fixture": "Croatia vs Morocco",
+            "prediction": "Under 2.5",
+            "date": "17/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -158,64 +177,89 @@
  
  "paidPredictions":[
     {
-        "fixture": "Porto vs Vizela",
-        "prediction": "HT/FT 1/1 ",
-        "date": "16/12/2022"
+        "fixture": "Huddersfield- : -Watford",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Dunkerque vs Bourg",
-        "prediction": "1/2 & Under 3.5",
-        "date": "16/12/2022"
+        "fixture": "Bristol City- : -Stoke City",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Chateauroux-Sedan",
-        "prediction": "Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Preston North End- : -Queens Park Rangers",
+        "prediction": "1 & Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Cholet vs Red Star",
+        "fixture": "Norwich- : -Blackburn Rovers",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
+    },
+    {
+        "fixture": "Ross County- : -St. Johnstone",
+        "prediction": "1/2",
+        "date": "17/12/2022"
+    },
+    {
+        "fixture": "Pisa 1909- : -Brescia",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
+    },
+    {
+        "fixture": "Reggina- : -Bari",
         "prediction": "X",
-        "date": "16/12/2022"
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Aberystwyth Town vs Pen-y-Bont",
-        "prediction": "GG & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Hapoel Tel Aviv- : -Hapoel Haifa",
+        "prediction": "1/2",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "US Concarneau vs Le Puy",
-        "prediction": "1 & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "MS Ashdod- : -Hapoel Beer Sheva",
+        "prediction": "1/2 & Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Flint Town Utd vs The New Saints",
-        "prediction": "Over 3.5 & 2",
-        "date": "16/12/2022"
+        "fixture": "Central Coast Mariners- : -Sydney",
+        "prediction": "1/2 & Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Cardiff Metropolitan vs Haverfordwest County",
+        "fixture": "Lugo- : -Granada",
+        "prediction": "1/2 & Under 3.5",
+        "date": "17/12/2022"
+    },
+    {
+        "fixture": "Charlton Athletic- : -Bristol Rovers",
         "prediction": "Over 2.5",
-        "date": "16/12/2022"
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Heracles Almelo vs Dordrecht",
-        "prediction": "1 & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Port Vale- : -Accrington Stanley",
+        "prediction": "Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "NAC vs Almere City",
-        "prediction": "1/2 & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Fleetwood- : -Cambridge United",
+        "prediction": "Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Roda Kerkrade vs PEC Zwolle",
-        "prediction": "1/2 & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Portsmouth- : -Milton Keynes Dons",
+        "prediction": "Over 2.5",
+        "date": "17/12/2022"
     },
     {
-        "fixture": "Roda Kerkrade vs PEC Zwolle",
-        "prediction": "1/2 & Over 2.5",
-        "date": "16/12/2022"
+        "fixture": "Akritas Chlorakas- : -Nea Salamina",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
+    },
+    {
+        "fixture": "Akritas Chlorakas- : -Nea Salamina",
+        "prediction": "Under 2.5",
+        "date": "17/12/2022"
     }
     
 ],
