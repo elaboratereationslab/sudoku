@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Mon Dec 19 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Tue Dec 20 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Dec 19 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Dec 20 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon Dec 19 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue Dec 20 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Dec 19 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Dec 20 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Dec 19 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Dec 20 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         }
         
         
@@ -120,29 +120,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Wigan Athletic vs Sheffield United",
+            "fixture": "Guadalajara- : -Elche",
+            "prediction": "Under 2.5",
+            "date": "20/12/2022"
+        },
+        {
+            "fixture": "Intercity San Juan de Alicante- : -CD Mirandes",
             "prediction": "2",
-            "date": "19/12/2022"
+            "date": "20/12/2022"
         },
         {
-            "fixture": "Karmiotissa- : -AE Paphos",
-            "prediction": "2",
-            "date": "19/12/2022"
+            "fixture": "CD Diocesano- : -Getafe",
+            "prediction": "Under 2.5 & 2",
+            "date": "20/12/2022"
         },
         {
-            "fixture": "Leganes- : -Zaragoza",
-            "prediction": "Over 1.5",
-            "date": "19/12/2022"
+            "fixture": "Gap Connah's Quay- : -Aberystwyth Town",
+            "prediction": "1 & Over 2.5",
+            "date": "20/12/2022"
         },
         {
-            "fixture": "CSA Steaua- : -Botosani",
-            "prediction": "1",
-            "date": "19/12/2022"
-        },
-        {
-            "fixture": "Perugia- : -Venezia",
-            "prediction": "Over 2.5",
-            "date": "19/12/2022"
+            "fixture": "Northampton- : -Carlisle United",
+            "prediction": "1X",
+            "date": "20/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -177,69 +177,69 @@
  
  "paidPredictions":[
     {
-        "fixture": "Karmiotissa- : -AE Paphos",
-        "prediction": "2 & Over 2.5",
-        "date": "19/12/2022"
-    },
-    {
-        "fixture": "Bristol City- : -Stoke City",
-        "prediction": "Under 2.5",
-        "date": "19/12/2022"
-    },
-    {
-        "fixture": "Roma- : -Casa Pia Atletico",
+        "fixture": "Club America- : -Deportivo Toluca",
         "prediction": "1 & Over 2.5",
-        "date": "19/12/2022"
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Malavan- : -Sepahan Isfahan",
-        "prediction": "HT/FT 2/X",
-        "date": "19/12/2022"
+        "fixture": "1860 Munich- : -Bayreuth",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Nassaji Mazandaran- : -Sanat Naft Abadan",
-        "prediction": "1 & Over 1.5",
-        "date": "19/12/2022"
+        "fixture": "Spezia Calcio- : -Groningen",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Sanat Mes Kerman- : -Mes Rafsanjan FC",
-        "prediction": "Under 2.5",
-        "date": "19/12/2022"
+        "fixture": "Paykan- : -Tractor Sazi",
+        "prediction": "X",
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Naft Masjed-Soleyman- : -Foolad Khuzestan",
-        "prediction": "Under 2.5",
-        "date": "19/12/2022"
+        "fixture": "Sporting Lisbon- : -Sporting de Braga",
+        "prediction": "1 & Over 2.5",
+        "date": "20/12/2022"
     },
     {
-        "fixture": "0Gol Gohar- : -Havadar",
+        "fixture": "CFR Cluj- : -Hermannstadt",
         "prediction": "1",
-        "date": "19/12/2022"
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Zob Ahan- : -Aluminium Arak FC",
-        "prediction": "No GG",
-        "date": "19/12/2022"
-    },
-    {
-        "fixture": "Hapoel Ironi Kiryat Shmona- : -Sectzya Nes Ziona",
-        "prediction": "GG",
-        "date": "19/12/2022"
-    },
-    {
-        "fixture": "Maccabi Bney Reine- : -Maccabi Tel Aviv",
-        "prediction": "2 & Over 2.5",
-        "date": "19/12/2022"
-    },
-    {
-        "fixture": "Maccabi Haifa- : -Hapoel Bnei Sakhnin",
+        "fixture": "KAA Gent- : -Cercle Brugge",
         "prediction": "1 & Over 2.5",
-        "date": "19/12/2022"
+        "date": "20/12/2022"
     },
     {
-        "fixture": "Maccabi Haifa- : -Hapoel Bnei Sakhnin",
-        "prediction": "1 & Over 2.5",
-        "date": "19/12/2022"
+        "fixture": "Royale Union Saint-Gilloise- : -KV Oostende",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
+    },
+    {
+        "fixture": "Mechelen- : -Seraing",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
+    },
+    {
+        "fixture": "Kasimpasa- : -Umraniyespor",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
+    },
+    {
+        "fixture": "Antalyaspor- : -Manisa",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
+    },
+    {
+        "fixture": "Fenerbahce- : -İstanbulspor",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
+    },
+    {
+        "fixture": "Fenerbahce- : -İstanbulspor",
+        "prediction": "Over 2.5",
+        "date": "20/12/2022"
     }
     
 ],
