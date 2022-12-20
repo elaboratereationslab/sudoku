@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Tue Dec 20 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Wed Dec 21 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Dec 20 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed Dec 21 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue Dec 20 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed Dec 21 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Dec 20 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed Dec 21 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Dec 20 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed Dec 21 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         }
         
         
@@ -120,29 +120,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Guadalajara- : -Elche",
+            "fixture": "Levante UD- : -FC Andorra",
             "prediction": "Under 2.5",
-            "date": "20/12/2022"
+            "date": "21/12/2022"
         },
         {
-            "fixture": "Intercity San Juan de Alicante- : -CD Mirandes",
-            "prediction": "2",
-            "date": "20/12/2022"
-        },
-        {
-            "fixture": "CD Diocesano- : -Getafe",
-            "prediction": "Under 2.5 & 2",
-            "date": "20/12/2022"
-        },
-        {
-            "fixture": "Gap Connah's Quay- : -Aberystwyth Town",
+            "fixture": "Celtic- : -Livingston",
             "prediction": "1 & Over 2.5",
-            "date": "20/12/2022"
+            "date": "21/12/2022"
+        },
+        {
+            "fixture": "Coventry City- : -West Bromwich Albion",
+            "prediction": "Under 3.5",
+            "date": "21/12/2022"
+        },
+        {
+            "fixture": "Central Coast Mariners- : -Newcastle Jets",
+            "prediction": "Over 2.5",
+            "date": "21/12/2022"
         },
         {
             "fixture": "Northampton- : -Carlisle United",
-            "prediction": "1X",
-            "date": "20/12/2022"
+            "prediction": "Over 2.5",
+            "date": "21/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -177,69 +177,69 @@
  
  "paidPredictions":[
     {
-        "fixture": "Club America- : -Deportivo Toluca",
-        "prediction": "1 & Over 2.5",
-        "date": "20/12/2022"
+        "fixture": "Nea Salamina- : -AEK Larnaca",
+        "prediction": "2 & Over 2.5",
+        "date": "21/12/2022"
     },
     {
-        "fixture": "1860 Munich- : -Bayreuth",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
-    },
-    {
-        "fixture": "Spezia Calcio- : -Groningen",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
-    },
-    {
-        "fixture": "Paykan- : -Tractor Sazi",
-        "prediction": "X",
-        "date": "20/12/2022"
-    },
-    {
-        "fixture": "Sporting Lisbon- : -Sporting de Braga",
-        "prediction": "1 & Over 2.5",
-        "date": "20/12/2022"
-    },
-    {
-        "fixture": "CFR Cluj- : -Hermannstadt",
+        "fixture": "Club Brugge- : -St.Truiden",
         "prediction": "1",
-        "date": "20/12/2022"
+        "date": "21/12/2022"
     },
     {
-        "fixture": "KAA Gent- : -Cercle Brugge",
-        "prediction": "1 & Over 2.5",
-        "date": "20/12/2022"
-    },
-    {
-        "fixture": "Royale Union Saint-Gilloise- : -KV Oostende",
+        "fixture": "KMSK Deinze- : -Zulte-Waregem",
         "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "date": "21/12/2022"
     },
     {
-        "fixture": "Mechelen- : -Seraing",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "fixture": "Genk- : -Anderlecht",
+        "prediction": "1",
+        "date": "21/12/2022"
     },
     {
-        "fixture": "Kasimpasa- : -Umraniyespor",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "fixture": "Chelmsford City- : -Wealdstone",
+        "prediction": "1 or 2",
+        "date": "21/12/2022"
     },
     {
-        "fixture": "Antalyaspor- : -Manisa",
+        "fixture": "Charlton Athletic- : -Brighton",
         "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "date": "21/12/2022"
     },
     {
-        "fixture": "Fenerbahce- : -İstanbulspor",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "fixture": "Asteras Tripolis- : -Volos NFC",
+        "prediction": "GG & Over 2.5",
+        "date": "21/12/2022"
     },
     {
-        "fixture": "Fenerbahce- : -İstanbulspor",
-        "prediction": "Over 2.5",
-        "date": "20/12/2022"
+        "fixture": "AEK Athens- : -Lamia 1964",
+        "prediction": "1 & Under 3.5",
+        "date": "21/12/2022"
+    },
+    {
+        "fixture": "Numancia- : -Sporting Gijon",
+        "prediction": "Under 2.5",
+        "date": "21/12/2022"
+    },
+    {
+        "fixture": "Juventud Torremolinos CF- : -Sevilla",
+        "prediction": "HT/FT 2/2",
+        "date": "21/12/2022"
+    },
+    {
+        "fixture": "PAS Giannina- : -Olympiakos Piraeus",
+        "prediction": "Over 2.5 & 2",
+        "date": "21/12/2022"
+    },
+    {
+        "fixture": "Logrones- : -Albacete",
+        "prediction": "X2",
+        "date": "21/12/2022"
+    },
+    {
+        "fixture": "Logrones- : -Albacete",
+        "prediction": "X2",
+        "date": "21/12/2022"
     }
     
 ],
