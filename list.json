@@ -10,16 +10,16 @@
           "name": "Free Tips", "amount": "0" , "accessDays": "Fri Dec 23 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Dec 23 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Fri Dec 23 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Dec 23 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "$3" , "accessDays": "Fri Dec 23 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Dec 23 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Fri Dec 23 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Dec 23 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount": "$5" , "accessDays": "Fri Dec 23 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         }
         
         
@@ -120,29 +120,29 @@
     
    "freePredictions":[
     {
-            "fixture": "Umraniyespor- : -Istanbul Basaksehir",
-            "prediction": "X2",
-            "date": "23/12/2022"
-        },
-        {
-            "fixture": "Ross County- : -Rangers",
-            "prediction": "2 & Over 3.5",
-            "date": "23/12/2022"
-        },
-        {
-            "fixture": "KAA Gent- : -Standard Liege",
-            "prediction": "Over 2.5",
-            "date": "23/12/2022"
-        },
-        {
-            "fixture": "Rio Ave- : -Maritimo",
-            "prediction": "1",
-            "date": "23/12/2022"
-        },
-        {
-            "fixture": "Antalyaspor- : -MKE Ankaragucu",
+            "fixture": "Mes Rafsanjan FC- : -Malavan",
             "prediction": "Under 2.5",
-            "date": "23/12/2022"
+            "date": "24/12/2022"
+        },
+        {
+            "fixture": "Havadar- : -Nassaji Mazandaran",
+            "prediction": "Under 2.5",
+            "date": "24/12/2022"
+        },
+        {
+            "fixture": "Sydney- : -Macarthur Sydney",
+            "prediction": "Over 2.5",
+            "date": "24/12/2022"
+        },
+        {
+            "fixture": "Hapoel Beer Sheva- : -Beitar Jerusalem",
+            "prediction": "1 & Over 2.5",
+            "date": "24/12/2022"
+        },
+        {
+            "fixture": "Maccabi Tel Aviv- : -Ironi Sport Hadera",
+            "prediction": "1 & Over 2.5",
+            "date": "25/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -177,69 +177,69 @@
  
  "paidPredictions":[
     {
-        "fixture": "Motherwell- : -Kilmarnock",
-        "prediction": "Over 2.5",
-        "date": "23/12/2022"
+        "fixture": "Foolad Khuzestan- : -Zob Ahan",
+        "prediction": "X",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "River Plate Montevideo- : -Unión La Calera",
-        "prediction": "1",
-        "date": "23/12/2022"
-    },
-    {
-        "fixture": "AE Paphos- : -Akritas Chlorakas",
+        "fixture": "Sepahan Isfahan- : -Naft Masjed-Soleyman",
         "prediction": "1 & Over 2.5",
-        "date": "23/12/2022"
+        "date": "24/12/2022"
     },
     {
-        "fixture": "AEL Limassol- : -Olympiakos Nicosia",
-        "prediction": "1",
-        "date": "23/12/2022"
+        "fixture": "Aluminium Arak FC- : -Gol Gohar",
+        "prediction": "Under 2.5",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Shanghai Shenhua- : -Cangzhou",
+        "fixture": "Sectzya Nes Ziona- : -MS Ashdod",
+        "prediction": "Over 2.5",
+        "date": "24/12/2022"
+    },
+    {
+        "fixture": "Hapoel Haifa- : -Maccabi Bney Reine",
         "prediction": "GG & Over 2.5",
-        "date": "23/12/2022"
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Shanghai Port- : -Shandong Taishan",
-        "prediction": "Over 2.5",
-        "date": "23/12/2022"
+        "fixture": "Hapoel Katamon- : -Hapoel Ironi Kiryat Shmona",
+        "prediction": "Under 3.5",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Hebei China Fortune- : -Guangzhou City",
-        "prediction": "Over 2.5",
-        "date": "23/12/2022"
+        "fixture": "Dundee United- : -Heart of Midlothian",
+        "prediction": "Over 3.5",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Wuhan Zall FC- : -Dalian Pro",
+        "fixture": "Hibernian- : -Livingston",
         "prediction": "GG & Over 2.5",
-        "date": "23/12/2022"
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Bala Town- : -Airbus UK Broughton",
-        "prediction": "1 & Over 2.5",
-        "date": "23/12/2022"
+        "fixture": "St. Mirren- : -Aberdeen",
+        "prediction": "GG & Over 2.5",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Flint Town Utd- : -Caernarfon",
-        "prediction": "Over 2.5",
-        "date": "23/12/2022"
+        "fixture": "Celtic- : -St. Johnstone",
+        "prediction": "HT/FT 1/1 & Over 3.5" ,
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Perth Glory- : -Wellington Phoenix",
-        "prediction": "Over 2.5 & GG",
-        "date": "23/12/2022"
+        "fixture": "Trabzonspor- : -Fenerbahce",
+        "prediction": "2 & Over 2.5 & GG",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Udinese Calcio- : -Lecce",
-        "prediction": "Under 3.5",
-        "date": "23/12/2022"
+        "fixture": "Kasimpasa- : -Sivasspor",
+        "prediction": "GG & Over 3.5",
+        "date": "24/12/2022"
     },
     {
-        "fixture": "Udinese Calcio- : -Lecce",
-        "prediction": "Under 3.5",
-        "date": "23/12/2022"
+        "fixture": "Kasimpasa- : -Sivasspor",
+        "prediction": "GG & Over 3.5",
+        "date": "24/12/2022"
     }
     
 ],
@@ -247,6 +247,250 @@
 
 
    "predictionResults":[
+    {
+        "date": "Saturday, 10.12.2022",
+        "gamesList": [
+         {
+             "fixture": "Vizela Vs. Porto",
+             "prediction": "Over 2.5",
+             "odds": "1.34",
+             "results": "4-0 (WIN)"
+         },
+         {
+             "fixture": "Ga Eagles Vs Psv",
+             "prediction": "Over 1.25",
+             "odds": "1.60",
+             "results": "2-5 (WIN)"
+         },
+         {
+             "fixture": "Leverkusen Vs Augsburg",
+             "prediction": "Over 2.5",
+             "odds": "1.42",
+             "results": "1-2 (WIN)"
+         },
+         {
+             "fixture": "Rapid Wien Ii Vs Amstetten",
+             "prediction": "Over 2.5",
+             "odds": "1.54",
+             "results": "2-2 (WIN)"
+         },
+         {
+             "fixture": "Sporting Vs Rio Ave",
+             "prediction": "Home win & Over 1.5",
+             "odds": "1.40",
+             "results": "3-0 (WIN)"
+         }
+        ]
+    },
+    {
+          "date": "Friday, 9.12.2022",
+          "gamesList": [
+           {
+               "fixture": "Yverdon-sport Vs Aarau",
+               "prediction": "Over 2.5",
+               "odds": "1.53",
+               "results": "2-2 (WIN)"
+           },
+           {
+               "fixture": "Lausanne-sport Vs Fc Wil",
+               "prediction": "Over 2.5",
+               "odds": "1.52",
+               "results": "4-0 (WIN)"
+           },
+           {
+               "fixture": "Maastricht Vs Willem Ii",
+               "prediction": "Over 2.5",
+               "odds": "1.58",
+               "results": "3-2 (WIN)"
+           },
+           {
+               "fixture": "Thun Vs Neuchatel Xamax",
+               "prediction": "1 DNB",
+               "odds": "1.30",
+               "results": "2-1 (WIN)"
+           },
+           {
+               "fixture": "Almere City Vs Roda",
+               "prediction": "2 DNB",
+               "odds": "1.28",
+               "results": "1-2 (WIN)"
+           },
+           {
+               "fixture": "Ado Den Haag Vs Jong Psv",
+               "prediction": "Over 1.5",
+               "odds": "1.20",
+               "results": "1-3 (WIN)"
+           },
+              {
+               "fixture": "Wexford Vs Bray Wanderers",
+               "prediction": "Over 1.5",
+               "odds": "1.24",
+               "results": "4-2 (WIN)"
+           },
+           {
+               "fixture": "Tns Vs Newtown",
+               "prediction": "Home win & Over 1.5",
+               "odds": "1.30",
+               "results": "4-1 (WIN)"
+           },
+              {
+               "fixture": "Waterford Utd Vs Cobh Ramblers",
+               "prediction": "Home win & Over 1.5",
+               "odds": "1.30",
+               "results": "3-1 (WIN)"
+           }
+          ]
+       },
+       {
+          "date": "Wednesday, 7.12.2022",
+          "gamesList": [
+           {
+               "fixture": "Magni Vs. Fjallabyggd",
+               "prediction": "Over 2.5",
+               "odds": "1.32",
+               "results": "1-2 (WIN)"
+           },
+           {
+               "fixture": "Solihull Moors Vs. York",
+               "prediction": "Over 1.5",
+               "odds": "1.20",
+               "results": "1-1 (WIN)"
+           },
+           {
+               "fixture": "Volsungur Vs. Aegir",
+               "prediction": "Over 2.5",
+               "odds": "1.37",
+               "results": "2-1 (WIN)"
+           },
+           {
+               "fixture": "Vikingur O Vs. Throttur R",
+               "prediction": "Over 2.5",
+               "odds": "1.37",
+               "results": "3-3 (WIN)"
+           },
+           {
+               "fixture": "Al-shamal Vs. Al Gharafa",
+               "prediction": "Over 2.5",
+               "odds": "1.52",
+               "results": "2-1 (WIN)"
+           },
+           {
+               "fixture": "Al-shamal Vs. Al Gharafa",
+               "prediction": "Over 2.5",
+               "odds": "1.52",
+               "results": "2-1 (WIN)"
+           }
+          ]
+       },
+   
+       {
+           "date": "Tuesday, 6.12.2022",
+           "gamesList": [
+            {
+                "fixture": "Copenhagen Vs. Trabzonspor",
+                "prediction": "Over 1.5",
+                "odds": "1.54",
+                "results": "2-1 (WIN)"
+            },
+            {
+                "fixture": "Shanghai Sipg Vs. Shenzhen Honzuan",
+                "prediction": "Over 1.5",
+                "odds": "1.22",
+                "results": "2-0 (WIN)"
+            },
+            {
+                "fixture": "Glasgow Rangers Vs Psv",
+                "prediction": "Over 2.5",
+                "odds": "1.80",
+                "results": "2-2 (WIN)"
+            },
+            {
+                "fixture": "Al Duhail Vs Al Rayyan",
+                "prediction": "Over 2.5",
+                "odds": "1.41",
+                "results": "2-1 (WIN)"
+            },
+            {
+                "fixture": "Hvidovre Vs Fremad Amager",
+                "prediction": "Over 1.5",
+                "odds": "1.20",
+                "results": "5-1 (WIN)"
+            }
+           ]
+       },
+   
+       {
+           "date": "Monday, 5.12.2022",
+           "gamesList": [
+            {
+                "fixture": "Liverpool Vs Crystal Palace",
+                "prediction": "Over 2.5",
+                "odds": "1.58",
+                "results": "1-1 (LOSS)"
+            },
+            {
+                "fixture": "Getafe Vs Atletico Madrid",
+                "prediction": "2 DNB",
+                "odds": "1.33",
+                "results": "0-3 (WIN)"
+            },
+            {
+                "fixture": "Breidablik Vs Vikingur R",
+                "prediction": "Over 2.5",
+                "odds": "1.50",
+                "results": "4-1 (WIN)"
+            },
+            {
+                "fixture": "Keflavik Vs Kr Reykjavik",
+                "prediction": "Over 2.5",
+                "odds": "1.52",
+                "results": "0-0 (LOSS)"
+            },
+            {
+                "fixture": "Fram R Vs Leiknir R",
+                "prediction": "Over 2.5",
+                "odds": "1.50",
+                "results": "4-1 (WIN"
+            }
+           ]
+       },
+   
+       {
+           "date": "Sunday, 4.12.2022",
+           "gamesList": [
+            {
+                "fixture": "Vizela Vs. Porto",
+                "prediction": "Away win",
+                "odds": "1.30",
+                "results": "0-1 (WIN"
+            },
+            {
+                "fixture": "Brest Vs. Marseille",
+                "prediction": "Over 1.05",
+                "odds": "1.26",
+                "results": "(WIN)"
+            },
+            {
+                "fixture": "Oh Leuven Vs. Club Brugge",
+                "prediction": "Over 2.5",
+                "odds": "1.46",
+                "results": "0-3 (WIN)"
+            },
+            {
+                "fixture": "Rb Salzburg Vs Wolfsberger",
+                "prediction": "Over 2.5",
+                "odds": "1.36",
+                "results": "2-1 (WIN)"
+            },
+            {
+                "fixture": "Young Boys Vs. Servette",
+                "prediction": "Over 2.5",
+                "odds": "1.50",
+                "results": "3-0 (WIN)"
+            }
+           ]
+       },
+   
    {
         "date": "Saturday, 3rd December 2022",
         "gamesList": [
@@ -1666,250 +1910,6 @@
                "results": "1-4 (WIN)"
            }
           ]
-       },
-       {
-          "date": "Friday, 30.9.2022",
-          "gamesList": [
-           {
-               "fixture": "Yverdon-sport Vs Aarau",
-               "prediction": "Over 2.5",
-               "odds": "1.53",
-               "results": "2-2 (WIN)"
-           },
-           {
-               "fixture": "Lausanne-sport Vs Fc Wil",
-               "prediction": "Over 2.5",
-               "odds": "1.52",
-               "results": "4-0 (WIN)"
-           },
-           {
-               "fixture": "Maastricht Vs Willem Ii",
-               "prediction": "Over 2.5",
-               "odds": "1.58",
-               "results": "3-2 (WIN)"
-           },
-           {
-               "fixture": "Thun Vs Neuchatel Xamax",
-               "prediction": "1 DNB",
-               "odds": "1.30",
-               "results": "2-1 (WIN)"
-           },
-           {
-               "fixture": "Almere City Vs Roda",
-               "prediction": "2 DNB",
-               "odds": "1.28",
-               "results": "1-2 (WIN)"
-           },
-           {
-               "fixture": "Ado Den Haag Vs Jong Psv",
-               "prediction": "Over 1.5",
-               "odds": "1.20",
-               "results": "1-3 (WIN)"
-           },
-              {
-               "fixture": "Wexford Vs Bray Wanderers",
-               "prediction": "Over 1.5",
-               "odds": "1.24",
-               "results": "4-2 (WIN)"
-           },
-           {
-               "fixture": "Tns Vs Newtown",
-               "prediction": "Home win & Over 1.5",
-               "odds": "1.30",
-               "results": "4-1 (WIN)"
-           },
-              {
-               "fixture": "Waterford Utd Vs Cobh Ramblers",
-               "prediction": "Home win & Over 1.5",
-               "odds": "1.30",
-               "results": "3-1 (WIN)"
-           }
-          ]
-       },
-       {
-          "date": "Wednesday, 17.8.2022",
-          "gamesList": [
-           {
-               "fixture": "Magni Vs. Fjallabyggd",
-               "prediction": "Over 2.5",
-               "odds": "1.32",
-               "results": "1-2 (WIN)"
-           },
-           {
-               "fixture": "Solihull Moors Vs. York",
-               "prediction": "Over 1.5",
-               "odds": "1.20",
-               "results": "1-1 (WIN)"
-           },
-           {
-               "fixture": "Volsungur Vs. Aegir",
-               "prediction": "Over 2.5",
-               "odds": "1.37",
-               "results": "2-1 (WIN)"
-           },
-           {
-               "fixture": "Vikingur O Vs. Throttur R",
-               "prediction": "Over 2.5",
-               "odds": "1.37",
-               "results": "3-3 (WIN)"
-           },
-           {
-               "fixture": "Al-shamal Vs. Al Gharafa",
-               "prediction": "Over 2.5",
-               "odds": "1.52",
-               "results": "2-1 (WIN)"
-           },
-           {
-               "fixture": "Al-shamal Vs. Al Gharafa",
-               "prediction": "Over 2.5",
-               "odds": "1.52",
-               "results": "2-1 (WIN)"
-           }
-          ]
-       },
-   
-       {
-           "date": "Tuesday, 16.8.2022",
-           "gamesList": [
-            {
-                "fixture": "Copenhagen Vs. Trabzonspor",
-                "prediction": "Over 1.5",
-                "odds": "1.54",
-                "results": "2-1 (WIN)"
-            },
-            {
-                "fixture": "Shanghai Sipg Vs. Shenzhen Honzuan",
-                "prediction": "Over 1.5",
-                "odds": "1.22",
-                "results": "2-0 (WIN)"
-            },
-            {
-                "fixture": "Glasgow Rangers Vs Psv",
-                "prediction": "Over 2.5",
-                "odds": "1.80",
-                "results": "2-2 (WIN)"
-            },
-            {
-                "fixture": "Al Duhail Vs Al Rayyan",
-                "prediction": "Over 2.5",
-                "odds": "1.41",
-                "results": "2-1 (WIN)"
-            },
-            {
-                "fixture": "Hvidovre Vs Fremad Amager",
-                "prediction": "Over 1.5",
-                "odds": "1.20",
-                "results": "5-1 (WIN)"
-            }
-           ]
-       },
-   
-       {
-           "date": "Monday, 15.8.2022",
-           "gamesList": [
-            {
-                "fixture": "Liverpool Vs Crystal Palace",
-                "prediction": "Over 2.5",
-                "odds": "1.58",
-                "results": "1-1 (LOSS)"
-            },
-            {
-                "fixture": "Getafe Vs Atletico Madrid",
-                "prediction": "2 DNB",
-                "odds": "1.33",
-                "results": "0-3 (WIN)"
-            },
-            {
-                "fixture": "Breidablik Vs Vikingur R",
-                "prediction": "Over 2.5",
-                "odds": "1.50",
-                "results": "4-1 (WIN)"
-            },
-            {
-                "fixture": "Keflavik Vs Kr Reykjavik",
-                "prediction": "Over 2.5",
-                "odds": "1.52",
-                "results": "0-0 (LOSS)"
-            },
-            {
-                "fixture": "Fram R Vs Leiknir R",
-                "prediction": "Over 2.5",
-                "odds": "1.50",
-                "results": "4-1 (WIN"
-            }
-           ]
-       },
-   
-       {
-           "date": "Sunday, 14.8.2022",
-           "gamesList": [
-            {
-                "fixture": "Vizela Vs. Porto",
-                "prediction": "Away win",
-                "odds": "1.30",
-                "results": "0-1 (WIN"
-            },
-            {
-                "fixture": "Brest Vs. Marseille",
-                "prediction": "Over 1.05",
-                "odds": "1.26",
-                "results": "(WIN)"
-            },
-            {
-                "fixture": "Oh Leuven Vs. Club Brugge",
-                "prediction": "Over 2.5",
-                "odds": "1.46",
-                "results": "0-3 (WIN)"
-            },
-            {
-                "fixture": "Rb Salzburg Vs Wolfsberger",
-                "prediction": "Over 2.5",
-                "odds": "1.36",
-                "results": "2-1 (WIN)"
-            },
-            {
-                "fixture": "Young Boys Vs. Servette",
-                "prediction": "Over 2.5",
-                "odds": "1.50",
-                "results": "3-0 (WIN)"
-            }
-           ]
-       },
-   
-       {
-           "date": "Saturday, 13.8.2022",
-           "gamesList": [
-            {
-                "fixture": "Vizela Vs. Porto",
-                "prediction": "Over 2.5",
-                "odds": "1.34",
-                "results": "4-0 (WIN)"
-            },
-            {
-                "fixture": "Ga Eagles Vs Psv",
-                "prediction": "Over 1.25",
-                "odds": "1.60",
-                "results": "2-5 (WIN)"
-            },
-            {
-                "fixture": "Leverkusen Vs Augsburg",
-                "prediction": "Over 2.5",
-                "odds": "1.42",
-                "results": "1-2 (WIN)"
-            },
-            {
-                "fixture": "Rapid Wien Ii Vs Amstetten",
-                "prediction": "Over 2.5",
-                "odds": "1.54",
-                "results": "2-2 (WIN)"
-            },
-            {
-                "fixture": "Sporting Vs Rio Ave",
-                "prediction": "Home win & Over 1.5",
-                "odds": "1.40",
-                "results": "3-0 (WIN)"
-            }
-           ]
        }
    ],
    
