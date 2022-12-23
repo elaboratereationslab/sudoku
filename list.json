@@ -7,27 +7,23 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Fri Dec 23 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sat Dec 24 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "$1" , "accessDays": "Fri Dec 23 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Dec 24 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "$3" , "accessDays": "Fri Dec 23 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 24 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "$3" , "accessDays": "Fri Dec 23 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 24 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
         },
         {
-           "name": "Premium Tips", "amount": "$5" , "accessDays": "Fri Dec 23 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
-        }
-        
-        
-    
-        
-        
-      
-   ],
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 24 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+        }   
+     ],
+
+
    "jackpotPredictions":[
     {
             "fixture": "Everton FC vs Wolverhampton Wanderers",
