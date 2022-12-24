@@ -7,20 +7,17 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Sat Dec 24 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sun Dec 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat Dec 24 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Dec 25 2022", "odds":"Total Basic Tips = 8.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat Dec 24 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sun Dec 25 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat Dec 24 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":9    
-        },
-        {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat Dec 24 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
-        }   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Dec 25 2022", "odds":"Total Standard Tips = 10.45 + Odds", "id":"id_standard_sub","length":6    
+        }  
      ],
 
 
@@ -116,29 +113,14 @@
     
    "freePredictions":[
     {
-            "fixture": "Mes Rafsanjan FC- : -Malavan",
-            "prediction": "Under 2.5",
-            "date": "24/12/2022"
-        },
-        {
-            "fixture": "Havadar- : -Nassaji Mazandaran",
-            "prediction": "Under 2.5",
-            "date": "24/12/2022"
-        },
-        {
-            "fixture": "Sydney- : -Macarthur Sydney",
+            "fixture": "Konyaspor 1922- : -Alanyaspor",
             "prediction": "Over 2.5",
-            "date": "24/12/2022"
-        },
-        {
-            "fixture": "Hapoel Beer Sheva- : -Beitar Jerusalem",
-            "prediction": "1 & Over 2.5",
-            "date": "24/12/2022"
-        },
-        {
-            "fixture": "Maccabi Tel Aviv- : -Ironi Sport Hadera",
-            "prediction": "1 & Over 2.5",
             "date": "25/12/2022"
+        },
+        {
+            "fixture": "Adana Demirspor- : -Fatih Karagumruk",
+            "prediction": "1 & Over 2.5",
+            "date": "24/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -173,69 +155,34 @@
  
  "paidPredictions":[
     {
-        "fixture": "Foolad Khuzestan- : -Zob Ahan",
-        "prediction": "X",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Sepahan Isfahan- : -Naft Masjed-Soleyman",
-        "prediction": "1 & Over 2.5",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Aluminium Arak FC- : -Gol Gohar",
-        "prediction": "Under 2.5",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Sectzya Nes Ziona- : -MS Ashdod",
-        "prediction": "Over 2.5",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Hapoel Haifa- : -Maccabi Bney Reine",
-        "prediction": "GG & Over 2.5",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Hapoel Katamon- : -Hapoel Ironi Kiryat Shmona",
+        "fixture": "Hapoel Bnei Sakhnin- : -Hapoel Tel Aviv",
         "prediction": "Under 3.5",
-        "date": "24/12/2022"
+        "date": "25/12/2022"
     },
     {
-        "fixture": "Dundee United- : -Heart of Midlothian",
-        "prediction": "Over 3.5",
-        "date": "24/12/2022"
+        "fixture": "Sanat Naft Abadan- : -Esteghlal",
+        "prediction": "No GG",
+        "date": "25/12/2022"
     },
     {
-        "fixture": "Hibernian- : -Livingston",
-        "prediction": "GG & Over 2.5",
-        "date": "24/12/2022"
+        "fixture": "Persepolis- : -Paykan",
+        "prediction": "1 & Over 2.5",
+        "date": "25/12/2022"
     },
     {
-        "fixture": "St. Mirren- : -Aberdeen",
-        "prediction": "GG & Over 2.5",
-        "date": "24/12/2022"
+        "fixture": "Tractor Sazi- : -Sanat Mes Kerman",
+        "prediction": "1",
+        "date": "25/12/2022"
     },
     {
-        "fixture": "Celtic- : -St. Johnstone",
-        "prediction": "HT/FT 1/1 & Over 3.5" ,
-        "date": "24/12/2022"
+        "fixture": "Galatasaray- : -İstanbulspor",
+        "prediction": "1 & Over 2.5",
+        "date": "25/12/2022"
     },
     {
-        "fixture": "Trabzonspor- : -Fenerbahce",
-        "prediction": "2 & Over 2.5 & GG",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Kasimpasa- : -Sivasspor",
-        "prediction": "GG & Over 3.5",
-        "date": "24/12/2022"
-    },
-    {
-        "fixture": "Kasimpasa- : -Sivasspor",
-        "prediction": "GG & Over 3.5",
-        "date": "24/12/2022"
+        "fixture": "Galatasaray- : -İstanbulspor",
+        "prediction": "1 & Over 2.5",
+        "date": "25/12/2022"
     }
     
 ],
