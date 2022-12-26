@@ -7,17 +7,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Sun Dec 25 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Mon Dec 26 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun Dec 25 2022", "odds":"Total Basic Tips = 8.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon Dec 26 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sun Dec 25 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon Dec 26 2022", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":12
         },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun Dec 25 2022", "odds":"Total Standard Tips = 10.45 + Odds", "id":"id_standard_sub","length":6    
-        }  
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon Dec 26 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":15    
+        },
+        {
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon Dec 26 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":23
+        }   
      ],
 
 
@@ -112,15 +115,35 @@
     
     
    "freePredictions":[
-    {
-            "fixture": "Konyaspor 1922- : -Alanyaspor",
-            "prediction": "Over 2.5",
-            "date": "25/12/2022"
+        {
+            "fixture": "Brentford- : -Tottenham Hotspur",
+            "prediction": "2 & Under 3.5",
+            "date": "26/12/2022"
         },
         {
-            "fixture": "Adana Demirspor- : -Fatih Karagumruk",
-            "prediction": "1 & Over 2.5",
-            "date": "24/12/2022"
+            "fixture": "Crystal Palace- : -Fulham",
+            "prediction": "Under 2.5",
+            "date": "26/12/2022"
+        },
+        {
+            "fixture": "Watford- : -Millwall",
+            "prediction": "Under 3.5",
+            "date": "26/12/2022"
+        },
+        {
+            "fixture": "Sunderland- : -Blackburn Rovers",
+            "prediction": "1X",
+            "date": "26/12/2022"
+        },
+        {
+            "fixture": "Club Brugge- : -OH Leuven",
+            "prediction": "Over 2.5",
+            "date": "26/12/2022"
+        },
+        {
+            "fixture": "Crawley Town- : -Sutton United",
+            "prediction": "GG & Over 2.5",
+            "date": "26/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -155,34 +178,129 @@
  
  "paidPredictions":[
     {
-        "fixture": "Hapoel Bnei Sakhnin- : -Hapoel Tel Aviv",
+        "fixture": "Southampton- : -Brighton",
+        "prediction": "GG & Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Leicester City- : -Newcastle",
+        "prediction": "GG & Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Everton- : -Wolverhampton Wanderers",
         "prediction": "Under 3.5",
-        "date": "25/12/2022"
+        "date": "26/12/2022"
     },
     {
-        "fixture": "Sanat Naft Abadan- : -Esteghlal",
-        "prediction": "No GG",
-        "date": "25/12/2022"
+        "fixture": "Aston Villa- : -Liverpool",
+        "prediction": "2",
+        "date": "26/12/2022"
     },
     {
-        "fixture": "Persepolis- : -Paykan",
+        "fixture": "Arsenal- : -West Ham United",
         "prediction": "1 & Over 2.5",
-        "date": "25/12/2022"
+        "date": "26/12/2022"
     },
     {
-        "fixture": "Tractor Sazi- : -Sanat Mes Kerman",
+        "fixture": "Watford- : -Millwall",
+        "prediction": "Under 3.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Bristol City- : -West Bromwich Albion",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Preston North End- : -Huddersfield",
         "prediction": "1",
-        "date": "25/12/2022"
+        "date": "26/12/2022"
     },
     {
-        "fixture": "Galatasaray- : -İstanbulspor",
-        "prediction": "1 & Over 2.5",
-        "date": "25/12/2022"
+        "fixture": "Sheffield United- : -Coventry City",
+        "prediction": "1",
+        "date": "26/12/2022"
     },
     {
-        "fixture": "Galatasaray- : -İstanbulspor",
-        "prediction": "1 & Over 2.5",
-        "date": "25/12/2022"
+        "fixture": "Cardiff City- : -Queens Park Rangers",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Club Brugge- : -OH Leuven",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "KV Kortrijk- : -Genk",
+        "prediction": "2 & Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Charleroi- : -Anderlecht",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Bastia- : -Caen",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Nimes- : -Guingamp",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Metz- : -Niort",
+        "prediction": "1",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Brescia- : -Palermo",
+        "prediction": "GG",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Como- : -Cittadella",
+        "prediction": "GG & Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "SPAL- : -Pisa 1909",
+        "prediction": "Under 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "The New Saints- : -Airbus UK Broughton",
+        "prediction": "1 & Over 3.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Caernarfon- : -Bala Town",
+        "prediction": "Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Aberystwyth Town- : -Newtown",
+        "prediction": "GG & Over 2.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Port Vale- : -Morecambe",
+        "prediction": "1",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Crawley Town- : -Sutton United",
+        "prediction": "Under 3.5",
+        "date": "26/12/2022"
+    },
+    {
+        "fixture": "Crawley Town- : -Sutton United",
+        "prediction": "Under 3.5",
+        "date": "26/12/2022"
     }
     
 ],
