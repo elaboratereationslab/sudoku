@@ -1,146 +1,124 @@
 {
      
     "visibility": true,
-    "showBannerAd": false,
-    "showInterstitialAd": false,
-    "showNativeAd": false,
+    "showBannerAd": true,
+    "showInterstitialAd": true,
+    "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Tue Dec 27 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Wed Dec 28 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue Dec 27 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Wed Dec 28 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":9
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue Dec 27 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":10    
+        "name": "Jackpot Tips", "amount": "$3" , "accessDays": "Wed Dec 28 2022", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+     },
+       {
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Wed Dec 28 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue Dec 27 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "$5" , "accessDays": "Wed Dec 28 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
         }   
      ],
 
 
    "jackpotPredictions":[
-    {
-            "fixture": "Everton FC vs Wolverhampton Wanderers",
-            "prediction": "1",
-            "date": "26/12/2022"
+        {
+            "fixture": "TROYES vs NANTES",
+            "prediction": "1 or X",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Bristol City vs West Bromwich Albion",
-            "prediction": "2",
-            "date": "26/12/2022"
+            "fixture": "ISTANBULSPOR vs KASIMPASA",
+            "prediction": "2 or X",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Rotherham United vs Stoke City",
+            "fixture": "PORTIMONENSE vs CASA PIA ATLETICO",
             "prediction": "1 or 2",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Burton Albion vs Lincoln City",
-            "prediction": "X",
-            "date": "26/12/2022"
+            "date": "28/12/2022"
         },
     
         {
-            "fixture": "Cambridge United vs Shrewsbury Town",
-            "prediction": "1X",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Charlton Athletic vs Peterborough United",
-            "prediction": "12",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Exeter City vs Portsmouth FC",
-            "prediction": "12",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "FC Annecy vs AS Saint-Etienne",
+            "fixture": "ST. JOHNSTONE vs HEARTS",
             "prediction": "1",
-            "date": "26/12/2022"
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Goztepe Izmir vs BB Bodrumspor",
-            "prediction": "12",
-            "date": "26/12/2022"
+            "fixture": "LIVINGSTON vs ST. MIRREN",
+            "prediction": "1 or 2",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Cardiff City vs Queens Park Rangers",
-            "prediction": "12",
-            "date": "26/12/2022"
+            "fixture": "GIRESUNSPOR vs GAZIANTEP BB",
+            "prediction": "1 or X",
+            "date": "29/12/2022"
         },
         {
-            "fixture": "Luton Town vs Norwich City",
-            "prediction": "2",
-            "date": "26/12/2022"
+            "fixture": "GIRONA vs RAYO VALLECANO",
+            "prediction": "1 or X",
+            "date": "29/12/2022"
         },
         {
-            "fixture": "Royal Charleroi SC vs RSC Anderlecht",
-            "prediction": "12",
-            "date": "26/12/2022"
+            "fixture": "BETIS vs ATHLETIC BILBAO",
+            "prediction": "X",
+            "date": "29/12/2022"
         },
         {
-            "fixture": "Quevilly-Rouen Metropole vs Grenoble Foot",
-            "prediction": "1X",
-            "date": "26/12/2022"
+            "fixture": "GD ESTORIL vs BOAVISTA",
+            "prediction": "X",
+            "date": "29/12/2022"
         },
         {
-            "fixture": "SC Bastia vs SM Caen",
-            "prediction": "2X",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Nimes Olympique vs EA Guingamp",
-            "prediction": "2",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Pau FC vs Paris FC",
-            "prediction": "2",
-            "date": "26/12/2022"
-        },
-        {
-            "fixture": "Valenciennes FC vs Amiens SC",
+            "fixture": "BLACKBURN vs MIDDLESBROUGH",
             "prediction": "1",
-            "date": "26/12/2022"
+            "date": "29/12/2022"
+        },
+        {
+            "fixture": "WIGAN vs SUNDERLAND",
+            "prediction": "12",
+            "date": "29/12/2022"
+        },
+        {
+            "fixture": "NICE vs LENS",
+            "prediction": "2",
+            "date": "29/12/2022"
+        },
+        {
+            "fixture": "WESTERN UNITED FC vs BRISBANE ROAR",
+            "prediction": "1X",
+            "date": "30/12/2022"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture": "MKE Ankaragucu- : -Umraniyespor",
-            "prediction": "1 & GG",
-            "date": "27/12/2022"
+            "fixture": "Leeds United- : -Manchester City",
+            "prediction": "2 & Over 2.5",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Chelsea- : -Bournemouth",
-            "prediction": "1 & Over 2.5",
-            "date": "27/12/2022"
+            "fixture": "Rio Ave- : -Maritimo",
+            "prediction": "GG & Under 2.5",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Reading- : -Swansea",
-            "prediction": "GG & Over 3.5",
-            "date": "27/12/2022"
+            "fixture": "İstanbulspor- : -Kasimpasa",
+            "prediction": "1X",
+            "date": "28/12/2022"
         },
         {
-            "fixture": "St.Truiden- : -Zulte-Waregem",
+            "fixture": "St. Johnstone- : -Heart of Midlothian",
             "prediction": "Over 2.5",
-            "date": "27/12/2022"
+            "date": "28/12/2022"
         },
         {
-            "fixture": "Henan Songshan Longmen- : -Shanghai Shenhua",
-            "prediction": "No GG",
-            "date": "27/12/2022"
-        },
-        {
-            "fixture": "Deportivo Toluca- : -Club Necaxa",
-            "prediction": "Under 3.5",
-            "date": "27/12/2022"
+            "fixture": "Troyes AC- : -Nantes",
+            "prediction": "1X",
+            "date": "28/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -175,74 +153,84 @@
  
  "paidPredictions":[
     {
-        "fixture": "Istanbul Basaksehir- : -Antalyaspor",
-        "prediction": "1",
-        "date": "27/12/2022"
+        "fixture": "Portimonense- : -Casa Pia Atletico",
+        "prediction": "1X",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Fenerbahce- : -Hatayspor",
+        "fixture": "Porto- : -Arouca",
         "prediction": "1 & Over 2.5",
-        "date": "27/12/2022"
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Manchester United- : -Nottm Forest",
-        "prediction": "1 & Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Alanyaspor- : -Kayserispor",
+        "prediction": "Over 2.5",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Burnley- : -Birmingham",
-        "prediction": "1 & Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Fatih Karagumruk- : -Trabzonspor",
+        "prediction": "2X",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Westerlo- : -Antwerp",
+        "fixture": "Livingston- : -St. Mirren",
+        "prediction": "2X",
+        "date": "28/12/2022"
+    },
+    {
+        "fixture": "Kilmarnock- : -Aberdeen",
+        "prediction": "2X & Over 2.5",
+        "date": "28/12/2022"
+    },
+    {
+        "fixture": "Rangers- : -Motherwell",
+        "prediction": "Over 2.5",
+        "date": "28/12/2022"
+    },
+    {
+        "fixture": "Dundee United- : -Ross County",
         "prediction": "GG",
-        "date": "27/12/2022"
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Beijing Guoan- : -Shanghai Port",
-        "prediction": "Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Hibernian- : -Celtic",
+        "prediction": "2",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Shenzhen Honzuan- : -Guangzhou City",
-        "prediction": "1 or 2",
-        "date": "27/12/2022"
+        "fixture": "AC Ajaccio- : -Angers SCO",
+        "prediction": "1X",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Guangzhou FC- : -Changchun Yatai",
-        "prediction": "Under 3.5",
-        "date": "27/12/2022"
+        "fixture": "Auxerre- : -AS Monaco",
+        "prediction": "2X",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Wuhan Three Towns- : -Zhejiang Lucheng",
-        "prediction": "Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Paris SG- : -Strasbourg",
+        "prediction": "1 & Over 2.5",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Melbourne City FC- : -Central Coast Mariners",
-        "prediction": "Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Levadiakos- : -Ionikos",
+        "prediction": "Under 2.5",
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Adelaide United- : -Newcastle Jets",
+        "fixture": "Olympiakos Piraeus- : -Asteras Tripolis",
+        "prediction": "1X",
+        "date": "28/12/2022"
+    },
+    {
+        "fixture": "Panathinaikos- : -OFI FC",
         "prediction": "1",
-        "date": "27/12/2022"
+        "date": "28/12/2022"
     },
     {
-        "fixture": "Leyton Orient- : -Stevenage",
-        "prediction": "X",
-        "date": "27/12/2022"
-    },
-    {
-        "fixture": "Bolton- : -Derby County",
-        "prediction": "Over 2.5",
-        "date": "27/12/2022"
-    },
-    {
-        "fixture": "Bolton- : -Derby County",
-        "prediction": "Over 2.5",
-        "date": "27/12/2022"
+        "fixture": "Panathinaikos- : -OFI FC",
+        "prediction": "1",
+        "date": "28/12/2022"
     }
     
 ],
