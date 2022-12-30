@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Fri Dec 30 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Saturday Dec 31 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri Dec 30 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri Dec 30 2022", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Saturday Dec 31 2022", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri Dec 30 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri Dec 30 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
         }   
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Getafe- : -Mallorca",
-            "prediction": "Over 1.5",
-            "date": "30/12/2022"
+            "fixture": "Wolverhampton Wanderers- : -Manchester United",
+            "prediction": "1",
+            "date": "31/12/2022"
         },
         {
-            "fixture": "Chaves- : -Famalicao",
+            "fixture": "Barcelona- : -Espanyol",
+            "prediction": "1 & Over 2.5",
+            "date": "31/12/2022"
+        },
+        {
+            "fixture": "Central Coast Mariners- : -Melbourne Victory",
+            "prediction": "Under 3.5",
+            "date": "31/12/2022"
+        },
+        {
+            "fixture": "Beitar Jerusalem- : -Sectzya Nes Ziona",
             "prediction": "1X",
-            "date": "30/12/2022"
+            "date": "31/12/2022"
         },
         {
-            "fixture": "West Ham United- : -Brentford",
-            "prediction": "GG & Over 2.5",
-            "date": "30/12/2022"
-        },
-        {
-            "fixture": "Norwich- : -Reading",
-            "prediction": "GG & Over 2.5",
-            "date": "30/12/2022"
-        },
-        {
-            "fixture": "Zob Ahan- : -Sanat Naft Abadan",
-            "prediction": "Under 2.5",
-            "date": "30/12/2022"
+            "fixture": "Flint Town Utd- : -Gap Connah's Quay",
+            "prediction": "2 & No GG",
+            "date": "31/12/2022"
         }
  ],
  "fixedPredictions":[
@@ -173,84 +173,89 @@
  
  "paidPredictions":[
     {
-        "fixture": "Celta Vigo- : -Sevilla",
-        "prediction": "GG & Over 2.5",
-        "date": "30/12/2022"
+        "fixture": "Bournemouth- : -Crystal Palace",
+        "prediction": "HT/FT Under 2.5 / Under 3.5",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Real Valladolid- : -Real Madrid",
-        "prediction": "HT/FT X/2",
-        "date": "30/12/2022"
+        "fixture": "Newcastle- : -Leeds United",
+        "prediction": "1",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Sporting de Braga- : -Benfica",
-        "prediction": "Over 2.5",
-        "date": "30/12/2022"
+        "fixture": "Fulham- : -Southampton",
+        "prediction": "1X",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Stoke City- : -Burnley",
-        "prediction": "Under 3.5",
-        "date": "30/12/2022"
+        "fixture": "Manchester City- : -Everton",
+        "prediction": "HT/FT 1/1",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Birmingham- : -Hull City",
-        "prediction": "Under 3.5",
-        "date": "30/12/2022"
+        "fixture": "Brighton- : -Arsenal",
+        "prediction": "2 & GG",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Naft Masjed-Soleyman- : -Aluminium Arak FC",
-        "prediction": "2",
-        "date": "30/12/2022"
+        "fixture": "Real Sociedad- : -Osasuna",
+        "prediction": "Under 2.5",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Sampdoria- : -Ligorna",
-        "prediction": "Over 2.5",
-        "date": "30/12/2022"
+        "fixture": "Villarreal- : -Valencia",
+        "prediction": "1X",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Slaven Belupo- : -Varteks Varazdin",
+        "fixture": "Beitar Jerusalem- : -Sectzya Nes Ziona",
         "prediction": "Under 3.5 & 1X",
-        "date": "30/12/2022"
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Volendam- : -NAC",
-        "prediction": "Home Win",
-        "date": "30/12/2022"
+        "fixture": "Hapoel Tel Aviv- : -Maccabi Netanya",
+        "prediction": "Under 2.5",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "UCAM Murcia- : -Real Murcia",
-        "prediction": "Away win",
-        "date": "30/12/2022"
+        "fixture": "Hapoel Bnei Sakhnin- : -Hapoel Haifa",
+        "prediction": "1X",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Western United- : -Brisbane Roar FC",
-        "prediction": "No GG",
-        "date": "30/12/2022"
+        "fixture": "MS Ashdod- : -Hapoel Katamon",
+        "prediction": "Under 2.5",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Oliveirense- : -Sporting Covilha",
-        "prediction": "Home Win",
-        "date": "30/12/2022"
+        "fixture": "Hapoel Ironi Kiryat Shmona- : -Maccabi Tel Aviv",
+        "prediction": "Home win & Over 2.5",
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Cardiff Metropolitan- : -Pen-y-Bont",
-        "prediction": "GG",
-        "date": "30/12/2022"
-    },
-    {
-        "fixture": "Shanghai Shenhua- : -Shenzhen Honzuan",
-        "prediction": "Over 2.5",
-        "date": "30/12/2022"
-    },
-    {
-        "fixture": "Newport- : -Leyton Orient",
+        "fixture": "Haverfordwest County- : -Pontypridd Town",
         "prediction": "GG & Over 2.5",
-        "date": "29/12/2022"
+        "date": "31/12/2022"
     },
     {
-        "fixture": "Newport- : -Leyton Orient",
-        "prediction": "GG & Over 2.5",
-        "date": "29/12/2022"
+        "fixture": "Moreirense- : -Estrela da Amadora",
+        "prediction": "Home win & Over 2.5",
+        "date": "31/12/2022"
+    },
+    {
+        "fixture": "Paykan- : -Sepahan Isfahan",
+        "prediction": "Under 2.5",
+        "date": "31/12/2022"
+    },
+    {
+        "fixture": "Gol Gohar- : -Persepolis",
+        "prediction": "Over 1.5",
+        "date": "31/12/2022"
+    },
+    {
+        "fixture": "Gol Gohar- : -Persepolis",
+        "prediction": "Over 1.5",
+        "date": "31/12/2022"
     }
     
 ],
