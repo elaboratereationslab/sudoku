@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Saturday Dec 31 2022", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sun January 1 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "$1" , "accessDays": "Sun January 1 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Saturday Dec 31 2022", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "$2" , "accessDays": "Sun January 1 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "$3" , "accessDays": "Sun January 1 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Saturday Dec 31 2022", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "$5" , "accessDays": "Sun January 1 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
         }   
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Wolverhampton Wanderers- : -Manchester United",
-            "prediction": "1",
-            "date": "31/12/2022"
+            "fixture": "Nantes- : -Auxerre",
+            "prediction": "Under 2.5",
+            "date": "1/01/2023"
         },
         {
-            "fixture": "Barcelona- : -Espanyol",
+            "fixture": "lackburn Rovers- : -Cardiff City",
+            "prediction": "1 & Under 2.5",
+            "date": "1/01/2023"
+        },
+        {
+            "fixture": "Tottenham Hotspur- : -Aston Villa",
             "prediction": "1 & Over 2.5",
-            "date": "31/12/2022"
+            "date": "01/01/2023"
         },
         {
-            "fixture": "Central Coast Mariners- : -Melbourne Victory",
-            "prediction": "Under 3.5",
-            "date": "31/12/2022"
+            "fixture": "Grimsby- : -Stockport County",
+            "prediction": "Over 2.5",
+            "date": "01/01/2023"
         },
         {
-            "fixture": "Beitar Jerusalem- : -Sectzya Nes Ziona",
+            "fixture": "Newcastle Jets- : -Sydney",
             "prediction": "1X",
-            "date": "31/12/2022"
-        },
-        {
-            "fixture": "Flint Town Utd- : -Gap Connah's Quay",
-            "prediction": "2 & No GG",
-            "date": "31/12/2022"
+            "date": "01/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,89 +173,89 @@
  
  "paidPredictions":[
     {
-        "fixture": "Bournemouth- : -Crystal Palace",
-        "prediction": "HT/FT Under 2.5 / Under 3.5",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Newcastle- : -Leeds United",
-        "prediction": "1",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Fulham- : -Southampton",
-        "prediction": "1X",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Manchester City- : -Everton",
-        "prediction": "HT/FT 1/1",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Brighton- : -Arsenal",
-        "prediction": "2 & GG",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Real Sociedad- : -Osasuna",
+        "fixture": "Angers SCO- : -Lorient",
         "prediction": "Under 2.5",
-        "date": "31/12/2022"
+        "date": "01/01/2023"
     },
     {
-        "fixture": "Villarreal- : -Valencia",
-        "prediction": "1X",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Beitar Jerusalem- : -Sectzya Nes Ziona",
-        "prediction": "Under 3.5 & 1X",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Hapoel Tel Aviv- : -Maccabi Netanya",
+        "fixture": "Toulouse- : -AC Ajaccio",
         "prediction": "Under 2.5",
-        "date": "31/12/2022"
+        "date": "01/01/2023"
     },
     {
-        "fixture": "Hapoel Bnei Sakhnin- : -Hapoel Haifa",
-        "prediction": "1X",
-        "date": "31/12/2022"
+        "fixture": "AS Monaco- : -Stade Brestois 29",
+        "prediction": "1 & Under 3.5",
+        "date": "01/01/2023"
     },
     {
-        "fixture": "MS Ashdod- : -Hapoel Katamon",
+        "fixture": "Lyon- : -Clermont Foot",
+        "prediction": "1 & Over 2.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Lens- : -Paris SG",
+        "prediction": "GG",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Millwall- : -Rotherham United",
         "prediction": "Under 2.5",
-        "date": "31/12/2022"
+        "date": "01/01/2023"
     },
     {
-        "fixture": "Hapoel Ironi Kiryat Shmona- : -Maccabi Tel Aviv",
-        "prediction": "Home win & Over 2.5",
-        "date": "31/12/2022"
+        "fixture": "Blackpool- : -Sunderland",
+        "prediction": "X2",
+        "date": "01/01/2023"
     },
     {
-        "fixture": "Haverfordwest County- : -Pontypridd Town",
+        "fixture": "Coventry City- : -Bristol City",
+        "prediction": "Over 2.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Huddersfield- : -Luton Town",
+        "prediction": "Under 3.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Nottm Forest- : -Chelsea",
+        "prediction": "2",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Doncaster Rovers- : -Carlisle United",
+        "prediction": "Over 2.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Sutton United- : -Wimbledon",
+        "prediction": "Home win",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Hartlepool United- : -Harrogate Town",
+        "prediction": "Over 2.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Oxford United- : -Exeter City",
+        "prediction": "Over 2.5",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Bristol Rovers- : -Cheltenham Town",
+        "prediction": "Home Win",
+        "date": "01/01/2023"
+    },
+    {
+        "fixture": "Maccabi Haifa- : -Hapoel Beer Sheva",
         "prediction": "GG & Over 2.5",
-        "date": "31/12/2022"
+        "date": "01/01/2023"
     },
     {
-        "fixture": "Moreirense- : -Estrela da Amadora",
-        "prediction": "Home win & Over 2.5",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Paykan- : -Sepahan Isfahan",
-        "prediction": "Under 2.5",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Gol Gohar- : -Persepolis",
-        "prediction": "Over 1.5",
-        "date": "31/12/2022"
-    },
-    {
-        "fixture": "Gol Gohar- : -Persepolis",
-        "prediction": "Over 1.5",
-        "date": "31/12/2022"
+        "fixture": "Maccabi Haifa- : -Hapoel Beer Sheva",
+        "prediction": "GG & Over 2.5",
+        "date": "01/01/2023"
     }
     
 ],
