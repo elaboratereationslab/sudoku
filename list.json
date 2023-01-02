@@ -10,16 +10,16 @@
           "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 2 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 2 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":11
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 2 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
         "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon January 2 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 2 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":14    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 2 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":12    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 2 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 2 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         }   
      ],
 
@@ -96,29 +96,34 @@
     
    "freePredictions":[
         {
-            "fixture": "Rangers- : -Celtic",
+            "fixture": "Espanyol- : -Celta Vigo",
+            "prediction": "GG",
+            "date": "3/01/2023"
+        },
+        {
+            "fixture": "Leicester City- : -Fulham",
+            "prediction": "1 & 2",
+            "date": "3/01/2023"
+        },
+        {
+            "fixture": "Umraniyespor- : -Hatayspor",
+            "prediction": "Under 2.5",
+            "date": "3/01/2023"
+        },
+        {
+            "fixture": "Caernarfon- : -The New Saints",
+            "prediction": "2 or X",
+            "date": "3/01/2023"
+        },
+        {
+            "fixture": "Doxa Katokopias- : -AEL Limassol",
             "prediction": "GG & Over 2.5",
-            "date": "2/01/2023"
+            "date": "3/01/2023"
         },
         {
-            "fixture": "Swansea- : -Burnley",
-            "prediction": "2",
-            "date": "2/01/2023"
-        },
-        {
-            "fixture": "Lille OSC- : -Reims",
-            "prediction": "1",
-            "date": "2/01/2023"
-        },
-        {
-            "fixture": "Brentford- : -Liverpool",
-            "prediction": "2 & Over 2.5",
-            "date": "2/01/2023"
-        },
-        {
-            "fixture": "Wellington Phoenix- : -Melbourne City FC",
-            "prediction": "GG & Over 2.5",
-            "date": "2/01/2023"
+            "fixture": "OFI FC- : -Volos NFC",
+            "prediction": "Under 2.5",
+            "date": "3/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -153,93 +158,83 @@
  
  "paidPredictions":[
     {
-        "fixture": "St. Johnstone- : -Dundee United",
-        "prediction": "Under 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Livingston- : -Motherwell",
-        "prediction": "Over 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Kilmarnock- : -St. Mirren",
-        "prediction": "Over 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Swansea- : -Burnley",
+        "fixture": "Cartagena- : -Villarreal",
         "prediction": "2",
-        "date": "2/01/2023"
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Norwich- : -Watford",
-        "prediction": "Over 2.5",
-        "date": "2/01/2023"
+        "fixture": "CF La Nucia- : -Valencia",
+        "prediction": "2",
+        "date": "3/01/2023"
     },
     {
-        "fixture": "West Bromwich Albion- : -Reading",
+        "fixture": "Sporting Gijon- : -Rayo Vallecano",
         "prediction": "Under 2.5",
-        "date": "2/01/2023"
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Montpellier HSC- : -Marseille",
-        "prediction": "Under 3.5",
-        "date": "2/01/2023"
+        "fixture": "Levante UD- : -Getafe",
+        "prediction": "Under 3.5 & No GG",
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Stade Rennais- : -Nice",
+        "fixture": "AD Ceuta- : -Elched",
+        "prediction": "2",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "CP Cacereño- : -Real Madrid",
+        "prediction": "Under 3.5 & 2",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "Arsenal- : -Newcastle",
+        "prediction": "GG & Over 2.5",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "Everton- : -Brighton",
         "prediction": "Over 2.5",
-        "date": "2/01/2023"
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Adelaide United- : -Perth Glory",
-        "prediction": "1X & Over 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Sheffield Wednesday- : -Cambridge United",
+        "fixture": "Manchester United- : -Bournemouth",
         "prediction": "1 & Over 2.5",
-        "date": "2/01/2023"
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Lincoln- : -Ipswich Town",
-        "prediction": "Under 2.5",
-        "date": "2/01/2023"
+        "fixture": "Antalyaspor- : -Fenerbahce",
+        "prediction": "2 & Over 2.5",
+        "date": "3/01/2023"
     },
     {
-        "fixture": "Derby County- : -Accrington Stanley",
-        "prediction": "Home win",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Barnsley- : -Bolton",
-        "prediction": "1 & Under 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Barrow- : -Rochdale",
-        "prediction": "Under 3.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Newport- : -Crawley Town",
-        "prediction": "GG",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Stevenage- : -Gillingham",
-        "prediction": "1",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "Paralimni- : -Omonia Nicosia",
+        "fixture": "Pontypridd Town- : -Bala Town",
         "prediction": "2",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "Apoel Nicosia- : -Olympiakos Nicosia",
+        "prediction": "Home win & Over 2.5",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "Levadiakos- : -Panathinaikos",
+        "prediction": "2 & Under 3.5",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "PAS Giannina- : -AEK Athens",
+        "prediction": "2 & Under 3.5",
+        "date": "3/01/2023"
+    },
+    {
+        "fixture": "Ionikos- : -Olympiakos Piraeus",
+        "prediction": "2 & Over 2.5",
         "date": "2/01/2023"
     },
     {
-        "fixture": "Paralimni- : -Omonia Nicosia",
-        "prediction": "2",
+        "fixture": "Ionikos- : -Olympiakos Piraeus",
+        "prediction": "2 & Over 2.5",
         "date": "2/01/2023"
     }
     
