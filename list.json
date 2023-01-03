@@ -7,123 +7,138 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 2 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Wed January 4 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 2 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed January 4 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon January 2 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed January 4 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 2 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":12    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed January 4 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":12    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 2 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed January 4 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         }   
      ],
 
 
    "jackpotPredictions":[
         {
-            "fixture": "AUMRANIYESPOR vs HATAYSPOR",
+            "fixture": "KAS Eupen vs Royal Charleroi SC",
             "prediction": "2 or X",
-            "date": "03/01/2022"
+            "date": "07/01/2022"
         },
         {
-            "fixture": "CAPE TOWN CITY vs SUPERSPORT UTD",
-            "prediction": "1",
-            "date": " 03/01/2022"
+            "fixture": "Millwall FC vs Sheffield United",
+            "prediction": "2",
+            "date": " 07/01/2022"
         },
         {
-            "fixture": "ISMAILY SC vs NATIONAL BANK",
-            "prediction": "1 or X",
-            "date": "03/01/2022"
+            "fixture": "AFC Bournemouth vs Burnley FC",
+            "prediction": "X",
+            "date": "07/01/2022"
         },
     
         {
-            "fixture": "SPORTING GIJON vs RAYO VALLECANO",
+            "fixture": "Cambridge United vs Bristol Rovers",
             "prediction": "1 or X",
-            "date": "03/01/2022"
+            "date": "07/01/2022"
         },
         {
-            "fixture": "LEVANTE vs GETAFE",
-            "prediction": "2",
-            "date": "03/01/2022"
-        },
-        {
-            "fixture": "KASIMPASA vs ALANYASPOR",
-            "prediction": "2",
-            "date": "04/01/2022"
-        },
-        {
-            "fixture": "PANETOLIKOS vs ATROMITOS FC",
+            "fixture": "Morecambe FC vs Cheltenham Town",
             "prediction": "1",
-            "date": "04/01/2022"
+            "date": "07/01/2022"
         },
         {
-            "fixture": "INTER vs NAPOLI",
+            "fixture": "RKC Waalwijk vs SC Heerenveen",
             "prediction": "2",
-            "date": "04/01/2022"
+            "date": "07/01/2022"
         },
         {
-            "fixture": "LEEDS vs WEST HAM",
-            "prediction": "1X",
-            "date": "04/01/2022"
-        },
-        {
-            "fixture": "ALAVES vs VALLADOLID",
+            "fixture": "Brentford FC vs West Ham United",
             "prediction": "1",
-            "date": "04/01/2022"
+            "date": "07/01/2022"
         },
         {
-            "fixture": "SPORTING GOA vs HYDERABAD FC",
-            "prediction": "2",
-            "date": "04/01/2022"
-        },
-        {
-            "fixture": "LEIXOES vs MOREIRENSE",
-            "prediction": "2 or X",
-            "date": "04/01/2022"
-        },
-        {
-            "fixture": "PERTH GLORY vs WESTERN SYDNEY WONDERERS",
+            "fixture": "Fortuna Sittard vs Go Ahead Eagles",
             "prediction": "X",
+            "date": "07/01/2022"
+        },
+        {
+            "fixture": "Royal Antwerp FC vs KAA Gent",
+            "prediction": "1X",
+            "date": "07/01/2022"
+        },
+        {
+            "fixture": "US Salernitana vs Torino FC",
+            "prediction": "1",
+            "date": "08/01/2022"
+        },
+        {
+            "fixture": "Bristol City vs Swansea City",
+            "prediction": "2",
+            "date": "08/01/2022"
+        },
+        {
+            "fixture": "Spezia Calcio vs US Lecce",
+            "prediction": "X",
+            "date": "08/01/2022"
+        },
+        {
+            "fixture": "SV Zulte Waregem vs Yellow-Red KV Mechelen",
+            "prediction": "1",
             "date": "04/01/2022"
+        },
+        {
+            "fixture": "FC Pacos Ferreira vs GD Chaves",
+            "prediction": "2X",
+            "date": "08/01/2022"
+        },
+        {
+            "fixture": "Excelsior Rotterdam vs FC Groningen",
+            "prediction": "X",
+            "date": "08/01/2022"
+        },
+        {
+            "fixture": "Fenerbahce Istanbul vs Galatasaray Istanbul",
+            "prediction": "X",
+            "date": "08/01/2022"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture": "Espanyol- : -Celta Vigo",
-            "prediction": "GG",
-            "date": "3/01/2023"
+            "fixture": "Kayserispor- : -Fatih Karagumruk",
+            "prediction": "Under 3.5",
+            "date": "4/01/2023"
         },
         {
-            "fixture": "Leicester City- : -Fulham",
-            "prediction": "1 & 2",
-            "date": "3/01/2023"
+            "fixture": "Salernitana 1919- : -AC Milan",
+            "prediction": "Over 2.5 & 2 & GG",
+            "date": "4/01/2023"
         },
         {
-            "fixture": "Umraniyespor- : -Hatayspor",
+            "fixture": "Pontevedra- : -Mallorca",
             "prediction": "Under 2.5",
-            "date": "3/01/2023"
+            "date": "4/01/2023"
         },
         {
-            "fixture": "Caernarfon- : -The New Saints",
-            "prediction": "2 or X",
-            "date": "3/01/2023"
+            "fixture": "Southampton- : -Nottm Forest",
+            "prediction": "Over 2.5",
+            "date": "4/01/2023"
         },
         {
-            "fixture": "Doxa Katokopias- : -AEL Limassol",
-            "prediction": "GG & Over 2.5",
-            "date": "3/01/2023"
-        },
-        {
-            "fixture": "OFI FC- : -Volos NFC",
+            "fixture": "AEK Larnaca- : -AE Paphos",
             "prediction": "Under 2.5",
-            "date": "3/01/2023"
+            "date": "4/01/2023"
+        },
+        {
+            "fixture": "Asteras Tripolis- : -Lamia 1964",
+            "prediction": "Under 3.5 & No GG",
+            "date": "4/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -158,83 +173,83 @@
  
  "paidPredictions":[
     {
-        "fixture": "Cartagena- : -Villarreal",
-        "prediction": "2",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "CF La Nucia- : -Valencia",
-        "prediction": "2",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "Sporting Gijon- : -Rayo Vallecano",
-        "prediction": "Under 2.5",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "Levante UD- : -Getafe",
-        "prediction": "Under 3.5 & No GG",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "AD Ceuta- : -Elched",
-        "prediction": "2",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "CP Cacereño- : -Real Madrid",
-        "prediction": "Under 3.5 & 2",
-        "date": "3/01/2023"
-    },
-    {
-        "fixture": "Arsenal- : -Newcastle",
+        "fixture": "Kasimpasa- : -Alanyaspor",
         "prediction": "GG & Over 2.5",
-        "date": "3/01/2023"
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Everton- : -Brighton",
-        "prediction": "Over 2.5",
-        "date": "3/01/2023"
+        "fixture": "Galatasaray- : -MKE Ankaragucu",
+        "prediction": "Home Win",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Manchester United- : -Bournemouth",
-        "prediction": "1 & Over 2.5",
-        "date": "3/01/2023"
+        "fixture": "Sassuolo- : -Sampdoria",
+        "prediction": "Under 2.5",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Antalyaspor- : -Fenerbahce",
-        "prediction": "2 & Over 2.5",
-        "date": "3/01/2023"
+        "fixture": "Spezia Calcio- : -Atalanta",
+        "prediction": "2 & GG & Over 2.5",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Pontypridd Town- : -Bala Town",
+        "fixture": "Roma- : -Bologna",
+        "prediction": "Under 2.5",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "Lecce- : -Lazio",
+        "prediction": "Over 2.5 & 2",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "Cremonese- : -Juventus",
         "prediction": "2",
-        "date": "3/01/2023"
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Apoel Nicosia- : -Olympiakos Nicosia",
-        "prediction": "Home win & Over 2.5",
-        "date": "3/01/2023"
+        "fixture": "Fiorentina- : -Monza 1912",
+        "prediction": "1",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Levadiakos- : -Panathinaikos",
-        "prediction": "2 & Under 3.5",
-        "date": "3/01/2023"
+        "fixture": "Inter Milan- : -Napoli",
+        "prediction": "GG & Over 2.5",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "PAS Giannina- : -AEK Athens",
-        "prediction": "2 & Under 3.5",
-        "date": "3/01/2023"
+        "fixture": "Inter Milan- : -Napoli",
+        "prediction": "GG",
+        "date": "4/01/2023"
     },
     {
-        "fixture": "Ionikos- : -Olympiakos Piraeus",
-        "prediction": "2 & Over 2.5",
+        "fixture": "Leeds United- : -West Ham United",
+        "prediction": "GG & Over 2.5",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "Crystal Palace- : -Tottenham Hotspur",
+        "prediction": "Over 2.5",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "Akritas Chlorakas- : -Anorthosis Famagusta",
+        "prediction": "2 or Draw",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "Panaitolikos Agrinio- : -Atromitos Athens",
+        "prediction": "GG & Over 2.5",
+        "date": "4/01/2023"
+    },
+    {
+        "fixture": "PAOK Thessaloniki- : -Aris",
+        "prediction": "1 or X & Under 2.5",
         "date": "2/01/2023"
     },
     {
-        "fixture": "Ionikos- : -Olympiakos Piraeus",
-        "prediction": "2 & Over 2.5",
+        "fixture": "PAOK Thessaloniki- : -Aris",
+        "prediction": "1 or X & Under 2.5",
         "date": "2/01/2023"
     }
     
@@ -243,6 +258,111 @@
 
 
    "predictionResults":[
+    {
+        "date": "Monday, 2nd January 2022",
+        "gamesList": [
+         {
+             "fixture": "Chapelton VS Arnett Gardens",
+             "prediction": "No GG & Over 4.5",
+             "odds": "7.04",
+             "results": "7.04 (WIN)"
+         },
+         {
+             "fixture": "Wellington Phoenix W VS WS Wanderers W",
+             "prediction": "Darw",
+             "odds": "3.45",
+             "results": "3.45 (WIN)"
+         },
+         {
+             "fixture": "Wellington Phoenix VS Melbourne City",
+             "prediction": "HT/FT X/2",
+             "odds": "4.29",
+             "results": "Odds 4.29 (WIN)"
+         },
+             {
+             "fixture": "Adelaide United VS Perth Glory",
+             "prediction": "CS 4.25",
+             "odds": "4.25",
+             "results": "Odds 4.25 (WIN)"
+         },
+             {
+             "fixture": "Al Qaisoma VS Al Akhdood",
+             "prediction": "GG & Draw",
+             "odds": "3.97",
+             "results": "Odds 3.97 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Sunday, 1st January 2022",
+        "gamesList": [
+         {
+             "fixture": "Real Tamale United VS Kotoku Royals",
+             "prediction": "GG & Over 4.5",
+             "odds": "4.27",
+             "results": "4.27 (WIN)"
+         },
+         {
+             "fixture": "Welling Utd VS Tonbridge Angels",
+             "prediction": "Correct Score 2-1",
+             "odds": "7.21",
+             "results": "7.21 (WIN)"
+         },
+         {
+             "fixture": "Hampton FC VS Worthing FC",
+             "prediction": "Under 0.5 ",
+             "odds": "6.38",
+             "results": "Odds 6.38 (WIN)"
+         },
+             {
+             "fixture": "Dartford VS Ebbsfleet Utd",
+             "prediction": "Over 3.5 & NG",
+             "odds": "5.05",
+             "results": "Odds 5.05 (WIN)"
+         },
+             {
+             "fixture": "Kidderminster VS Hereford Utd",
+             "prediction": "Draw",
+             "odds": "3.26",
+             "results": "Odds 3.26 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Saturday, 31st December 2022",
+        "gamesList": [
+         {
+             "fixture": "Villarreal CF VS Valencia CF",
+             "prediction": "CS 2-1",
+             "odds": "8.61",
+             "results": "8.61 (WIN)"
+         },
+         {
+             "fixture": "Ards FC VS Dundela FC",
+             "prediction": "HT/FT X/X",
+             "odds": "8.62",
+             "results": "8.62 (WIN)"
+         },
+         {
+             "fixture": "Al Raed Club VS Taawoun FC",
+             "prediction": "GG & Over 4.5",
+             "odds": "6.52",
+             "results": "Odds 6.52 (WIN)"
+         },
+             {
+             "fixture": "Queen of the South VS Clyde FC",
+             "prediction": "HT Draw",
+             "odds": "3.02",
+             "results": "Odds 3.02 (WIN)"
+         },
+             {
+             "fixture": "Haverfordwest VS Pontypridd Town",
+             "prediction": "Draw",
+             "odds": "3.26",
+             "results": "Odds 3.26 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Monday, 26th December 2022",
         "gamesList": [
