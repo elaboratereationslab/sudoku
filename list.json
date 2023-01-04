@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Wed January 4 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Thur January 4 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed January 4 2023", "odds":"Total Basic Tips = 10.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thur January 4 2023", "odds":"Total Basic Tips = 8.95 + Odds","id":"id_basic_sub","length":11
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed January 4 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thur January 4 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed January 4 2023", "odds":"Total Standard Tips = 20.45 + Odds", "id":"id_standard_sub","length":12    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thur January 4 2023", "odds":"Total Standard Tips = 15.45 + Odds", "id":"id_standard_sub","length":11    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Wed January 4 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Thur January 4 2023", "odds":"Total Premium Tips = 30.29 + Odds",  "id":"id_premium_sub","length":11
         }   
      ],
 
@@ -111,34 +111,34 @@
     
    "freePredictions":[
         {
-            "fixture": "Kayserispor- : -Fatih Karagumruk",
+            "fixture": "Gaziantepspor- : -Istanbul Basaksehir",
             "prediction": "Under 3.5",
-            "date": "4/01/2023"
+            "date": "5/01/2023"
         },
         {
-            "fixture": "Salernitana 1919- : -AC Milan",
-            "prediction": "Over 2.5 & 2 & GG",
-            "date": "4/01/2023"
+            "fixture": "Chelsea- : -Manchester City",
+            "prediction": "1 or 2 & Under 3.5",
+            "date": "5/01/2023"
         },
         {
-            "fixture": "Pontevedra- : -Mallorca",
+            "fixture": "Gimnastic- : -Osasuna",
             "prediction": "Under 2.5",
-            "date": "4/01/2023"
+            "date": "5/01/2023"
         },
         {
-            "fixture": "Southampton- : -Nottm Forest",
-            "prediction": "Over 2.5",
-            "date": "4/01/2023"
+            "fixture": "Santa Clara- : -Sporting de Braga",
+            "prediction": "Away win",
+            "date": "5/01/2023"
         },
         {
-            "fixture": "AEK Larnaca- : -AE Paphos",
+            "fixture": "Tractor Sazi- : -Esteghlal",
+            "prediction": "1 or X & Under 3.5" ,
+            "date": "5/01/2023"
+        },
+        {
+            "fixture": "Leixões- : -Moreirense",
             "prediction": "Under 2.5",
-            "date": "4/01/2023"
-        },
-        {
-            "fixture": "Asteras Tripolis- : -Lamia 1964",
-            "prediction": "Under 3.5 & No GG",
-            "date": "4/01/2023"
+            "date": "5/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,84 +173,64 @@
  
  "paidPredictions":[
     {
-        "fixture": "Kasimpasa- : -Alanyaspor",
-        "prediction": "GG & Over 2.5",
-        "date": "4/01/2023"
-    },
-    {
-        "fixture": "Galatasaray- : -MKE Ankaragucu",
+        "fixture": "Adana Demirspor- : -İstanbulspor",
         "prediction": "Home Win",
-        "date": "4/01/2023"
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Sassuolo- : -Sampdoria",
-        "prediction": "Under 2.5",
-        "date": "4/01/2023"
+        "fixture": "Trabzonspor- : -Giresunspor",
+        "prediction": "1 or X",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Spezia Calcio- : -Atalanta",
-        "prediction": "2 & GG & Over 2.5",
-        "date": "4/01/2023"
+        "fixture": "CD Ibiza Islas Pitiusas- : -Betis",
+        "prediction": "2 or X",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Roma- : -Bologna",
-        "prediction": "Under 2.5",
-        "date": "4/01/2023"
+        "fixture": "CD Eldense- : -Athletic Bilbao",
+        "prediction": "2 or X",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Lecce- : -Lazio",
-        "prediction": "Over 2.5 & 2",
-        "date": "4/01/2023"
+        "fixture": "Malavan- : -Naft Masjed-Soleyman",
+        "prediction": "1 or X",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Cremonese- : -Juventus",
-        "prediction": "2",
-        "date": "4/01/2023"
+        "fixture": "Sepahan Isfahan- : -Sanat Mes Kerman",
+        "prediction": "1 or X & Under 2.5",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Fiorentina- : -Monza 1912",
-        "prediction": "1",
-        "date": "4/01/2023"
+        "fixture": "Persepolis- : -Nassaji Mazandaran",
+        "prediction": "1 or X",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Inter Milan- : -Napoli",
+        "fixture": "Sanat Naft Abadan- : -Gol Gohar",
+        "prediction": "2 or Draw & Under 3.5",
+        "date": "5/01/2023"
+    },
+    {
+        "fixture": "Al Ahli Uae- : -Al Arabi",
         "prediction": "GG & Over 2.5",
-        "date": "4/01/2023"
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Inter Milan- : -Napoli",
-        "prediction": "GG",
-        "date": "4/01/2023"
-    },
-    {
-        "fixture": "Leeds United- : -West Ham United",
-        "prediction": "GG & Over 2.5",
-        "date": "4/01/2023"
-    },
-    {
-        "fixture": "Crystal Palace- : -Tottenham Hotspur",
+        "fixture": "Erzgebirge Aue- : -VfB Oldenburg",
         "prediction": "Over 2.5",
-        "date": "4/01/2023"
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Akritas Chlorakas- : -Anorthosis Famagusta",
-        "prediction": "2 or Draw",
-        "date": "4/01/2023"
+        "fixture": "Karmiotissa- : -Aris Limassol",
+        "prediction": "2 & Over 2.5",
+        "date": "5/01/2023"
     },
     {
-        "fixture": "Panaitolikos Agrinio- : -Atromitos Athens",
-        "prediction": "GG & Over 2.5",
-        "date": "4/01/2023"
-    },
-    {
-        "fixture": "PAOK Thessaloniki- : -Aris",
-        "prediction": "1 or X & Under 2.5",
-        "date": "2/01/2023"
-    },
-    {
-        "fixture": "PAOK Thessaloniki- : -Aris",
-        "prediction": "1 or X & Under 2.5",
-        "date": "2/01/2023"
+        "fixture": "Karmiotissa- : -Aris Limassol",
+        "prediction": "2 & Over 2.5",
+        "date": "5/01/2023"
     }
     
 ],
