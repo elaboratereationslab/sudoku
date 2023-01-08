@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Sun January 8 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 9 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun January 8 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":12
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 9 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sun January 8 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon January 9 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun January 8 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":14    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 9 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sun January 8 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":18
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 9 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
         }   
      ],
 
@@ -96,34 +96,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Fatih Karagumruk- : -Konyaspor 1922",
-            "prediction": "GG & Over 2.5",
-            "date": "8/01/2023"
-        },
-        {
-            "fixture": "Giresunspor- : -Umraniyespor",
-            "prediction": "Home Win",
-            "date": "8/01/2023"
-        },
-        {
-            "fixture": "Pacos Ferreira- : -Chaves",
+            "fixture": "Istanbul Basaksehir- : -Adana Demirspor",
             "prediction": "Under 3.5",
-            "date": "8/01/2023"
+            "date": "9/01/2023"
         },
         {
-            "fixture": "Lazio- : -Empoli",
-            "prediction": "Home Win & Over 2.5",
-            "date": "8/01/2023"
+            "fixture": "İstanbulspor- : -Gaziantepspor",
+            "prediction": "Home Win",
+            "date": "9/01/2023"
         },
         {
-            "fixture": "Genk- : -Club Brugge",
-            "prediction": "Home win & GG & Over 2.5" ,
-            "date": "8/01/2023"
+            "fixture": "Hellas Verona- : -Cremonese",
+            "prediction": "GG & Over 2.5",
+            "date": "9/01/2023"
         },
         {
-            "fixture": "Excelsior Rotterdam- : -Groningen",
-            "prediction": "Over 2.5",
-            "date": "8/01/2023"
+            "fixture": "Oman- : -Yemen",
+            "prediction": "Under 2.5",
+            "date": "9/01/2023"
+        },
+        {
+            "fixture": "Nublense- : -Oriente Petrolero",
+            "prediction": "GG & Over 2.5" ,
+            "date": "9/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -158,106 +153,141 @@
  
  "paidPredictions":[
     {
-        "fixture": "Fenerbahce- : -Galatasaray",
-        "prediction": "Home win & Home to score Over 1.5",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Sampdoria- : -Napoli",
-        "prediction": "Away win & Home to score in HT",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "AC Milan- : -Roma",
-        "prediction": "Over 2.5 & Away to score",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Zulte-Waregem- : -Mechelen",
+        "fixture": "Alanyaspor- : -Trabzonspor",
         "prediction": "GG & Over 2.5",
-        "date": "8/01/2023"
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Utrecht- : -Feyenoord",
-        "prediction": "GG & Over 2.5",
-        "date": "8/01/2023"
+        "fixture": "Bologna- : -Atalanta",
+        "prediction": "Under 2.5",
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Dundee United- : -Rangers",
-        "prediction": "Away win & Away to score Over 1.5",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Almeria- : -Real Sociedad",
-        "prediction": "Over 2.5 & GG & Away to score",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Sevilla- : -Getafe",
+        "fixture": "Athletic Bilbao- : -Osasuna",
         "prediction": "Home Win",
-        "date": "8/01/2023"
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Atletico Madrid- : -Barcelona",
+        "fixture": "Oxford United- : -Arsenal",
+        "prediction": "HT/FT 2/2",
+        "date": "9/01/2023"
+    },
+    {
+        "fixture": "Saudi Arabia- : -Iraq",
+        "prediction": "1X & Under 2.5",
+        "date": "9/01/2023"
+    },
+    {
+        "fixture": "Velez Sarsfield- : -Colon",
+        "prediction": "GG & Over 2.5",
+        "date": "9/01/2023"
+    },
+    {
+        "fixture": "Sweden- : -Finland",
         "prediction": "GG",
-        "date": "8/01/2023"
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Hartlepool United- : -Stoke City",
-        "prediction": "Away win & GG",
-        "date": "8/01/2023"
+        "fixture": "Aris Limassol- : -Akritas Chlorakas",
+        "prediction": "Home Win & Home to score Over 1.5",
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Manchester City- : -Chelsea",
-        "prediction": "GG & Over 2.5",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Granada- : -Cartagena",
+        "fixture": "Santos Laguna- : -Tigres",
         "prediction": "Under 3.5",
-        "date": "8/01/2023"
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Eibar- : -UD Ibiza Eivissa",
-        "prediction": "Home Win",
-        "date": "8/01/2023"
+        "fixture": "Jong FC Utrecht- : -Jong AZ Alkmaar",
+        "prediction": "Under 2.5",
+        "date": "9/01/2023"
     },
     {
-        "fixture": "AEL Limassol- : -Apoel Nicosia",
-        "prediction": "Away win",
-        "date": "8/01/2023"
+        "fixture": "Tondela- : -Penafiel",
+        "prediction": "Under 2.5",
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Volos NFC- : -Olympiakos Piraeus",
-        "prediction": "Under 2.5 & FH Under 1.5",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Sectzya Nes Ziona- : -Maccabi Haifa",
-        "prediction": "Away to score Over 2.5 & Away Win",
-        "date": "8/01/2023"
-    },
-    {
-        "fixture": "Atlas- : -Deportivo Toluca",
+        "fixture": "Huesca- : -Albacete",
         "prediction": "Over 2.5",
-        "date": "8/01/2023"
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Macarthur Sydney- : -Newcastle Jets",
-        "prediction": "GG & Over 2.5",
-        "date": "7/01/2023"
+        "fixture": "Panaitolikos Agrinio- : -OFI FC",
+        "prediction": "Home Win",
+        "date": "9/01/2023"
     },
     {
-        "fixture": "Macarthur Sydney- : -Newcastle Jets",
-        "prediction": "GG & Over 2.5",
-        "date": "7/01/2023"
+        "fixture": "Panaitolikos Agrinio- : -OFI FC",
+        "prediction": "Home Win",
+        "date": "9/01/2023"
     }
+    
     
 ],
 
 
 
    "predictionResults":[
+    {
+        "date": "Thursady, 5th January 2023",
+        "gamesList": [
+         {
+             "fixture": "FC Masr VS Montakhab Suez",
+             "prediction": "HT/FT 2/2",
+             "odds": "5.29",
+             "results": "Odds 5.29 (WIN)"
+         },
+         {
+             "fixture": "Sepahan Esfahan VS Mes Kerman",
+             "prediction": "CS 2-0",
+             "odds": "6.88",
+             "results": "Odds 6.88 (WIN)"
+         },
+         {
+             "fixture": "TRAU FC VS Sudeva Moonlight",
+             "prediction": "1 & NG",
+             "odds": "4.06",
+             "results": "Odds 4.06 (WIN)"
+         },
+             {
+             "fixture": "Shanghai SIPG VS Chengdu Qianbao",
+             "prediction": "1 & Over 3.5",
+             "odds": "4.38",
+             "results": "Odds 4.38 (WIN)"
+         },
+             {
+             "fixture": "Sampaio Correa U20 VS Itabaiana U20",
+             "prediction": "Draw",
+             "odds": "3.41",
+             "results": "Odds 3.41 (WIN)"
+         },
+         {
+            "fixture": "Marilia U20 VS CSP U20",
+            "prediction": "Draw",
+            "odds": "3.18",
+            "results": "Odds 3.18 (WIN)"
+        },
+        {
+            "fixture": "ABC U20 VS Maringa U20",
+            "prediction": "HT/FT X/1",
+            "odds": "3.79",
+            "results": "Odds 3.79 (WIN)"
+        },
+            {
+            "fixture": "CF Intercity VS FC Barcelona",
+            "prediction": "Over 3.5",
+            "odds": "2.61",
+            "results": "Odds 2.61 (WIN)"
+        },
+        {
+           "fixture": "FUS Rabat VS US Touarga",
+           "prediction": "Home Win",
+           "odds": "1.84",
+           "results": "Odds 1.84 (WIN)"
+       }
+        ]
+     },
     {
         "date": "Wednesday, 4th January 2023",
         "gamesList": [
