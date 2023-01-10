@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 9 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Tue January 10 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 9 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue January 10 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon January 9 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue January 10 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 9 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue January 10 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 9 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue January 10 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
         }   
      ],
 
@@ -96,14 +96,14 @@
     
    "freePredictions":[
         {
-            "fixture": "Istanbul Basaksehir- : -Adana Demirspor",
-            "prediction": "Under 3.5",
-            "date": "9/01/2023"
+            "fixture": "Inter Milan- : -Parma",
+            "prediction": "Home Win",
+            "date": "10/01/2023"
         },
         {
-            "fixture": "İstanbulspor- : -Gaziantepspor",
-            "prediction": "Home Win",
-            "date": "9/01/2023"
+            "fixture": "Perth Glory- : -Brisbane Roar FC",
+            "prediction": "x1",
+            "date": "10/01/2023"
         },
         {
             "fixture": "Hellas Verona- : -Cremonese",
@@ -111,14 +111,14 @@
             "date": "9/01/2023"
         },
         {
-            "fixture": "Oman- : -Yemen",
+            "fixture": "UAE- : -Kuwait",
             "prediction": "Under 2.5",
-            "date": "9/01/2023"
+            "date": "10/01/2023"
         },
         {
-            "fixture": "Nublense- : -Oriente Petrolero",
+            "fixture": "Pachuca- : -Puebla",
             "prediction": "GG & Over 2.5" ,
-            "date": "9/01/2023"
+            "date": "10/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -153,74 +153,74 @@
  
  "paidPredictions":[
     {
-        "fixture": "Alanyaspor- : -Trabzonspor",
-        "prediction": "GG & Over 2.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Bologna- : -Atalanta",
-        "prediction": "Under 2.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Athletic Bilbao- : -Osasuna",
+        "fixture": "Qatar- : -Bahrain",
         "prediction": "Home Win",
-        "date": "9/01/2023"
+        "date": "10/01/2023"
     },
     {
-        "fixture": "Oxford United- : -Arsenal",
-        "prediction": "HT/FT 2/2",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Saudi Arabia- : -Iraq",
-        "prediction": "1X & Under 2.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Velez Sarsfield- : -Colon",
+        "fixture": "Dukla Banska Bystrica- : -Tatran Presov",
         "prediction": "GG & Over 2.5",
-        "date": "9/01/2023"
+        "date": "10/01/2023"
     },
     {
-        "fixture": "Sweden- : -Finland",
-        "prediction": "GG",
-        "date": "9/01/2023"
+        "fixture": "Borussia Dortmund- : -Fortuna Dusseldorf",
+        "prediction": "HT/FT 2/2 & Over 2.5",
+        "date": "10/01/2023"
     },
     {
-        "fixture": "Aris Limassol- : -Akritas Chlorakas",
-        "prediction": "Home Win & Home to score Over 1.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Santos Laguna- : -Tigres",
-        "prediction": "Under 3.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Jong FC Utrecht- : -Jong AZ Alkmaar",
-        "prediction": "Under 2.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Tondela- : -Penafiel",
-        "prediction": "Under 2.5",
-        "date": "9/01/2023"
-    },
-    {
-        "fixture": "Huesca- : -Albacete",
+        "fixture": "Twente- : -Stormvogels Telstar",
         "prediction": "Over 2.5",
-        "date": "9/01/2023"
+        "date": "10/01/2023"
     },
     {
-        "fixture": "Panaitolikos Agrinio- : -OFI FC",
-        "prediction": "Home Win",
-        "date": "9/01/2023"
+        "fixture": "NAC- : -Eindhoven",
+        "prediction": "1X & Under 2.5",
+        "date": "10/01/2023"
     },
     {
-        "fixture": "Panaitolikos Agrinio- : -OFI FC",
-        "prediction": "Home Win",
-        "date": "9/01/2023"
+        "fixture": "Sparta Rotterdam- : -PSV",
+        "prediction": "Away win",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "PAOK Thessaloniki- : -Kalamata",
+        "prediction": "Home win & No GG",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Varzim SC- : -Benfica",
+        "prediction": "Under 2.5",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Flint Town Utd- : -The New Saints",
+        "prediction": "HT/FT 1/1 & Over 2.5 & Away Win",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Aberystwyth Town- : -Pen-y-Bont",
+        "prediction": "Away win & Over 2.5",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Lincoln- : -Accrington Stanley",
+        "prediction": "Under 2.5",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Bristol Rovers- : -Plymouth Argyle",
+        "prediction": "GG & Over 2.5",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Varzim SC vs Benfica",
+        "prediction": "Away win",
+        "date": "10/01/2023"
+    },
+    {
+        "fixture": "Varzim SC vs Benfica",
+        "prediction": "Away win",
+        "date": "10/01/2023"
     }
     
     
