@@ -96,29 +96,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Inter Milan- : -Parma",
-            "prediction": "Home Win",
-            "date": "10/01/2023"
-        },
-        {
-            "fixture": "Perth Glory- : -Brisbane Roar FC",
-            "prediction": "x1",
-            "date": "10/01/2023"
-        },
-        {
-            "fixture": "Hellas Verona- : -Cremonese",
+            "fixture": "Kayserispor- : -Sivasspor",
             "prediction": "GG & Over 2.5",
-            "date": "9/01/2023"
+            "date": "13/01/2023"
         },
         {
-            "fixture": "UAE- : -Kuwait",
-            "prediction": "Under 2.5",
-            "date": "10/01/2023"
+            "fixture": "Aston Villa- : -Leeds United",
+            "prediction": "1X",
+            "date": "13/01/2023"
         },
         {
-            "fixture": "Pachuca- : -Puebla",
+            "fixture": "Heart of Midlothian- : -St. Mirren",
+            "prediction": "Home win & Over 2.5",
+            "date": "13/01/2023"
+        },
+        {
+            "fixture": "Portimonense- : -Santa Clara",
+            "prediction": "GG",
+            "date": "13/01/2023"
+        },
+        {
+            "fixture": "Westerlo- : -OH Leuven",
             "prediction": "GG & Over 2.5" ,
-            "date": "10/01/2023"
+            "date": "13/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -153,73 +153,73 @@
  
  "paidPredictions":[
     {
-        "fixture": "Qatar- : -Bahrain",
+        "fixture": "Galatasaray- : -Hatayspor",
+        "prediction": "Home win & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Napoli- : -Juventus",
+        "prediction": "GG & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Afk Chrudim- : -Opava",
+        "prediction": "Under 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Viborg- : -Vendsyssel FF",
         "prediction": "Home Win",
-        "date": "10/01/2023"
+        "date": "13/01/2023"
     },
     {
-        "fixture": "Dukla Banska Bystrica- : -Tatran Presov",
-        "prediction": "GG & Over 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Borussia Dortmund- : -Fortuna Dusseldorf",
-        "prediction": "HT/FT 2/2 & Over 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Twente- : -Stormvogels Telstar",
+        "fixture": "VfL Bochum- : -Luzern",
         "prediction": "Over 2.5",
-        "date": "10/01/2023"
+        "date": "13/01/2023"
     },
     {
-        "fixture": "NAC- : -Eindhoven",
-        "prediction": "1X & Under 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Sparta Rotterdam- : -PSV",
-        "prediction": "Away win",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "PAOK Thessaloniki- : -Kalamata",
-        "prediction": "Home win & No GG",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Varzim SC- : -Benfica",
-        "prediction": "Under 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Flint Town Utd- : -The New Saints",
-        "prediction": "HT/FT 1/1 & Over 2.5 & Away Win",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Aberystwyth Town- : -Pen-y-Bont",
-        "prediction": "Away win & Over 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Lincoln- : -Accrington Stanley",
-        "prediction": "Under 2.5",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Bristol Rovers- : -Plymouth Argyle",
+        "fixture": "Borussia Dortmund- : -FC Basel",
         "prediction": "GG & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Bayern Munich- : -FC Red Bull Salzburg",
+        "prediction": "HT/FT 1/1 & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Qatar- : -UAE",
+        "prediction": "HT/FT 1/1 & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Roda Kerkrade- : -Top Oss",
+        "prediction": "HT/FT 1/1",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "ADO Den Haag- : -MVV Maastricht",
+        "prediction": "Over 3.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Real Oviedo- : -Deportivo Alaves",
+        "prediction": "Away win",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Macarthur Sydney- : -Central Coast Mariners",
+        "prediction": "GG & Over 2.5",
+        "date": "13/01/2023"
+    },
+    {
+        "fixture": "Red Star- : -Chateauroux",
+        "prediction": "HT/FT 1/1",
         "date": "10/01/2023"
     },
     {
-        "fixture": "Varzim SC vs Benfica",
-        "prediction": "Away win",
-        "date": "10/01/2023"
-    },
-    {
-        "fixture": "Varzim SC vs Benfica",
-        "prediction": "Away win",
+        "fixture": "Red Star- : -Chateauroux",
+        "prediction": "HT/FT 1/1",
         "date": "10/01/2023"
     }
     
