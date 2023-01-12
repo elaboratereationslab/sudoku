@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Tue January 10 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Fri January 13 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue January 10 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri January 13 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue January 10 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri January 13 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
      },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue January 10 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri January 13 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tue January 10 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri January 13 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
         }   
      ],
 
