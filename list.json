@@ -7,19 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Fri January 13 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sunday January 15 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri January 13 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":10
-       }, 
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sunday January 15 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":10
+       },  
        {
-        "name": "Jackpot Tips", "amount": "Ksh250" , "accessDays": "Fri January 13 2023", "odds":"Guaranteed Sportpesa Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":9
-        },  
-       {
-           "name": "Standard Tips", "amount": "Ksh200" , "accessDays": "Fri January 13 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":15    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sunday January 15 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":15    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri January 13 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sunday January 15 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
         } 
      ],
 
@@ -116,29 +113,34 @@
     
    "freePredictions":[
         {
-            "fixture": "Antalyaspor- : -Giresunspor",
-            "prediction": "Home Win & Over 2.5",
-            "date": "14/01/2023"
+            "fixture": "Umraniyespor vs İstanbulspor",
+            "prediction": "Over 2.5",
+            "date": "15/01/2023"
         },
         {
-            "fixture": "Manchester United- : -Manchester City",
+            "fixture": "Sassuolo vs Lazio",
             "prediction": "GG & Over 2.5",
-            "date": "14/01/2023"
+            "date": "15/01/2023"
         },
         {
-            "fixture": "Rotherham United- : -Blackburn Rovers",
-            "prediction": "HT/FT 2/2",
-            "date": "14/01/2023"
+            "fixture": "Vitesse vs NEC",
+            "prediction": "Over 2.5",
+            "date": "15/01/2023"
         },
         {
-            "fixture": "Vizela- : -Maritimo",
+            "fixture": "Getafe vs Espanyol",
             "prediction": "Under 2.5",
-            "date": "14/01/2023"
+            "date": "15/01/2023"
         },
         {
-            "fixture": "Heerenveen- : -AZ Alkmaar",
-            "prediction": "GG & Over 2.5" ,
-            "date": "14/01/2023"
+            "fixture": "Lille OSC vs Troyes AC",
+            "prediction": "Home Win" ,
+            "date": "15/01/2023"
+        },
+        {
+            "fixture": "Chelsea vs Crystal Palace",
+            "prediction": "Home Win" ,
+            "date": "15/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,107 +175,107 @@
  
  "paidPredictions":[
     {
-        "fixture": "Adana Demirspor- : -MKE Ankaragucu",
-        "prediction": "Home win",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Trabzonspor- : -Istanbul Basaksehir",
-        "prediction": "Under 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Nottm Forest- : -Leicester City",
-        "prediction": "Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Brighton- : -Liverpool",
+        "fixture": "Kasimpasa vs Fatih Karagumruk",
         "prediction": "GG & Over 2.5",
-        "date": "14/01/2023"
+        "date": "15/01/2023"
     },
     {
-        "fixture": "Brentford- : -Bournemouth",
-        "prediction": "Home Win",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Reading- : -Queens Park Rangers",
-        "prediction": "GG & Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Watford- : -Blackpool",
-        "prediction": "GG & Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Sheffield United- : -Stoke City",
-        "prediction": "Home Win & Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Burnley- : -Coventry City",
-        "prediction": "Home Win",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Cardiff City- : -Wigan Athletic",
-        "prediction": "GG & Over 3.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Preston North End- : -Norwich",
-        "prediction": "GG & Over 3.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Bristol City- : -Birmingham",
-        "prediction": "2X & GG",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Rio Ave- : -Pacos Ferreira",
-        "prediction": "Under 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Sporting de Braga- : -Boavista",
-        "prediction": "Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Ajax- : -Twente",
-        "prediction": "Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Marseille- : -Lorient",
-        "prediction": "GG & Over 2.5",
-        "date": "14/01/2023"
-    },
-    {
-        "fixture": "Lecce- : -AC Milan",
+        "fixture": "Gaziantepspor vs Fenerbahce",
         "prediction": "Away win & GG & Over 2.5",
-        "date": "14/01/2023"
+        "date": "15/01/2023"
     },
     {
-        "fixture": "2Genk- : -Zulte-Waregem",
-        "prediction": "HT/FT 1/1 & Over 3.5",
-        "date": "14/01/2023"
+        "fixture": "Fortuna Sittard vs PSV",
+        "prediction": "HT/FT 2/2",
+        "date": "15/01/2023"
     },
     {
-        "fixture": "Perugia- : -Palermom",
+        "fixture": "Groningen vs Feyenoord",
+        "prediction": "2X",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Atalanta vs Salernitana 1919",
+        "prediction": "HT/FT 2/2",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Roma vs Fiorentina",
+        "prediction": "GG & Over 2.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Almeria vs Atletico Madrid",
         "prediction": "Away win",
-        "date": "14/01/2023"
+        "date": "15/01/2023"
     },
     {
-        "fixture": "Hapoel Tel Aviv- : -Sectzya Nes Ziona",
+        "fixture": "Lille OSC vs Troyes AC",
+        "prediction": "Home Win",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Montpellier HSC vs Nantes",
+        "prediction": "Under 3.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Toulouse vs Stade Brestois 29",
+        "prediction": "GG & Over 3.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Newcastle vs Fulham",
+        "prediction": "Home Win",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Tottenham Hotspur vs Arsenal",
+        "prediction": "GG",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Club Brugge- : -Anderlecht",
+        "prediction": "Home Win",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Charleroi vs Cercle Brugge",
+        "prediction": "Over 2.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Nacional vs Estrela da Amadora",
+        "prediction": "Under 3.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "SC Farense vs Benfica Lisbon B",
+        "prediction": "Home Win & GG & Over 2.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Ternana Calcio vs Ascoli",
+        "prediction": "GG & Over 2.5",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Western United vs Newcastle Jets",
+        "prediction": "GG",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "Maccabi Haifa vs Hapoel Katamon",
+        "prediction": "Home win",
+        "date": "15/01/2023"
+    },
+    {
+        "fixture": "AEK Athens vs Panaitolikos Agrinio",
         "prediction": "GG & Over 3.5",
         "date": "14/01/2023"
     },
     {
-        "fixture": "Hapoel Tel Aviv- : -Sectzya Nes Ziona",
+        "fixture": "AEK Athens vs Panaitolikos Agrinio",
         "prediction": "GG & Over 3.5",
         "date": "14/01/2023"
     }
