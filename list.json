@@ -26,70 +26,90 @@
 
    "jackpotPredictions":[
         {
-            "fixture": "AEL LIMASSOL vs APOLLON LIMASSOL",
-            "prediction": "2",
-            "date": "11/01/2022"
-        },
-        {
-            "fixture": "KORTRIJK vs MECHELEN",
+            "fixture": "Nottingham Forest vs Leicester City",
             "prediction": "1",
-            "date": " 11/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "AC AJACCIO vs REIMS",
+            "fixture": "Wolverhampton Wanderers vs West Ham United",
             "prediction": "2",
-            "date": "11/01/2022"
+            "date": " 14/01/2022"
+        },
+        {
+            "fixture": "Luton Town vs West Bromwich Albion",
+            "prediction": "1X",
+            "date": "14/01/2022"
         },
     
         {
-            "fixture": "AJ AUXERRE vs TOULOUSE",
-            "prediction": "2",
-            "date": "11/01/2022"
+            "fixture": "Preston North End vs Norwich City",
+            "prediction": "1",
+            "date": "14/01/2022"
         },
         {
-            "fixture": "NANTES vs LYON",
+            "fixture": "Reading FC vs Queens Park Rangers",
             "prediction": "2",
-            "date": "11/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "VVV VENLO vs FC EMMEN",
-            "prediction": "2",
-            "date": "11/01/2022"
+            "fixture": "Sunderland AFC vs Swansea City",
+            "prediction": "1",
+            "date": "14/01/2022"
         },
         {
-            "fixture": "NOTTINGHAM vs WOLVERHAMPTON",
+            "fixture": "DR Congo vs Uganda",
+            "prediction": "1",
+            "date": "14/01/2022"
+        },
+        {
+            "fixture": "Girona FC vs Sevilla FC",
+            "prediction": "1",
+            "date": "14/01/2022"
+        },
+        {
+            "fixture": "KAS Eupen vs St. Truidense VV",
             "prediction": "1X",
-            "date": "11/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "ALEBRIJES OAXACA vs CELAYA",
-            "prediction": "1",
-            "date": "12/01/2022"
-        },
-        {
-            "fixture": "CANCUN FC vs LEONES NEGROS",
+            "fixture": "FC Volendam vs RKC Waalwijk",
             "prediction": "2",
-            "date": "12/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "GHAZL EL MAHALLAH vs ENPPI CLUB",
+            "fixture": "Ivory Coast vs Senegal",
+            "prediction": "X",
+            "date": "14/01/2022"
+        },
+        {
+            "fixture": "Real Sociedad San Sebastian vs Athletic Bilbao",
             "prediction": "1",
-            "date": "12/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "HERACLES vs GO AHEAD EAGLES",
+            "fixture": "Getafe CF vs Espanyol Barcelona",
             "prediction": "1",
-            "date": "12/01/2022"
+            "date": "14/01/2022"
         },
         {
-            "fixture": "UNION SAINT GILLOISE vs KAA GENT",
-            "prediction": "1",
-            "date": "12/01/2022"
+            "fixture": "Go Ahead Eagles vs FC Utrecht",
+            "prediction": "2",
+            "date": "14/01/2022"
         },
         {
-            "fixture": "MACARTHUR vs CC MARINERS",
+            "fixture": "Angers SCO vs Clermont Foot 63",
             "prediction": "2X",
-            "date": "13/01/2022"
+            "date": "14/01/2022"
+        },
+        {
+            "fixture": "Montpellier HSC vs FC Nantes",
+            "prediction": "1",
+            "date": "14/01/2022"
+        },
+        {
+            "fixture": "Stade Reims vs OGC Nice",
+            "prediction": "1X",
+            "date": "14/01/2022"
         }
     ],
     
