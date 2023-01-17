@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Monday January 16 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Tuesday January 17 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Monday January 16 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tuesday January 17 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Monday January 16 2023", "odds":"Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tuesday January 17 2023", "odds":"Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
         },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Monday January 16 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tuesday January 17 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Monday January 16 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Tuesday January 17 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         } 
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Empoli vs Sampdoria",
-            "prediction": "GG",
-            "date": "16/01/2023"
-        },
-        {
-            "fixture": "Cadiz vs Elche",
-            "prediction": "Over 2.5",
-            "date": "16/01/2023"
-        },
-        {
-            "fixture": "Estoril vs Casa Pia Atletico",
+            "fixture": "OH Leuven vs Eupen",
             "prediction": "GG & Over 2.5",
-            "date": "16/01/2023"
+            "date": "17/01/2023"
         },
         {
-            "fixture": "Genoa vs Venezia",
-            "prediction": "Home Win",
-            "date": "16/01/2023"
+            "fixture": "Swansea vs Bristol City",
+            "prediction": "Over 2.5",
+            "date": "17/01/2023"
         },
         {
-            "fixture": "Eindhoven vs Den Bosch",
-            "prediction": "Home Win" ,
-            "date": "15/01/2023"
+            "fixture": "Real Sociedad- : -Mallorca",
+            "prediction": "Home Win & Under 2.5",
+            "date": "17/01/2023"
+        },
+        {
+            "fixture": "Napoli vs Cremonese",
+            "prediction": "HT/FT 1/1 & Over 2.5",
+            "date": "17/01/2023"
+        },
+        {
+            "fixture": "Al-Rayyan vs Al-Wakrah",
+            "prediction": "Over 2.5" ,
+            "date": "17/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,89 +173,84 @@
  
  "paidPredictions":[
     {
-        "fixture": "Gil Vicente vs Vitoria Guimaraes",
+        "fixture": "Standard Liege vs Mechelen",
         "prediction": "GG & Over 2.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Jong FC Utrecht vs Dordrecht",
-        "prediction": "GG & Over 3.5",
-        "date": "16/01/2023"
+        "fixture": "Standard Liege vs Mechelen",
+        "prediction": "Handicap 2 1-0",
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Jong PSV Eindhoven- : -VVV-Venlo",
-        "prediction": "GG",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Tigres vs Pachuca",
-        "prediction": "Over 2.5",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Omonia Nicosia vs AEL Limassol",
-        "prediction": "Home Win",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Doxa Katokopias vs Nea Salamina",
-        "prediction": "Under 3.5",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Beitar Jerusalem vs Maccabi Tel Aviv",
+        "fixture": "Wolverhampton Wanderers vs Liverpool",
         "prediction": "GG & Over 2.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Iraq vs Qatar",
+        "fixture": "Wigan Athletic vs Luton Town",
+        "prediction": "1X",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "West Bromwich Albion vs Chesterfield",
+        "prediction": "Home win & Over 2.5",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "Deportivo Alaves vs Sevilla",
         "prediction": "Under 3.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Bahrain vs Oman",
+        "fixture": "Al-Sadd SC vs AL Duhail SC",
+        "prediction": "GG & Over 2.5 & Away Win",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "Sivasspor vs Karacabey Belediyespor",
+        "prediction": "GG & Over 2.5",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "Antalyaspor vs Kayserispor",
         "prediction": "Under 2.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Mali vs Angola",
+        "fixture": "Alanyaspor vs Galatasaray",
+        "prediction": "GG & Over 2.5",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "Mozambique vs Libya",
         "prediction": "Under 2.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Cameroon vs Congo",
+        "fixture": "Algeria vs Ethiopia",
+        "prediction": "1 & Over 2.5",
+        "date": "17/01/2023"
+    },
+    {
+        "fixture": "Leon vs Club Necaxa",
         "prediction": "Home Win",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Ionikos vs Volos NFC",
-        "prediction": "2X & Over 2.5",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Niort vs Saint Etienne",
-        "prediction": "Under 2.5",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Bourg vs US Concarneau",
-        "prediction": "Under 2.5",
-        "date": "16/01/2023"
-    },
-    {
-        "fixture": "Port Vale vs Peterborough United",
+        "fixture": "Harrow Borough vs Halifax Town",
         "prediction": "Over 2.5",
-        "date": "16/01/2023"
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Albacete vs Leganes",
-        "prediction": "Under 2.5",
-        "date": "16/01/2023"
+        "fixture": "Torquay United vs Taunton Town",
+        "prediction": "Home Win",
+        "date": "17/01/2023"
     },
     {
-        "fixture": "Albacete vs Leganes",
-        "prediction": "Under 2.5",
-        "date": "16/01/2023"
+        "fixture": "Torquay United vs Taunton Town",
+        "prediction": "Home Win",
+        "date": "17/01/2023"
     }
     
     
