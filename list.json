@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Fri January 20 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sat January 21 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Fri January 20 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat January 21 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Fri January 20 2023", "odds":"Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat January 21 2023", "odds":"Sportpesa Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
         },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Fri January 20 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat January 21 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":15    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Fri January 20 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Sat January 21 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":21
         } 
      ],
 
@@ -116,29 +116,39 @@
     
    "freePredictions":[
         {
-            "fixture": "Adana Demirspor vs Giresunspor",
-            "prediction": "Home Win",
-            "date": "20/01/2023"
+            "fixture": "Stuttgart vs Mainz 05",
+            "prediction": "Under 3.5",
+            "date": "21/01/2023"
         },
         {
-            "fixture": "Arouca vs Portimonense",
-            "prediction": "Under 2.5",
-            "date": "20/01/2023"
+            "fixture": "Coventry City vs Norwich",
+            "prediction": "Away win",
+            "date": "21/01/2023"
         },
         {
-            "fixture": "Excelsior Rotterdam vs Volendam",
+            "fixture": "Liverpool vs Chelsea",
+            "prediction": "Under 3.5",
+            "date": "21/01/2023"
+        },
+        {
+            "fixture": "NEC vs Emmen",
+            "prediction": "Over 2.5 & GG",
+            "date": "21/01/2023"
+        },
+        {
+            "fixture": "Rayo Vallecano vs Real Sociedad",
+            "prediction": "Rayo Vallecano vs Real Sociedad",
+            "date": "21/01/2023"
+        },
+        {
+            "fixture": "Zulte-Waregem vs Westerlo",
             "prediction": "Over 2.5",
-            "date": "20/01/2023"
+            "date": "21/01/2023"
         },
         {
-            "fixture": "RB Leipzig vs Bayern Munich",
-            "prediction": "Away Win & Over 2.5 & GG",
-            "date": "20/01/2023"
-        },
-        {
-            "fixture": "Eupen vs Genk",
-            "prediction": "HT/FT 2/2 & Over 2.5",
-            "date": "20/01/2023"
+            "fixture": "Kasimpasa vs Istanbul Basaksehir",
+            "prediction": "GG & Over 2.5",
+            "date": "21/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,84 +183,114 @@
  
  "paidPredictions":[
     {
-        "fixture": "Sporting Lisbon vs Vizela",
-        "prediction": "Home Win",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "Burnley vs West Bromwich Albion",
-        "prediction": "Home Win",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "Mallorca vs Celta Vigo",
+        "fixture": "Union Berlin vs TSG Hoffenheim",
         "prediction": "GG & Over 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Sanat Mes Kerman vs Naft Masjed-Soleyman",
-        "prediction": "Over 2.5",
-        "date": "20/01/2023"
+        "fixture": "Eintracht Frankfurt vs Schalke 04",
+        "prediction": "Home Win & Over 3.5 & GG",
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Palermo vs Bari",
+        "fixture": "Queens Park Rangers vs Swansea",
         "prediction": "Under 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Las Palmas vs CD Mirandes",
+        "fixture": "Stoke City vs Reading",
         "prediction": "GG & Over 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
     },
     {
-        "fixture": "PEC Zwolle vs VVV-Venlo",
-        "prediction": "GG & Over 2.5 & Home Win",
-        "date": "20/01/2023"
+        "fixture": "Leicester City vs Brighton",
+        "prediction": "GG",
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Almere City vs De Graafschap",
-        "prediction": "GG & Over 2.5",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "Top Oss vs NAC",
-        "prediction": "1X",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "Den Bosch vs Jong PSV Eindhoven",
-        "prediction": "Over 2.5",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "MVV Maastricht vs Heracles Almelo",
-        "prediction": "GG & Over 2.5",
-        "date": "20/01/2023"
-    },
-    {
-        "fixture": "Panaitolikos Agrinio vs PAS Giannina",
+        "fixture": "Crystal Palace vs Newcastle",
         "prediction": "Under 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Olympiakos Nicosia vs AEK Larnaca",
-        "prediction": "Away Win & Over 2.5",
-        "date": "20/01/2023"
+        "fixture": "Santa Clara vs Benfica",
+        "prediction": "Over 2.5 & Away Win",
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Istra 1961 vs Slaven Belupo",
-        "prediction": "GG & Over 2.5",
-        "date": "20/01/2023"
+        "fixture": "Vitoria Guimaraes vs Porto",
+        "prediction": "Away win",
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Chateauroux vs Avranches",
+        "fixture": "PSV vs Vitesse",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Rayo Vallecano vs Real Sociedad",
+        "prediction": "GG & Under 3.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Atletico Madrid vs Real Valladolid",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Sevilla vs Cadiz",
+        "prediction": "Under 2.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Mechelen vs KV Kortrijk",
+        "prediction": "Over 3.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Royale Union Saint-Gilloise vs OH Leuven",
+        "prediction": "Home win & Over 2.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Reggina vs Ternana Calcio",
+        "prediction": "Under 3.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Cittadella vs Cagliari Calcio",
         "prediction": "Over 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
     },
     {
-        "fixture": "Chateauroux vs Avranches",
+        "fixture": "Maccabi Bnei Reineh vs Beitar Jerusalem",
         "prediction": "Over 2.5",
-        "date": "20/01/2023"
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Flint Town Utd vs Pontypridd Town",
+        "prediction": "Under 3.5",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Cardiff Metropolitan vs Airbus UK Broughton",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Luzern vs Zurich",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Academica Viseu vs Nacional",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
+    },
+    {
+        "fixture": "Academica Viseu vs Nacional",
+        "prediction": "Home Win",
+        "date": "21/01/2023"
     }
     
     
@@ -2084,7 +2124,7 @@
            "phone":"0712111442",
            "plan":"Basic Plan",
            "startDate": "29/09/2022",
-           "endDate": "05/10/202"
+           "endDate": "05/10/2022"
    
        }
    ]
