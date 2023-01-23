@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 23 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Tue January 23rd 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 23 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tue January 23rd 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Mon January 23 2023", "odds":"Sportpesa Guaranteed Mega Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tue January 23rd 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
         },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 23 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tue January 23rd 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
-           "name": "Premium Tips", "amount": "Ksh500" , "accessDays": "Mon January 23 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Tue January 23rd 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
         } 
      ],
 
@@ -96,29 +96,29 @@
     
    "freePredictions":[
         {
-            "fixture": "Konyaspor 1922 vs MKE Ankaragucu",
-            "prediction": "Home Win",
-            "date": "23/01/2023"
+            "fixture": "Schalke 04 vs RB Leipzig",
+            "prediction": "Away win",
+            "date": "24/01/2023"
         },
         {
-            "fixture": "Fulham vs Tottenham Hotspur",
-            "prediction": "GG & Over 2.5",
-            "date": "23/01/2023"
+            "fixture": "Accrington Stanley vs Boreham Wood",
+            "prediction": "Under 2.5",
+            "date": "24/01/2023"
         },
         {
-            "fixture": "Valencia vs Almeria",
-            "prediction": "GG & Over 2.5",
-            "date": "23/01/2023"
+            "fixture": "Emmen vs PSV",
+            "prediction": "Handicap 2 1-0",
+            "date": "24/01/2023"
         },
         {
-            "fixture": "Bologna vs Cremonese",
-            "prediction": "Home Win & Over 2.5",
-            "date": "23/01/2023"
+            "fixture": "Lazio vs AC Milan",
+            "prediction": "Over 2.5",
+            "date": "24/01/2023"
         },
         {
-            "fixture": "Boavista vs Chaves",
-            "prediction": "GG",
-            "date": "23/01/2023"
+            "fixture": "Mauritania vs Mali",
+            "prediction": "Under 2.5",
+            "date": "24/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -153,94 +153,94 @@
  
  "paidPredictions":[
     {
-        "fixture": "Umraniyespor vs Fenerbahce",
-        "prediction": "GG",
-        "date": "23/01/2023"
+        "fixture": "Zalaegerzeg vs Ferencvaros",
+        "prediction": "GG & Over 2.5",
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Inter Milan vs Empoli",
-        "prediction": "Home Win & GG & Over 2.5",
-        "date": "23/01/2023"
+        "fixture": "Universidad de Chile vs Huachipato",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Torreense vs Feirense",
+        "fixture": "Banbury United vs Coalville Town",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Arouca vs Sporting Lisbon",
         "prediction": "Under 2.5",
-        "date": "23/01/2023"
+        "date": "24/01/2023"
     },
     {
-        "fixture": "FC Andorra vs Albacete",
+        "fixture": "Qatar SC vs Umm Salal",
         "prediction": "GG & Over 2.5",
-        "date": "23/01/2023"
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Chindia Targoviste vs Arges Pitesti",
-        "prediction": "GG",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Farul Constanta vs CFR Cluj",
-        "prediction": "Under 3.5",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Al Shamal vs AL Duhail SC",
+        "fixture": "Coventry City vs Huddersfield",
         "prediction": "GG & Over 2.5",
-        "date": "23/01/2023"
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Al Arabi vs Al-Sadd SC",
-        "prediction": "Over 2.5",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Curico Unido vs Coquimbo Unido",
-        "prediction": "Over 2.5",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Jong Ajax vs Roda Kerkrade",
+        "fixture": "TSG Hoffenheim vs Stuttgart",
         "prediction": "GG & Over 2.5",
-        "date": "23/01/2023"
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Jong AZ Alkmaar  vs Helmond Sport",
-        "prediction": "Home Win & Over 2.5",
-        "date": "23/01/2023"
+        "fixture": "Bayern Munich vs FC Koln",
+        "prediction": "HT/FT 1/1 & Over 2.5",
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Aris Limassol vs Apollon Limasol",
-        "prediction": "Over 2.5",
-        "date": "23/01/2023"
+        "fixture": "Sparta Rotterdam vs RKC Waalwijk",
+        "prediction": "GG & Over 2.5",
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Anorthosis Famagusta vs Paralimni",
-        "prediction": "Under 3.5",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Pachuca vs Juarez FC",
-        "prediction": "GG",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Maccabi Tel Aviv vs Maccabi Haifa",
-        "prediction": "Over 2.5",
-        "date": "23/01/2023"
-    },
-    {
-        "fixture": "Sudan vs Madagascar",
+        "fixture": "Niger vs Cameroon",
         "prediction": "Under 2.5",
-        "date": "23/01/2023"
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Sedan vs Le Mans",
-        "prediction": "Over 2.5",
-        "date": "22/01/2023"
+        "fixture": "Zalaegerzeg vs Ferencvaros",
+        "prediction": "Away Win & Over 2.5",
+        "date": "24/01/2023"
     },
     {
-        "fixture": "Sedan vs Le Mans",
+        "fixture": "Carlisle United vs Hartlepool United",
         "prediction": "Over 2.5",
-        "date": "22/01/2023"
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Cheltenham Town vs Sheffield Wednesday",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Ipswich Town vs Morecambe",
+        "prediction": "GG",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Al-Gharrafa vs Al-Rayyan",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Al-Wakrah vs Al Sailiya",
+        "prediction": "Over 2.5 & Away Win",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Milton Keynes Dons vs Shrewsbury",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
+    },
+    {
+        "fixture": "Milton Keynes Dons vs Shrewsbury",
+        "prediction": "Over 2.5",
+        "date": "24/01/2023"
     }
     
     
@@ -249,6 +249,310 @@
 
 
    "predictionResults":[
+    {
+        "date": "Friday, 13th January 2022",
+        "gamesList": [
+         {
+             "fixture": "ES Tarentaise VS Villefranche",
+             "prediction": "Over 4.5",
+             "odds": "4.07",
+             "results": "Odds 4.07 (WIN)"
+         },
+         {
+             "fixture": "Buqa'a Amman VS Ittihad Al Ramtha",
+             "prediction": "HT/FT 2/2",
+             "odds": "3.34",
+             "results": "3.34 (WIN)"
+         },
+         {
+             "fixture": "Negeri Sembilan VS Kedah FA",
+             "prediction": "Under 0.5 Goals",
+             "odds": "5.26",
+             "results": "Odds 5.26 (WIN)"
+         },
+             {
+             "fixture": "Terengganu VS Pahang FA",
+             "prediction": "Over 4.5 & GG",
+             "odds": "6.05",
+             "results": "Odds 6.05 (WIN)"
+         },
+             {
+             "fixture": "Varesina VS Citt di Varese",
+             "prediction": "HT/FT X/2",
+             "odds": "3.97",
+             "results": "Odds 3.97 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Thursady, 12th January 2022",
+        "gamesList": [
+         {
+             "fixture": "NK Krsko VS ND Ilirija",
+             "prediction": "Over 3.5 & NG",
+             "odds": "5.07",
+             "results": "Odds 5.07 (WIN)"
+         },
+         {
+             "fixture": "Al Hazm VS Al Riyadh SC",
+             "prediction": "CS 2-1",
+             "odds": "6.27",
+             "results": "6.27 (WIN)"
+         },
+         {
+             "fixture": "Samartex VS Great Olympics",
+             "prediction": "Under 0.5 Goals",
+             "odds": "7.11",
+             "results": "Odds 7.11 (WIN)"
+         },
+             {
+             "fixture": "Tamale City VS Real Tamale United",
+             "prediction": "HT/FT X/X",
+             "odds": "5.28",
+             "results": "Odds 5.28 (WIN)"
+         },
+             {
+             "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
+             "prediction": "HT/FT 2/1",
+             "odds": "6.29",
+             "results": "Odds 6.29 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Wednesday, 11th January 2022",
+        "gamesList": [
+         {
+             "fixture": "UB Conquense VS CD Torrijos",
+             "prediction": "Under 0.5 Goals",
+             "odds": "5.07",
+             "results": "Odds 5.07 (WIN)"
+         },
+         {
+             "fixture": "CF Intercity VS UD Logrones",
+             "prediction": "Draw 2-2",
+             "odds": "3.62",
+             "results": "3.62 (WIN)"
+         },
+         {
+             "fixture": "Real Sociedad B VS Atl莨�tico Baleares",
+             "prediction": "HT/FT X/1 ",
+             "odds": "4.28",
+             "results": "Odds 4.28 (WIN)"
+         },
+             {
+             "fixture": "Levante Las Planas W VS Huelva W",
+             "prediction": "Correct Score 1-2",
+             "odds": "4.39",
+             "results": "Odds 4.39 (WIN)"
+         },
+             {
+             "fixture": "Terranuova Traiana VS Poggibonsi ",
+             "prediction": "Correct Score 0-3",
+             "odds": "7.29",
+             "results": "Odds 7.29 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Tuesday, 10th January 2022",
+        "gamesList": [
+         {
+             "fixture": "Bnei Sakhnin VS Hapoel Hadera",
+             "prediction": "Over 4.5",
+             "odds": "5.07",
+             "results": "Odds 5.07 (WIN)"
+         },
+         {
+             "fixture": "CD Santa 鐃�rsula VS CD Tenerife B",
+             "prediction": "CS 0-1",
+             "odds": "5.43",
+             "results": "5.43 (WIN)"
+         },
+         {
+             "fixture": "UD Collerense VS SD Portmany",
+             "prediction": "1-0",
+             "odds": "6.72",
+             "results": "Odds 6.72 (WIN)"
+         },
+             {
+             "fixture": "UD Collerense VS SD Portmany",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.39",
+             "results": "Odds 4.39 (WIN)"
+         },
+             {
+             "fixture": "Rahimo VS Vitesse FC (BFA)",
+             "prediction": "Over 5.5 Goals",
+             "odds": "6.19",
+             "results": "Odds 6.19 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Monday, 9th January 2022",
+        "gamesList": [
+         {
+             "fixture": "Petro Atletico VS Recreativo Libolo ",
+             "prediction": "Correct Score 0-1 ",
+             "odds": "5.68",
+             "results": "Odds 5.68 (WIN)"
+         },
+         {
+             "fixture": "JS Massira VS Chabab Kh莨�nifra ",
+             "prediction": "Draw Fixed",
+             "odds": "3.05",
+             "results": "3.05 (WIN)"
+         },
+         {
+             "fixture": "SFC Pisek VS Admira Praha",
+             "prediction": "HT Draw",
+             "odds": "2.37",
+             "results": "Odds 2.37 (WIN)"
+         },
+             {
+             "fixture": "Markez Balata VS Ahli Al-Khalil ",
+             "prediction": "HT/FT X/1",
+             "odds": "5.39",
+             "results": "Odds 5.39 (WIN)"
+         },
+             {
+             "fixture": "R��gas FS II VS Valmiera II ",
+             "prediction": "Over 5.5 Goals",
+             "odds": "6.42",
+             "results": "Odds 6.42 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Sunday, 8th January 2022",
+        "gamesList": [
+         {
+             "fixture": "Resistencia SC VS Olimpia Asunci��n",
+             "prediction": "GG & Over 3.5",
+             "odds": "4.67",
+             "results": "Odds 4.67 (WIN)"
+         },
+         {
+             "fixture": "Pahang FA VS Terengganu ",
+             "prediction": "Over 4.5 ",
+             "odds": "4.39",
+             "results": "4.39 (WIN)"
+         },
+         {
+             "fixture": "Sanat Naft AC VS Paykan FC",
+             "prediction": "HT/FT 1/X ",
+             "odds": "5.28",
+             "results": "Odds 5.28 (WIN)"
+         },
+             {
+             "fixture": "Persepolis FC VS Mes Kerman",
+             "prediction": "Correct Score 1-0 ",
+             "odds": "5.44",
+             "results": "Odds 5.44 (WIN)"
+         },
+             {
+             "fixture": "Dinamo Bucuresti VS CSM Slatina",
+             "prediction": "Under 0.5 Goals ",
+             "odds": "6.37",
+             "results": "Odds 6.37 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Saturday, 7th January 2022",
+        "gamesList": [
+         {
+             "fixture": "Napoli Vs Glasgow Rangers",
+             "prediction": "Home win & Over 2.5",
+             "odds": "1.62",
+             "results": "3-0 (WIN)"
+         },
+         {
+             "fixture": "Ajax Vs Liverpool",
+             "prediction": "Over 2.5",
+             "odds": "1.46",
+             "results": "0-3 (WIN)"
+         },
+         {
+             "fixture": "Inter Vs Viktoria Plzen",
+             "prediction": "Over 2.5",
+             "odds": "1.45",
+             "results": "4-0 (WIN)"
+         },
+             {
+             "fixture": "Barcelona Vs Bayern",
+             "prediction": "Over 2.5",
+             "odds": "1.44",
+             "results": "0-3 (WIN)"
+         },
+             {
+             "fixture": "Rapid Wien Vs Hartberg",
+             "prediction": "Over 2.5",
+             "odds": "1.55",
+             "results": "5-1 (WIN)"
+         },
+         {
+            "fixture": "Eintracht F. Vs Marseille",
+            "prediction": "Over 1.5",
+            "odds": "1.31",
+            "results": "2-1 (WIN)"
+        },
+        {
+            "fixture": "Club Brugge Vs Porto",
+            "prediction": "Over 1.5",
+            "odds": "1.30",
+            "results": "0-4 (WIN)"
+        },
+        {
+            "fixture": "Treaty United Vs Waterford Utd",
+            "prediction": "Over 1.5",
+            "odds": "1.20",
+            "results": "1-4 (WIN)"
+        },
+        {
+            "fixture": "Slavia Prague W Vs Wolfsburg W",
+            "prediction": "Over 2.5",
+            "odds": "1.37",
+            "results": "0-2 (LOSS)"
+        }
+        ]
+     },
+        {
+        "date": "Friday, 6th January 2022",
+        "gamesList": [
+         {
+             "fixture": "Van Pars Isfahan VS Esteghlal Khuzestan",
+             "prediction": "Over 4.5 & GG",
+             "odds": "5.33",
+             "results": "Odds 5.33 (WIN)"
+         },
+         {
+             "fixture": "Talaba Baghdad VS Naft Maysan",
+             "prediction": "Half Time Draw",
+             "odds": "2.49",
+             "results": "2.49 (WIN)"
+         },
+         {
+             "fixture": "Al Qaisoma VS Ohud Medina",
+             "prediction": "HT Correct Score 1-0",
+             "odds": "5.63",
+             "results": "Odds 5.63 (WIN)"
+         },
+             {
+             "fixture": "Real Kings VS Golden Arrows",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.37",
+             "results": "Odds 4.37 (WIN)"
+         },
+             {
+             "fixture": "FK Zlin VS Jihlava",
+             "prediction": "CS 2-0",
+             "odds": "8.09",
+             "results": "Odds 8.09 (WIN)"
+         }
+        ]
+     },
     {
         "date": "Thursady, 5th January 2023",
         "gamesList": [
@@ -1760,310 +2064,6 @@
              "prediction": "Over 4.5 & GG",
              "odds": "5.47",
              "results": "Odds 5.47 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Tuesday, 1st November 2022",
-        "gamesList": [
-         {
-             "fixture": "ES Tarentaise VS Villefranche",
-             "prediction": "Over 4.5",
-             "odds": "4.07",
-             "results": "Odds 4.07 (WIN)"
-         },
-         {
-             "fixture": "Buqa'a Amman VS Ittihad Al Ramtha",
-             "prediction": "HT/FT 2/2",
-             "odds": "3.34",
-             "results": "3.34 (WIN)"
-         },
-         {
-             "fixture": "Negeri Sembilan VS Kedah FA",
-             "prediction": "Under 0.5 Goals",
-             "odds": "5.26",
-             "results": "Odds 5.26 (WIN)"
-         },
-             {
-             "fixture": "Terengganu VS Pahang FA",
-             "prediction": "Over 4.5 & GG",
-             "odds": "6.05",
-             "results": "Odds 6.05 (WIN)"
-         },
-             {
-             "fixture": "Varesina VS Citt di Varese",
-             "prediction": "HT/FT X/2",
-             "odds": "3.97",
-             "results": "Odds 3.97 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Monday, 31th October 2022",
-        "gamesList": [
-         {
-             "fixture": "NK Krsko VS ND Ilirija",
-             "prediction": "Over 3.5 & NG",
-             "odds": "5.07",
-             "results": "Odds 5.07 (WIN)"
-         },
-         {
-             "fixture": "Al Hazm VS Al Riyadh SC",
-             "prediction": "CS 2-1",
-             "odds": "6.27",
-             "results": "6.27 (WIN)"
-         },
-         {
-             "fixture": "Samartex VS Great Olympics",
-             "prediction": "Under 0.5 Goals",
-             "odds": "7.11",
-             "results": "Odds 7.11 (WIN)"
-         },
-             {
-             "fixture": "Tamale City VS Real Tamale United",
-             "prediction": "HT/FT X/X",
-             "odds": "5.28",
-             "results": "Odds 5.28 (WIN)"
-         },
-             {
-             "fixture": "Ittihad Alexandria VS Tala'ea Al Jaish",
-             "prediction": "HT/FT 2/1",
-             "odds": "6.29",
-             "results": "Odds 6.29 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Sunday, 30th October 2022",
-        "gamesList": [
-         {
-             "fixture": "UB Conquense VS CD Torrijos",
-             "prediction": "Under 0.5 Goals",
-             "odds": "5.07",
-             "results": "Odds 5.07 (WIN)"
-         },
-         {
-             "fixture": "CF Intercity VS UD Logrones",
-             "prediction": "Draw 2-2",
-             "odds": "3.62",
-             "results": "3.62 (WIN)"
-         },
-         {
-             "fixture": "Real Sociedad B VS Atl莨�tico Baleares",
-             "prediction": "HT/FT X/1 ",
-             "odds": "4.28",
-             "results": "Odds 4.28 (WIN)"
-         },
-             {
-             "fixture": "Levante Las Planas W VS Huelva W",
-             "prediction": "Correct Score 1-2",
-             "odds": "4.39",
-             "results": "Odds 4.39 (WIN)"
-         },
-             {
-             "fixture": "Terranuova Traiana VS Poggibonsi ",
-             "prediction": "Correct Score 0-3",
-             "odds": "7.29",
-             "results": "Odds 7.29 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Saturday, 29th October 2022",
-        "gamesList": [
-         {
-             "fixture": "Bnei Sakhnin VS Hapoel Hadera",
-             "prediction": "Over 4.5",
-             "odds": "5.07",
-             "results": "Odds 5.07 (WIN)"
-         },
-         {
-             "fixture": "CD Santa 鐃�rsula VS CD Tenerife B",
-             "prediction": "CS 0-1",
-             "odds": "5.43",
-             "results": "5.43 (WIN)"
-         },
-         {
-             "fixture": "UD Collerense VS SD Portmany",
-             "prediction": "1-0",
-             "odds": "6.72",
-             "results": "Odds 6.72 (WIN)"
-         },
-             {
-             "fixture": "UD Collerense VS SD Portmany",
-             "prediction": "HT/FT 1/1",
-             "odds": "4.39",
-             "results": "Odds 4.39 (WIN)"
-         },
-             {
-             "fixture": "Rahimo VS Vitesse FC (BFA)",
-             "prediction": "Over 5.5 Goals",
-             "odds": "6.19",
-             "results": "Odds 6.19 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Friday, 28th October 2022",
-        "gamesList": [
-         {
-             "fixture": "Petro Atletico VS Recreativo Libolo ",
-             "prediction": "Correct Score 0-1 ",
-             "odds": "5.68",
-             "results": "Odds 5.68 (WIN)"
-         },
-         {
-             "fixture": "JS Massira VS Chabab Kh莨�nifra ",
-             "prediction": "Draw Fixed",
-             "odds": "3.05",
-             "results": "3.05 (WIN)"
-         },
-         {
-             "fixture": "SFC Pisek VS Admira Praha",
-             "prediction": "HT Draw",
-             "odds": "2.37",
-             "results": "Odds 2.37 (WIN)"
-         },
-             {
-             "fixture": "Markez Balata VS Ahli Al-Khalil ",
-             "prediction": "HT/FT X/1",
-             "odds": "5.39",
-             "results": "Odds 5.39 (WIN)"
-         },
-             {
-             "fixture": "R��gas FS II VS Valmiera II ",
-             "prediction": "Over 5.5 Goals",
-             "odds": "6.42",
-             "results": "Odds 6.42 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Thursday, 27th October 2022",
-        "gamesList": [
-         {
-             "fixture": "Resistencia SC VS Olimpia Asunci��n",
-             "prediction": "GG & Over 3.5",
-             "odds": "4.67",
-             "results": "Odds 4.67 (WIN)"
-         },
-         {
-             "fixture": "Pahang FA VS Terengganu ",
-             "prediction": "Over 4.5 ",
-             "odds": "4.39",
-             "results": "4.39 (WIN)"
-         },
-         {
-             "fixture": "Sanat Naft AC VS Paykan FC",
-             "prediction": "HT/FT 1/X ",
-             "odds": "5.28",
-             "results": "Odds 5.28 (WIN)"
-         },
-             {
-             "fixture": "Persepolis FC VS Mes Kerman",
-             "prediction": "Correct Score 1-0 ",
-             "odds": "5.44",
-             "results": "Odds 5.44 (WIN)"
-         },
-             {
-             "fixture": "Dinamo Bucuresti VS CSM Slatina",
-             "prediction": "Under 0.5 Goals ",
-             "odds": "6.37",
-             "results": "Odds 6.37 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Wednesday, 26th October 2022",
-        "gamesList": [
-         {
-             "fixture": "Napoli Vs Glasgow Rangers",
-             "prediction": "Home win & Over 2.5",
-             "odds": "1.62",
-             "results": "3-0 (WIN)"
-         },
-         {
-             "fixture": "Ajax Vs Liverpool",
-             "prediction": "Over 2.5",
-             "odds": "1.46",
-             "results": "0-3 (WIN)"
-         },
-         {
-             "fixture": "Inter Vs Viktoria Plzen",
-             "prediction": "Over 2.5",
-             "odds": "1.45",
-             "results": "4-0 (WIN)"
-         },
-             {
-             "fixture": "Barcelona Vs Bayern",
-             "prediction": "Over 2.5",
-             "odds": "1.44",
-             "results": "0-3 (WIN)"
-         },
-             {
-             "fixture": "Rapid Wien Vs Hartberg",
-             "prediction": "Over 2.5",
-             "odds": "1.55",
-             "results": "5-1 (WIN)"
-         },
-         {
-            "fixture": "Eintracht F. Vs Marseille",
-            "prediction": "Over 1.5",
-            "odds": "1.31",
-            "results": "2-1 (WIN)"
-        },
-        {
-            "fixture": "Club Brugge Vs Porto",
-            "prediction": "Over 1.5",
-            "odds": "1.30",
-            "results": "0-4 (WIN)"
-        },
-        {
-            "fixture": "Treaty United Vs Waterford Utd",
-            "prediction": "Over 1.5",
-            "odds": "1.20",
-            "results": "1-4 (WIN)"
-        },
-        {
-            "fixture": "Slavia Prague W Vs Wolfsburg W",
-            "prediction": "Over 2.5",
-            "odds": "1.37",
-            "results": "0-2 (LOSS)"
-        }
-        ]
-     },
-        {
-        "date": "Tuesday, 25th October 2022",
-        "gamesList": [
-         {
-             "fixture": "Van Pars Isfahan VS Esteghlal Khuzestan",
-             "prediction": "Over 4.5 & GG",
-             "odds": "5.33",
-             "results": "Odds 5.33 (WIN)"
-         },
-         {
-             "fixture": "Talaba Baghdad VS Naft Maysan",
-             "prediction": "Half Time Draw",
-             "odds": "2.49",
-             "results": "2.49 (WIN)"
-         },
-         {
-             "fixture": "Al Qaisoma VS Ohud Medina",
-             "prediction": "HT Correct Score 1-0",
-             "odds": "5.63",
-             "results": "Odds 5.63 (WIN)"
-         },
-             {
-             "fixture": "Real Kings VS Golden Arrows",
-             "prediction": "HT/FT 1/1",
-             "odds": "4.37",
-             "results": "Odds 4.37 (WIN)"
-         },
-             {
-             "fixture": "FK Zlin VS Jihlava",
-             "prediction": "CS 2-0",
-             "odds": "8.09",
-             "results": "Odds 8.09 (WIN)"
          }
         ]
      }
