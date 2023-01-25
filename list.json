@@ -7,118 +7,138 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Wed January 24th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Thur January 26th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wed January 24th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thur January 26th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wed January 24th 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thur January 26th 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
         },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wed January 24th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thur January 26th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
         },
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Wed January 24th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Thur January 26th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
         } 
      ],
 
 
    "jackpotPredictions":[
         {
-            "fixture": "MAINZ vs BORUSSIA DORTMUND",
+            "fixture": "Panathinaikos vs PAOK Thessaloniki",
             "prediction": "2",
-            "date": "25/01/2022"
+            "date": "28/01/2022"
         },
         {
-            "fixture": "FORTUNA SITTARD vs SC HEERENVEEN",
-            "prediction": "2X",
-            "date": " 25/01/2022"
-        },
-        {
-            "fixture": "SC FREIBURG vs EINTRACHT FRANKFURT",
+            "fixture": "Blackburn Rovers vs Birmingham City",
             "prediction": "1",
-            "date": "25/01/2022"
+            "date": " 28/01/2022"
+        },
+        {
+            "fixture": "Getafe CF vs Real Betis Seville",
+            "prediction": "2",
+            "date": "28/01/2022"
         },
     
         {
-            "fixture": "AUGSBURG vs BORUSSIA MONCHENGLADBACH",
-            "prediction": "1",
-            "date": "25/01/2022"
-        },
-        {
-            "fixture": "WERDER BREMEN vs UNION BERLIN",
-            "prediction": "2",
-            "date": "25/01/2022"
-        },
-        {
-            "fixture": "OSASUNA vs SEVILLA FC",
-            "prediction": "1",
-            "date": "26/01/2022"
-        },
-        {
-            "fixture": "SANTO ANDRE SP vs BOTAFOGO SP",
+            "fixture": "FC Twente Enschede vs Feyenoord Rotterdam",
             "prediction": "1X",
-            "date": "26/01/2022"
+            "date": "29/01/2022"
         },
         {
-            "fixture": "MELBOURNE VICTORY vs SYDNEY FC",
-            "prediction": "1",
-            "date": "26/01/2022"
-        },
-        {
-            "fixture": "AIZAWL FC vs MOHAMMEDAN SC",
-            "prediction": "1X",
-            "date": "26/01/2022"
-        },
-        {
-            "fixture": "GRONINGEN vs CAMBUUR",
-            "prediction": "1X",
-            "date": "26/01/2022"
-        },
-        {
-            "fixture": "VALENCIA vs ATHLETIC BILBAO",
+            "fixture": "OGC Nice vs Lille OSC",
             "prediction": "2X",
-            "date": "26/01/2022"
+            "date": "29/01/2022"
         },
         {
-            "fixture": "CLUB ATLAS vs SANTOS LAGUNA",
-            "prediction": "1X",
-            "date": "27/01/2022"
+            "fixture": "RSC Anderlecht vs Royal Antwerp FC",
+            "prediction": "1",
+            "date": "29/01/2022"
         },
         {
-            "fixture": "NEWCASTLE JETS vs BRISBANE ROAR",
+            "fixture": "Real Valladolid vs Valencia CF",
+            "prediction": "2",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Brighton & Hove Albion vs Liverpool FC",
+            "prediction": "2X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "AJ Auxerre vs Montpellier HSC",
             "prediction": "1X",
-            "date": "27/01/2022"
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Clermont Foot 63 vs FC Nantes",
+            "prediction": "2X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Schalke 04 vs1. FC Cologne",
+            "prediction": "1X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Cercle Brugge vs KAA Gent",
+            "prediction": "2X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "CA Osasuna vs Atletico Madrid",
+            "prediction": "2",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "SC Cambuur vs Fortuna Sittard",
+            "prediction": "1",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Bayer Leverkusen vs Borussia Dortmund",
+            "prediction": "2X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "RC Celta de Vigo vs Athletic Bilbao",
+            "prediction": "2X",
+            "date": "29/01/2022"
+        },
+        {
+            "fixture": "Boavista Porto vs Portimonense SC",
+            "prediction": "X",
+            "date": "29/01/2022"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture":"Barcelona vs Real Sociedad",
-            "prediction": "Home win & Over 2.5",
-            "date": "25/01/2023"
+            "fixture":"Valencia vs Athletic Bilbao",
+            "prediction": "Home win",
+            "date": "26/01/2023"
         },
         {
-            "fixture": "Go Ahead Eagles vs AZ Alkmaar",
-            "prediction": "Away Win & Over 2.5",
-            "date": "25/01/2023"
+            "fixture": "Pacos Ferreira vs Benfica",
+            "prediction": "Away Win",
+            "date": "26/01/2023"
         },
         {
-            "fixture": "Mainz 05 vs Borussia Dortmund",
-            "prediction":"Away win",
-            "date": "25/01/2023"
+            "fixture": "Groningen vs Cambuur",
+            "prediction":"Home win, Over 1.5",
+            "date": "26/01/2023"
         },
         {
-            "fixture": "Porto vs Academica Viseu",
-            "prediction": "Away win",
-            "date": "25/01/2023"
+            "fixture": "Young Boys vs Flora Tallinn",
+            "prediction": "Over 2.5",
+            "date": "26/01/2023"
         },
         {
-            "fixture": "Atletico Bucaramanga vs Envigado",
-            "prediction": "Away win",
-            "date": "25/01/2023"
+            "fixture": "Esteghlal vs Malavan",
+            "prediction": "Home Win",
+            "date": "26/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -153,94 +173,84 @@
  
  "paidPredictions":[
     {
-        "fixture":"Barcelona vs Real Sociedad",
+        "fixture":"Valencia vs Athletic Bilbao",
+        "prediction": "Home win",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Real Madrid vs Atletico Madrid",
+        "prediction": "Home win & Over 1.5",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Pacos Ferreira vs Benfica",
+        "prediction": "Away Win",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Groningen vs Cambuur",
+        "prediction":"Home win, Over 1.5",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Ajax vs Volendam",
         "prediction": "Home win & Over 2.5",
-        "date": "25/01/2023"
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Go Ahead Eagles vs AZ Alkmaar",
-        "prediction": "Away Win & Over 2.5",
-        "date": "25/01/2023"
+        "fixture": "Young Boys vs Flora Tallinn",
+        "prediction": "Over 2.5",
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Mainz 05 vs Borussia Dortmund",
+        "fixture":"Copenhagen vs Hviding IF",
         "prediction":"Away win",
-        "date": "25/01/2023"
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Porto vs Academica Viseu",
-        "prediction": "Away win",
-        "date": "25/01/2023"
+        "fixture": "SV Pachern vs TUS Heiligenkreuz",
+        "prediction":"Away Win",
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Atletico Bucaramanga vs Envigado",
-        "prediction": "Away win",
-        "date": "25/01/2023"
+        "fixture": "Spvg Schonnebeck 1910 vs Arminia Klosterhardt",
+        "prediction": "Home win & Over 2.5",
+        "date": "26/01/2023"
     },
     {
-        "fixture": " vitesse vs twente",
-        "prediction": "Away win",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture":"trecht vs Excelsior Rotterdam",
-        "prediction":"GG & Draw",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Feyenoord vs EC",
-        "prediction":"Home win & Over 1.5",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Freiburg vs Eintracht Frankfurt",
-        "prediction": "Away win",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Werder Вremen vs Union Berlin",
-        "prediction": "Away win",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Augsburg vs Monchengladbach",
-        "prediction": "Away Win",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Bayer 04 Leverkusen vs VfL Bochum",
+        "fixture": "Esteghlal vs Malavan",
         "prediction": "Home Win",
-        "date": "25/01/2023"
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Nottm Forest vs Manchester United",
-        "prediction": "Away Win & Over 2.5",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Aris vs Olympiakos Piraeus",
-        "prediction": "Home Win",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Panserraikos vs AEK Athens",
-        "prediction": "Away Win & Over 2.5",
-        "date": "25/01/2023"
-    },
-    {
-        "fixture": "Union Magdalena vs Atletico Huila",
+        "fixture": "Nassaji Mazandaran vs Sepahan Isfahan",
         "prediction": "Away Win",
-        "date": "25/01/2023"
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Ural vs Botev Plovdiv",
-        "prediction": "Over 2.5",
-        "date": "25/01/2023"
+        "fixture": "Melbourne Victory vs Sydney",
+        "prediction": "Home Win",
+        "date": "26/01/2023"
     },
     {
-        "fixture": "Ural vs Botev Plovdiv",
-        "prediction": "Over 2.5",
-        "date": "25/01/2023"
+        "fixture": "Rionegro Aguilas vs Atletico Junior",
+        "prediction": "Away Win",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Chico vs Alianza Petrolera",
+        "prediction": "Home Win",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Lamia 1964 vs Apollon Paralimniou",
+        "prediction": "Home Win",
+        "date": "26/01/2023"
+    },
+    {
+        "fixture": "Panathinaikos vs PAOK Thessaloniki",
+        "prediction": "Away Win",
+        "date": "26/01/2023"
     }
     
     
