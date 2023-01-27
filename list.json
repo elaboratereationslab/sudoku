@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Thur January 26th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sat January 29th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thur January 26th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sat January 29th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":11
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thur January 26th 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":7
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sat January 29th 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":11
         },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thur January 26th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":13    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sat January 29th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":16    
         },
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Thur January 26th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Sat January 29th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":22
         } 
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Valencia vs Athletic Bilbao",
-            "prediction": "Home win",
-            "date": "26/01/2023"
-        },
-        {
-            "fixture": "Pacos Ferreira vs Benfica",
+            "fixture":"Accrington Stanley vs Leeds United",
             "prediction": "Away Win",
-            "date": "26/01/2023"
+            "date": "28/01/2023"
         },
         {
-            "fixture": "Groningen vs Cambuur",
-            "prediction":"Home win, Over 1.5",
-            "date": "26/01/2023"
+            "fixture": "Empoli vsTorino",
+            "prediction": "Away Win, Over 1.5",
+            "date": "28/01/2023"
         },
         {
-            "fixture": "Young Boys vs Flora Tallinn",
-            "prediction": "Over 2.5",
-            "date": "26/01/2023"
+            "fixture": "Hull City vs Queens Park Rangers",
+            "prediction":"Away win",
+            "date": "28/01/2023"
         },
         {
-            "fixture": "Esteghlal vs Malavan",
-            "prediction": "Home Win",
-            "date": "26/01/2023"
+            "fixture": "PSV vs Go Ahead Eagles",
+            "prediction": "Home win & Over 2.5",
+            "date": "28/01/2023"
+        },
+        {
+            "fixture": "Werder Вremen vs VfL Wolfsburg",
+            "prediction": "Away Win",
+            "date": "28/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,84 +173,124 @@
  
  "paidPredictions":[
     {
-        "fixture":"Valencia vs Athletic Bilbao",
-        "prediction": "Home win",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Real Madrid vs Atletico Madrid",
-        "prediction": "Home win & Over 1.5",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Pacos Ferreira vs Benfica",
+        "fixture":"Accrington Stanley vs Leeds United",
         "prediction": "Away Win",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Groningen vs Cambuur",
+        "fixture": "Walsall vs Leicester City",
+        "prediction": "Away Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Ipswich Town vs Burnley",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Blackburn Rovers vs Birmingham",
         "prediction":"Home win, Over 1.5",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Ajax vs Volendam",
-        "prediction": "Home win & Over 2.5",
-        "date": "26/01/2023"
+        "fixture": "Southampton vs Blackpool",
+        "prediction": "Home win",
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Young Boys vs Flora Tallinn",
-        "prediction": "Over 2.5",
-        "date": "26/01/2023"
+        "fixture": "Fulham vs Sunderland",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
     },
     {
-        "fixture":"Copenhagen vs Hviding IF",
+        "fixture":"Bristol City vs West Bromwich Albion",
         "prediction":"Away win",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "SV Pachern vs TUS Heiligenkreuz",
-        "prediction":"Away Win",
-        "date": "26/01/2023"
+        "fixture": "Sheffield Wednesday vs Fleetwood",
+        "prediction":"Home Win",
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Spvg Schonnebeck 1910 vs Arminia Klosterhardt",
+        "fixture": " Luton Town vs Grimsby",
+        "prediction": "Home win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Preston North End vs Tottenham Hotspur",
+        "prediction": "Away Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Manchester United vs Reading",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Empoli vsTorino",
+        "prediction": "Away Win, Over 1.5",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Cremonese vs Inter Milan",
+        "prediction": "Away Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Atalanta vs Sampdoria",
         "prediction": "Home win & Over 2.5",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Esteghlal vs Malavan",
-        "prediction": "Home Win",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Nassaji Mazandaran vs Sepahan Isfahan",
+        "fixture": "Middlesbrough vs Watford",
         "prediction": "Away Win",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Melbourne Victory vs Sydney",
-        "prediction": "Home Win",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Rionegro Aguilas vs Atletico Junior",
+        "fixture": "Coventry City vs Huddersfield",
         "prediction": "Away Win",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
     },
     {
-        "fixture": "Chico vs Alianza Petrolera",
-        "prediction": "Home Win",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Lamia 1964 vs Apollon Paralimniou",
-        "prediction": "Home Win",
-        "date": "26/01/2023"
-    },
-    {
-        "fixture": "Panathinaikos vs PAOK Thessaloniki",
+        "fixture": "RKC Waalwijk vs Emmen",
         "prediction": "Away Win",
-        "date": "26/01/2023"
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "NEC vs Sparta Rotterdam",
+        "prediction": "Draw",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Heerenveen vs Vitesse",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "AZ Alkmaar vs Utrecht",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Hertha BSC vs Union Berlin",
+        "prediction": "Away Win & Over 2.5",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "Mainz 05 vs VfL Bochum",
+        "prediction": "Home Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "TSG Hoffenheim vs Monchengladbach",
+        "prediction": "Away Win",
+        "date": "28/01/2023"
+    },
+    {
+        "fixture": "TSG Hoffenheim vs Monchengladbach",
+        "prediction": "Away Win",
+        "date": "28/01/2023"
     }
     
     
