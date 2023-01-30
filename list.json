@@ -7,19 +7,17 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Sun January 29th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Mon January 30th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sun January 29th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":13
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Mon January 30th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":12
        }, 
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sun January 29th 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":15
-        },  
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sun January 29th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":17    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Mon January 30th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
         },
+        
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Sun January 29th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":24
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Mon January 30th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
         } 
      ],
 
@@ -116,29 +114,29 @@
     
    "freePredictions":[
         {
-            "fixture":"İstanbulspor vs Kayserispor",
-            "prediction": "Away Win",
-            "date": "29/01/2023"
-        },
-        {
-            "fixture": " Twente vs Feyenoord",
-            "prediction":"Home win, Over 1.5",
-            "date": "29/01/2023"
-        },
-        {
-            "fixture": "Nice vs Lille OSC",
-            "prediction":"Home Win",
-            "date": "29/01/2023"
-        },
-        {
-            "fixture": "Schalke 04 vs FC Koln",
-            "prediction": "Away Win",
-            "date": "29/01/2023"
-        },
-        {
-            "fixture": "AC Milan vs Sassuolo",
+            "fixture":"Udinese Calcio vs Hellas Verona",
             "prediction": "Home Win",
-            "date": "29/01/2023"
+            "date": "30/01/2023"
+        },
+        {
+            "fixture": "Villarreal vs Rayo Vallecano",
+            "prediction":"Home win, Over 1.5",
+            "date": "30/01/2023"
+        },
+        {
+            "fixture": "Vitoria Guimaraes vs Chaves",
+            "prediction":"Home Win",
+            "date": "30/01/2023"
+        },
+        {
+            "fixture": "Derby County vs West Ham United",
+            "prediction": "Away Win",
+            "date": "30/01/2023"
+        },
+        {
+            "fixture": "Roda Kerkrade vs PEC Zwolle",
+            "prediction": "Away Win",
+            "date": "30/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,130 +171,76 @@
  
  "paidPredictions":[
     {
-        "fixture":"İstanbulspor vs Kayserispor",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Istanbul Basaksehir vs Konyaspor 1922",
+        "fixture":"Udinese Calcio vs Hellas Verona",
         "prediction": "Home Win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": " Fenerbahce vs Kasimpasa",
-        "prediction": "Home Win, Over 2.5",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": " Twente vs Feyenoord",
+        "fixture": "Villarreal vs Rayo Vallecano",
         "prediction":"Home win, Over 1.5",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Excelsior Rotterdam vs Ajax",
-        "prediction": "Home Win, Over 2.5",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Volendam vs Groningen",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture":" Cambuur vs Fortuna Sittard",
+        "fixture": "Vitoria Guimaraes vs Chaves",
         "prediction":"Home Win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Nice vs Lille OSC",
-        "prediction":"Home Win",
-        "date": "29/01/2023"
+        "fixture": "Derby County vs West Ham United",
+        "prediction": "Away Win",
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Stade Brestois 29 vs Angers SCO",
+        "fixture": "Roda Kerkrade vs PEC Zwolle",
+        "prediction": "Away Win",
+        "date": "30/01/2023"
+    },
+    {
+        "fixture": "Jong FC Utrecht vs De Graafschap",
+        "prediction": "Away Win",
+        "date": "30/01/2023"
+    },
+    {
+        "fixture":"Jong PSV Eindhoven vs Willem II",
+        "prediction":"Away Win",
+        "date": "30/01/2023"
+    },
+    {
+        "fixture": "CS Voluntari vs CFR Cluj",
+        "prediction":"Away Win",
+        "date": "30/01/2023"
+    },
+    {
+        "fixture": "Al Shamal vs Al-Rayyan",
         "prediction": "Home win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Strasbourg vs Toulouse",
+        "fixture": "Al-Wakrah vs AL Duhail SC",
         "prediction": "Home win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Auxerre vs Montpellier HSC",
+        "fixture": "Qatar SC vs Al Arabi",
         "prediction": "Away Win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Clermont Foot vs Nantes",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "AC Ajaccio vs Lyon",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Paris SG vs Reims",
-        "prediction": "Home win & Over 2.5",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Schalke 04 vs FC Koln",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Bayer 04 Leverkusen vs Borussia Dortmund",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "AC Milan vs Sassuolo",
-        "prediction": "Home Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Juventus vs Monza 1912",
-        "prediction": "Home Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Lazio vs Fiorentina",
-        "prediction": "Home win & Over 2.5",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Napoli vs Roma",
-        "prediction": "Home Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Vizela vs Rio Ave",
-        "prediction": "Away Win",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Casa Pia Atletico vs Santa Clara",
-        "prediction": "Home Win, Draw",
-        "date": "29/01/2023"
-    },
-    {
-        "fixture": "Boavista vs Portimonense",
+        "fixture": "Belenenses vs Trofense",
         "prediction": "Draw",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Famalicao vs Estoril",
+        "fixture": "Cracovia Krakow vs Gornik Zabrze",
         "prediction": "Home Win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     },
     {
-        "fixture": "Famalicao vs Estoril",
+        "fixture": "Cracovia Krakow vs Gornik Zabrze",
         "prediction": "Home Win",
-        "date": "29/01/2023"
+        "date": "30/01/2023"
     }
+    
     
     
 ],
