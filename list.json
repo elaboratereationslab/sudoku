@@ -114,29 +114,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Udinese Calcio vs Hellas Verona",
+            "fixture":"Juventus vs Lazio",
             "prediction": "Home Win",
-            "date": "30/01/2023"
+            "date": "02/01/2023"
         },
         {
-            "fixture": "Villarreal vs Rayo Vallecano",
+            "fixture": "Real Madrid vs Valencia",
             "prediction":"Home win, Over 1.5",
-            "date": "30/01/2023"
+            "date": "02/01/2023"
         },
         {
-            "fixture": "Vitoria Guimaraes vs Chaves",
+            "fixture": "Konyaspor 1922 vs İstanbulspor",
             "prediction":"Home Win",
-            "date": "30/01/2023"
+            "date": "02/01/2023"
         },
         {
-            "fixture": "Derby County vs West Ham United",
-            "prediction": "Away Win",
-            "date": "30/01/2023"
+            "fixture": "Defensa y Justicia vs Ituzaingo",
+            "prediction": "Home Win",
+            "date": "02/01/2023"
         },
         {
-            "fixture": "Roda Kerkrade vs PEC Zwolle",
-            "prediction": "Away Win",
-            "date": "30/01/2023"
+            "fixture": "Zulte-Waregem vs Mechelen",
+            "prediction": "Home Win",
+            "date": "02/01/2023"
         }
  ],
  "fixedPredictions":[
@@ -171,74 +171,74 @@
  
  "paidPredictions":[
     {
-        "fixture":"Udinese Calcio vs Hellas Verona",
+        "fixture":"Juventus vs Lazio",
         "prediction": "Home Win",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
     },
     {
-        "fixture": "Villarreal vs Rayo Vallecano",
+        "fixture": "Real Madrid vs Valencia",
         "prediction":"Home win, Over 1.5",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
     },
     {
-        "fixture": "Vitoria Guimaraes vs Chaves",
+        "fixture": "Konyaspor 1922 vs İstanbulspor",
         "prediction":"Home Win",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
     },
     {
-        "fixture": "Derby County vs West Ham United",
+        "fixture": "Kayserispor vs Istanbul Basaksehir",
+        "prediction": "GG",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Adana Demirspor vs Fenerbahce",
         "prediction": "Away Win",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
     },
     {
-        "fixture": "Roda Kerkrade vs PEC Zwolle",
-        "prediction": "Away Win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Jong FC Utrecht vs De Graafschap",
-        "prediction": "Away Win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture":"Jong PSV Eindhoven vs Willem II",
-        "prediction":"Away Win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "CS Voluntari vs CFR Cluj",
-        "prediction":"Away Win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Al Shamal vs Al-Rayyan",
-        "prediction": "Home win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Al-Wakrah vs AL Duhail SC",
-        "prediction": "Home win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Qatar SC vs Al Arabi",
-        "prediction": "Away Win",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Belenenses vs Trofense",
-        "prediction": "Draw",
-        "date": "30/01/2023"
-    },
-    {
-        "fixture": "Cracovia Krakow vs Gornik Zabrze",
+        "fixture": "Defensa y Justicia vs Ituzaingo",
         "prediction": "Home Win",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
     },
     {
-        "fixture": "Cracovia Krakow vs Gornik Zabrze",
+        "fixture": "Zulte-Waregem vs Mechelen",
         "prediction": "Home Win",
-        "date": "30/01/2023"
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "AEL Limassol vs Akritas Chlorakas",
+        "prediction":"Home Win",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Anorthosis Famagusta vs Omonia Nicosia",
+        "prediction": "Away Win",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Paykan vs Naft Masjed-Soleyman",
+        "prediction": "Home win",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Mes Rafsanjan FC vs Zob Ahan",
+        "prediction": "Home win, Draw",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Sanat Naft Abadan vs Havadar",
+        "prediction": "Home win, Draw",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Sanat Mes Kerman vs Esteghlal",
+        "prediction": "Away Win, Draw",
+        "date": "02/01/2023"
+    },
+    {
+        "fixture": "Sanat Mes Kerman vs Esteghlal",
+        "prediction": "Away Win, Draw",
+        "date": "02/01/2023"
     }
     
     
