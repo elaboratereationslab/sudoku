@@ -2,24 +2,24 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": true,
+    "showInterstitialAd": false,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Thursday, Feb 23rd 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Friday, Feb 24th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thursday, Feb 23rd 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Friday, Feb 24th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thursday, Feb 23rd 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":5
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Friday, Feb 24th 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":5
      },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thursday, Feb 23rd 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Friday, Feb 24th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Thursday, Feb 23rd 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":12
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Friday, Feb 24th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":16
         } 
         
      ],
@@ -117,29 +117,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Dnipro-1 vs AEK Larnaca",
-            "prediction": "Home Win or Draw",
-            "date": "23/02/2023"
+            "fixture":"Mainz 05 vs Monchengladbach",
+            "prediction": "Under 2.5",
+            "date": "24/02/2023"
         },
         {
-            "fixture": "PSV vs Sevilla",
-            "prediction":"Over 2.5 & GG",
-            "date": "23/02/2023"
+            "fixture": "Famalicao vs Portimonense",
+            "prediction":"Under 2.5",
+            "date": "24/02/2023"
         },
         {
-            "fixture": "Boston River vs Huracan",
+            "fixture": "Sparta Rotterdam vs Utrecht",
+            "prediction":"Away Win & Over 2.5",
+            "date": "24/02/2023"
+        },
+        {
+            "fixture": "Zulte-Waregem vs KV Kortrijk",
             "prediction":"Over 2.5",
-            "date": "23/02/2023"
+            "date": "24/02/2023"
         },
         {
-            "fixture": "Domzale vs Maribor",
-            "prediction":"Over 2.5",
-            "date": "23/02/2023"
-        },
-        {
-            "fixture": "FK Napredak vs Radnicki Nis",
-            "prediction":"GG & Over 2.5",
-            "date": "23/02/2023"
+            "fixture": "Elche vs Betis",
+            "prediction":"Away win",
+            "date": "24/02/2023"
         }
         
  ],
@@ -175,68 +175,88 @@
  
  "paidPredictions":[
     {
-        "fixture":"Anderlecht vs Ludogorets Razgrad",
-        "prediction": "Home Win or Draw",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "CFR Cluj vs Lazio",
-        "prediction":"Away Win & Under 3.5",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "KAA Gent vs FK Qarabag",
-        "prediction":"Home Win",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "Fiorentina vs Sporting de Braga",
-        "prediction": "GG & Over 2.5",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "Nantes vs Juventus",
+        "fixture":"Fulham vs Wolverhampton Wanderers",
         "prediction": "Under 2.5",
-        "date": "23/02/2023"
+        "date": "24/02/2023"
     },
     {
-        "fixture": "AS Monaco vs Bayer 04 Leverkusen",
-        "prediction": "GG & Over 2.5",
-        "date": "23/02/2023"
+        "fixture": "Lille OSC vs Stade Brestois 29",
+        "prediction":"Under 2.5 & No GG",
+        "date": "24/02/2023"
     },
     {
-        "fixture": "Manchester United vs Barcelona",
-        "prediction": "GG & Over 2.5",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "Cruz Azul vs Atlas",
-        "prediction":"Home Win & Under 3.5",
-        "date": "23/02/2023"
-    },
-    {
-        "fixture": "CSKA Moscow vs FK Krasnodar",
+        "fixture": "Central Coast Mariners vs Wellington Phoenix",
         "prediction":"Over 2.5",
-        "date": "23/02/2023"
+        "date": "24/02/2023"
     },
     {
-        "fixture": "FK Vozdovac vs Mladost Lucani",
-        "prediction": "Home win & Over 2.5",
-        "date": "23/02/2023"
+        "fixture": "Helmond Sport vs Jong FC Utrecht",
+        "prediction": "Over 2.5",
+        "date": "24/02/2023"
     },
     {
-        "fixture": "FK Napredak vs Radnicki Nis",
+        "fixture": "Roda Kerkrade vs Almere City",
+        "prediction": "Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "VVV-Venlo vs Top Oss",
+        "prediction": "Home Win & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Heracles Almelo vs Stormvogels Telstar",
+        "prediction": "HT/FT 2/2",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "NAC vs Dordrecht",
+        "prediction":"GG & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Santos Laguna vs Deportivo Toluca",
+        "prediction":"away Win & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Legia Warsaw vs Widzew Lodz",
+        "prediction": "Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Deportes Magallanes vs Always Ready",
         "prediction":"Over 2.5",
-        "date": "23/02/2023"
+        "date": "24/02/2023"
     },
     {
-        "fixture": "El Nacional vs Independiente Medellin",
+        "fixture": "U Craiova 1948 vs CS Mioveni",
+        "prediction":"GG & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "FK Cukaricki vs Kolubara Lazarevac",
         "prediction":"GG & Over 2.5",
         "date": "23/02/2023"
     },
     {
-        "fixture": "El Nacional vs Independiente Medellin",
-        "prediction":"GG & Over 2.5",
+        "fixture": "Eibar vs Villarreal II",
+        "prediction":"GG & Home Win & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Thun vs Yverdon Sport",
+        "prediction":"Home Win & Over 2.5",
+        "date": "24/02/2023"
+    },
+    {
+        "fixture": "Caernarfon vs Flint Town Utd",
+        "prediction":"Over 2.5",
+        "date": "23/02/2023"
+    },
+    {
+        "fixture": "Caernarfon vs Flint Town Utd",
+        "prediction":"Over 2.5",
         "date": "23/02/2023"
     }
     
