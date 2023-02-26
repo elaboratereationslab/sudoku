@@ -2,7 +2,7 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": true,
+    "showInterstitialAd": false,
     "showNativeAd": true,
        
        "plans":[
@@ -19,7 +19,7 @@
            "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Saturday, Feb 25th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":15    
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Saturday, Feb 25th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Saturday, Feb 25th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":18
         } 
         
      ],
@@ -117,39 +117,39 @@
     
    "freePredictions":[
         {
-            "fixture":"Coventry City vs Sunderland",
-            "prediction": "GG & Over 2.5",
-            "date": "25/02/2023"
+            "fixture":"Rio Ave vs Chaves",
+            "prediction": "GG",
+            "date": "26/02/2023"
         },
         {
-            "fixture": "Angers SCO vs Lyon",
-            "prediction":"Over 2.5",
-            "date": "25/02/2023"
-        },
-        {
-            "fixture": "Groningen vs Excelsior Rotterdam",
-            "prediction":"Over 2.5",
-            "date": "25/02/2023"
-        },
-        {
-            "fixture": "St. Johnstone vs St. Mirren",
+            "fixture": "Freiburg vs Bayer 04 Leverkusen",
             "prediction":"GG & Over 2.5",
-            "date": "25/02/2023"
+            "date": "26/02/2023"
         },
         {
-            "fixture": "Leicester City vs Arsenal",
-            "prediction":"GG & Over 2.5",
-            "date": "25/02/2023"
-        },
-        {
-            "fixture": "FC Koln vs VfL Wolfsburg",
-            "prediction":"GG & Over 2.5",
-            "date": "25/02/2023"
-        },
-        {
-            "fixture": "Seraing vs Mechelen",
+            "fixture": "Athletic Bilbao vs Girona",
             "prediction":"Over 2.5",
-            "date": "25/02/2023"
+            "date": "26/02/2023"
+        },
+        {
+            "fixture": "Tottenham Hotspur vs Chelsea",
+            "prediction":"GG & Over 2.5",
+            "date": "26/02/2023"
+        },
+        {
+            "fixture": "Lorient vs Auxerre",
+            "prediction":"Home Win",
+            "date": "26/02/2023"
+        },
+        {
+            "fixture": "Umraniyespor vs Adana Demirspor",
+            "prediction":"Under 3.5",
+            "date": "26/02/2023"
+        },
+        {
+            "fixture": "Bologna vs Inter Milan",
+            "prediction":"Away Win & Over 3.5",
+            "date": "26/02/2023"
         }
         
  ],
@@ -185,104 +185,94 @@
  
  "paidPredictions":[
     {
-        "fixture":"Sheffield United vs Watford",
-        "prediction": "Under 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Preston North End vs Wigan Athletic",
-        "prediction":"Home Win",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Reading vs Blackpool",
-        "prediction":"Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Montpellier HSC vs Lens",
-        "prediction": "Under 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Heerenveen vs RKC Waalwijk",
-        "prediction": "Under 3.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "AZ Alkmaar vs Cambuur",
+        "fixture":"Porto vs Gil Vicente",
         "prediction": "Home Win",
-        "date": "25/02/2023"
+        "date": "26/02/2023"
     },
     {
-        "fixture": "Aberdeen vs Livingston",
-        "prediction": "GG & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Maritimo vs Santa Clara",
-        "prediction":"GG & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Vizela vs Benfica",
-        "prediction":"away Win & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Leeds United vs Southampton",
-        "prediction": "GG & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Crystal Palace vs Liverpool",
-        "prediction":"GG",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "TSG Hoffenheim vs Borussia Dortmund",
-        "prediction":"GG & Over 3.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Werder Вremen vs VfL Bochum",
-        "prediction":"Home Win & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Genk vs KV Oostende",
-        "prediction":"GG & Home Win & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Eupen vs Cercle Brugge",
+        "fixture": "Bayern Munich vs Union Berlin",
         "prediction":"Over 2.5",
-        "date": "25/02/2023"
+        "date": "26/02/2023"
     },
     {
-        "fixture": "Real Madrid vs Atletico Madrid",
-        "prediction":"GG & Home Win & Over 2.5",
-        "date": "25/02/2023"
+        "fixture": "Clermont Foot vs Strasbourg",
+        "prediction":"Under 2.5",
+        "date": "26/02/2023"
     },
     {
-        "fixture": "Brescia vs Bari",
+        "fixture": "Marseille vs Paris SG",
+        "prediction": "GG & Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Besiktas vs Antalyaspor",
+        "prediction": "Home Win",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Salernitana 1919 vs Monza 1912",
+        "prediction": "Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Udinese Calcio vs Spezia Calcio",
+        "prediction": "Home Win & Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Vitesse vs Ajax",
+        "prediction":"GG & Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "PSV vs Twente",
+        "prediction":"GG & Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Club Brugge vs KAA Gent",
+        "prediction": "Under 3.56",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Anderlecht vs Standard Liege",
+        "prediction":"Over 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Septemvri Sofia vs CSKA-Sofia",
+        "prediction":"Away win",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "DV Vilafranquense vs Porto II",
+        "prediction":"Under 2.5",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Septemvri Sofia vs CSKA-Sofia",
+        "prediction":"Away win",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Ufa vs Akhmat Grozny",
+        "prediction":"Away Win",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Deportivo Rayo Zuliano vs Mineros",
+        "prediction":"Home Win",
+        "date": "26/02/2023"
+    },
+    {
+        "fixture": "Charlotte FC vs New England Revolution",
         "prediction":"Over 3.5",
-        "date": "25/02/2023"
+        "date": "26/02/2023"
     },
     {
-        "fixture": "Club Guaraní vs Sportivo Luqueño",
-        "prediction":"Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Yokohama Marinos vs Urawa Red Diamonds",
-        "prediction":"GG & Over 2.5",
-        "date": "25/02/2023"
-    },
-    {
-        "fixture": "Zurich vs Young Boys",
-        "prediction":"GG",
-        "date": "25/02/2023"
+        "fixture": "Atlanta United vs San Jose Earthquakes",
+        "prediction":"Over 3.5",
+        "date": "26/02/2023"
     },
     {
         "fixture": "Zurich vs Young Boys",
