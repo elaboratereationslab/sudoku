@@ -2,24 +2,24 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Tuesday, Feb 28th 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Wednesday, March 1st 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tuesday, Feb 28th 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wednesday, March 1st 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tuesday, Feb 28th 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":5
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wednesday, March 1st 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
      },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tuesday, Feb 28th 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":8    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wednesday, March 1st 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10    
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Tuesday, Feb 28th 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":10
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Wednesday, March 1st 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":14
         } 
         
      ],
@@ -117,24 +117,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Cosenza vs Reggina",
-            "prediction": "Away Win",
-            "date": "28/02/2023"
+            "fixture":"Southampton vs Grimsby",
+            "prediction": "Home Win",
+            "date": "1/03/2023"
         },
         {
-            "fixture": "Palermo vs Ternana",
+            "fixture": "Osasuna vs Athletic Bilbao",
             "prediction":"Under 2.5",
-            "date": "28/02/2023"
+            "date": "1/03/2023"
         },
         {
-            "fixture": "Juventus vs Torino",
+            "fixture": "Arsenal vs Everton",
             "prediction":"Home Win",
-            "date": "28/02/2023"
+            "date": "1/03/2023"
         },
         {
-            "fixture": "Preston vs Coventry",
-            "prediction":"Under 2.5",
-            "date": "28/02/2023"
+            "fixture": "CS Mioveni vs CS Voluntari",
+            "prediction":"Over 2.5",
+            "date": "1/03/2023"
+        },
+        {
+            "fixture": "Bari vs Venezia",
+            "prediction":"GG & Over 2.5",
+            "date": "1/03/2023"
         }
         
  ],
@@ -170,59 +175,79 @@
  
  "paidPredictions":[
     {
-        "fixture":"V. Guimarães vs Braga",
+        "fixture":"Burnley vs Fleetwood",
         "prediction": "GG & Over 2.5",
-        "date": "28/02/2023"
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Racing Club vs Lanús",
-        "prediction":"Away Win",
-        "date": "28/02/2023"
+        "fixture": "Manchester United vs West Ham United",
+        "prediction":"Home win & Under 2.5",
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Central Córdoba vs Argentinos Jrs",
-        "prediction":"GG",
-        "date": "28/02/2023"
+        "fixture": "Sheffield United vs Tottenham Hotspur",
+        "prediction":"Over 2.5",
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Portland Timbers vs Sporting KC",
-        "prediction": "GG & Over 2.5",
-        "date": "28/02/2023"
+        "fixture": "Liverpool vs Wolverhampton Wanderers",
+        "prediction": "Home Win & Over 2.5",
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Club León vs Monterrey",
+        "fixture": "SPAL vs Frosinone Calcio",
         "prediction": "Away Win",
-        "date": "28/02/2023"
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Hermannstadt vs Universitatea Cluj",
+        "fixture": "Benevento Calcio vs Südtirol",
+        "prediction": "GG",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Modena vs Ascoli",
+        "prediction": "GG & Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Heerenveen vs Feyenoord",
+        "prediction":"Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Motor Lublin vs Rakow Czestochowa",
+        "prediction":"Home Win",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Dinamo Zagreb vs Lokomotiva Zagreb",
+        "prediction": "GG & Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Dinamo Moscow vs Krylia Sovetov Samara",
+        "prediction": "Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Mladost Lucani vs FK Cukaricki",
+        "prediction":"Away Win Or Draw & Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "St. Gallen vs FC Basel",
+        "prediction": "GG & Over 2.5",
+        "date": "1/03/2023"
+    },
+    {
+        "fixture": "Cerro Porteno vs Curico Unido",
         "prediction": "Under 2.5",
-        "date": "28/02/2023"
+        "date": "1/03/2023"
     },
     {
-        "fixture": "Chindia Targoviste vs U Craiova 1948",
+        "fixture": "Cerro Porteno vs Curico Unido",
         "prediction": "Under 2.5",
-        "date": "28/02/2023"
-    },
-    {
-        "fixture": "Cremonese vs Roma",
-        "prediction":"Away Win",
-        "date": "28/02/2023"
-    },
-    {
-        "fixture": "Farul Constanta vs Sepsi",
-        "prediction":"Under 2.5",
-        "date": "28/02/2023"
-    },
-    {
-        "fixture": "Parma vs Pisa",
-        "prediction": "Under 2.5",
-        "date": "28/02/2023"
-    },
-    {
-        "fixture": "Parma vs Pisa",
-        "prediction": "Under 2.5",
-        "date": "28/02/2023"
+        "date": "1/03/2023"
     }
     
     
