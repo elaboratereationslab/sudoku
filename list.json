@@ -2,24 +2,24 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Sunday, 5th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Monday, 6th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Sunday, 5th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Monday, 6th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sunday, 5th March 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Monday, 6th March 2023", "odds":"Sportpesa Guarnteed Jackpot Bonus Win","id":"id_jackpot_sub","length":8
      },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Sunday, 5th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12    
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Monday, 6th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":11    
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Sunday, 5th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Monday, 6th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         } 
         
      ],
@@ -27,119 +27,99 @@
 
    "jackpotPredictions":[
         {
-            "fixture": "Tenerife CD vs SD Eibar",
+            "fixture": "HUDDERSFIELD vs BRISTOL CITY",
             "prediction": "Home Win",
-            "date": "04/03/2023"
+            "date": "7/03/2023"
         },
         {
-            "fixture": "Southampton FC vs Leicester City",
-            "prediction": "Home Win",
-            "date": " 04/03/2023"
-        },
-        {
-            "fixture": "FC Volendam vs FC Emmen",
+            "fixture": "WALSALL vs BRADFORD CITY",
             "prediction": "2",
-            "date": "04/03/2023"
+            "date": "7/03/2023"
+        },
+        {
+            "fixture": "CHELTENHAM vs LINCOLN",
+            "prediction": "1X",
+            "date": "7/03/2023"
         },
     
         {
-            "fixture": "Standard Liege vs KVC Westerlo",
-            "prediction": "2",
-            "date": "04/03/2023"
-        },
-        {
-            "fixture": "ACF Fiorentina vs AC Milan",
-            "prediction": "2",
-            "date": "04/03/2023"
-        },
-        {
-            "fixture": "CD Mirandes vs Real Oviedo",
+            "fixture": "PLYMOUTH vs DERBY",
             "prediction": "1",
-            "date": "04/03/2023"
+            "date": "7/03/2023"
         },
         {
-            "fixture": "Spezia Calcio vs Hellas Verona",
+            "fixture": "AUDAX ITALIANO vs UNIVERSIDAD CATOLICA",
             "prediction": "2",
-            "date": "05/03/2023"
+            "date": "8/03/2023"
         },
         {
-            "fixture": "Hansa Rostock vs Karlsruher SC",
+            "fixture": "TACUARY vs CLUB GENERAL CABALLERO JLM",
             "prediction": "2",
-            "date": "05/03/2023"
+            "date": "8/03/2023"
         },
         {
-            "fixture": "Real Valladolid vs Espanyol Barcelona",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "Nottingham Forest vs Everton FC",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "Liverpool FC vs Manchester United",
-            "prediction": "2",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "VfL Wolfsburg vs Eintracht Frankfurt",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "Rayo Vallecano vs Athletic Bilbao",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "anta Clara Azores vs Vitoria SC Guimaraes",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "SC Cambuur vs Go Ahead Eagles",
-            "prediction": "X",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "Stade Rennes vs Olympique Marseille",
-            "prediction": "2",
-            "date": "05/03/2023"
-        },
-        {
-            "fixture": "AS Roma vs Juventus Turin",
+            "fixture": "VISSEL KOBE vs NAGOYA GRAMPUS",
             "prediction": "1",
-            "date": "05/03/2023"
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "SAGAN TOSU vs CONSADOLE SAPPORO",
+            "prediction": "1",
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "SHONAN BELLMARE vs URAWA RED DIAMONDS",
+            "prediction": "2",
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "KASHIWA REYSOL vs KASHIMA ANTLERS",
+            "prediction": "2",
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "KYOTO SANGA vs GAMBA OSAKA",
+            "prediction": "1",
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "LIPTOVSKY MIKULAS vs MFK SKALICA",
+            "prediction": "X",
+            "date": "8/03/2023"
+        },
+        {
+            "fixture": "ISMAILY SC vs FARCO FC",
+            "prediction": "2",
+            "date": "8/03/2023"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture":"Excelsior Rotterdam vs Sparta Rotterdam",
-            "prediction": "Away Win Or Draw",
-            "date": "5/03/2023"
+            "fixture":"Sassuolo vs Cremonese",
+            "prediction": "Under 2.5",
+            "date": "6/03/2023"
         },
         {
-            "fixture": "Barcelona vs Valencia",
-            "prediction":"Home Win & Over 2.5",
-            "date": "5/03/2023"
-        },
-        {
-            "fixture": "Rayo Vallecano vs Athletic Bilbao",
-            "prediction":"GG & Over 2.5",
-            "date": "5/03/2023"
-        },
-        {
-            "fixture": "Nottm Forest vs Everton",
-            "prediction":"Under 3.5",
-            "date": "5/03/2023"
-        },
-        {
-            "fixture": "Toulouse vs Clermont Foot",
+            "fixture": "Brentford vs Fulham",
             "prediction":"Over 2.5",
-            "date": "5/03/2023"
+            "date": "6/03/2023"
+        },
+        {
+            "fixture": "Arda Kardzhali vs Spartak Varna",
+            "prediction":"Home Win",
+            "date": "6/03/2023"
+        },
+        {
+            "fixture": "Osasuna vs Celta Vigo",
+            "prediction":"Under 3.5",
+            "date": "6/03/2023"
+        },
+        {
+            "fixture": "Casa Pia Atletico vs Pacos Ferreira",
+            "prediction":"GG & Over 2.5",
+            "date": "6/03/2023"
         }
         
  ],
@@ -175,94 +155,84 @@
  
  "paidPredictions":[
     {
-        "fixture":"RKC Waalwijk vs PSV",
-        "prediction": "Over 3.5",
-        "date": "5/03/2023"
+        "fixture":"Torino vs Bologna",
+        "prediction": "Over 2.5",
+        "date": "6/03/2023"
     },
     {
-        "fixture": "Cambuur vs Go Ahead Eagles",
+        "fixture": "Jong Ajax vs Top Oss",
         "prediction":"Under 3.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
     },
     {
-        "fixture": "Betis vs Real Madrid",
-        "prediction":"Away Win Or Draw",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Liverpool vs Manchester United",
-        "prediction": "GG & Over 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Montpellier HSC vs Angers SCO",
-        "prediction": "Over 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Lyon vs Lorient",
-        "prediction": "Over 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "VfL Wolfsburg vs Eintracht Frankfurt",
-        "prediction": "Under 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "St. Mirren vs Celtic",
-        "prediction":"HT/FT 2/2",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "FK Krasnodar vs Torpedo Moscow",
+        "fixture": "Jong PSV Eindhoven vs NAC",
         "prediction":"GG & Over 2.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
     },
     {
-        "fixture": "Sampdoria vs Salernitana 1919",
+        "fixture": "ADO Den Haag vs Heracles Almelo",
         "prediction": "Over 2.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
     },
     {
-        "fixture": "Sporting de Braga vs Rio Ave",
-        "prediction": "Home Win & Over 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Besiktas vs MKE Ankaragucu",
-        "prediction":"GG & Over 2.5",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "St.Truiden vs Genk",
+        "fixture": "Radomiak Radom vs Zaglebie Lubin",
         "prediction": "Under 2.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
     },
     {
-        "fixture": "San Jose Earthquakes vs Vancouver Whitecaps",
-        "prediction": "GG",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Ludogorets Razgrad vs Pirin Blagoevgrad",
-        "prediction": "HT/FT 1/1 ",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Cracovia Krakow vs Slask Wroclaw",
-        "prediction": "GG",
-        "date": "5/03/2023"
-    },
-    {
-        "fixture": "Porto II vs Mafra",
+        "fixture": "Godoy Cruz vs Racing Club",
         "prediction": "GG & Over 2.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
     },
     {
-        "fixture": "Porto II vs Mafra",
+        "fixture": "Sepsi Sfantu Gheorghe vs CFR Cluj",
+        "prediction": "Over 2.5",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "FK Novi Pazar vs Radnicki 1923",
+        "prediction":"Over 2.5",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Villarreal II vs Deportivo Alaves",
+        "prediction":"Away Win",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "AIK vs Varbergs",
+        "prediction": "Under 2.5",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Vasteras SK vs Ostersunds FK",
         "prediction": "GG & Over 2.5",
-        "date": "5/03/2023"
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "FK Lviv vs FK Minai",
+        "prediction":"Under 2.5",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Cerro Largo vs Montevideo Wanderers",
+        "prediction": "Under 2.5",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Esteghlal vs Gol Gohar",
+        "prediction": "GG",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Panathinaikos vs Panaitolikos Agrinio",
+        "prediction": "Home Win",
+        "date": "6/03/2023"
+    },
+    {
+        "fixture": "Panathinaikos vs Panaitolikos Agrinio",
+        "prediction": "Home Win",
+        "date": "6/03/2023"
     }
     
     
