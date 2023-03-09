@@ -7,21 +7,20 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Wednesday, 8th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Thursday, 9th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wednesday, 8th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thursday, 9th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":7
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wednesday, 8th March 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":13
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thursday, 9th March 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
      },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wednesday, 8th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":8   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thursday, 9th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":10   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Wednesday, 8th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":11
-        } 
-        
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Thursday, 9th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":14
+        }    
      ],
 
 
@@ -117,24 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Tottenham Hotspur vs AC Milan",
-            "prediction": "Home Win",
-            "date": "8/03/2023"
+            "fixture":"AEK Larnaca vs West Ham United",
+            "prediction": "Over 2.5",
+            "date": "9/03/2023"
         },
         {
-            "fixture": "Bayern Munich vs Paris SG",
-            "prediction":"Under 2.5",
-            "date": "8/03/2023"
+            "fixture": "Union Berlin vs Royale Union Saint-Gilloise",
+            "prediction":"Home Win",
+            "date": "9/03/2023"
         },
         {
-            "fixture": "Livingston vs Dundee United",
+            "fixture": "Deportes Magallanes vs Independiente Medellin",
+            "prediction":"Home Win or Draw",
+            "date": "9/03/2023"
+        },
+        {
+            "fixture": "Club Nacional Asuncion vs Olimpia Asuncion",
             "prediction":"Under 3.5",
-            "date": "8/03/2023"
+            "date": "9/03/2023"
         },
         {
-            "fixture": "Celtic vs Heart of Midlothian",
-            "prediction":"GG & Over 2.5",
-            "date": "8/03/2023"
+            "fixture": "Shakhtyor Karagandy vs Ordabasy Shymkent",
+            "prediction":"Under 3.5",
+            "date": "9/03/2023"
         }
         
  ],
@@ -170,67 +174,80 @@
  
  "paidPredictions":[
     {
-        "fixture":"Hibernian vs Rangers",
-        "prediction": "GG & Over 2.5",
-        "date": "8/03/2023"
+        "fixture":"Anderlecht vs Villarreal",
+        "prediction": "Away Win",
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Atromitos Athens vs AEK Athens",
+        "fixture": "FC Sheriff Tiraspol vs Nice",
         "prediction":"Away Win",
-        "date": "8/03/2023"
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Lamia 1964 vs PAOK Thessaloniki",
-        "prediction":"Away Win",
-        "date": "8/03/2023"
+        "fixture": "Fiorentina vs Sivasspor",
+        "prediction":"Home win & Over 2.5",
+        "date": "9/03/2023"
     },
     {
         "fixture": "HJK Helsinki vs SJK",
-        "prediction": "Home Win",
-        "date": "8/03/2023"
-    },
-    {
-        "fixture": "SonderjyskE vs Silkeborg",
-        "prediction": "Over 2.5",
-        "date": "8/03/2023"
-    },
-    {
-        "fixture": "Sarmiento de Junin vs Chaco For Ever",
         "prediction": "Under 2.5",
-        "date": "8/03/2023"
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Wisla Plock vs Warta Poznan",
-        "prediction": "Over 2.5",
-        "date": "8/03/2023"
+        "fixture": "KAA Gent vs Istanbul Basaksehir",
+        "prediction": "GG & Home Win & Over 2.5",
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Partizan Belgrade vs Kolubara Lazarevac",
-        "prediction":"Over 2.5",
-        "date": "8/03/2023"
-    },
-    {
-        "fixture": "LDU de Quito vs Delfin SC",
-        "prediction":"Over 2.5",
-        "date": "8/03/2023"
-    },
-    {
-        "fixture": "Caracas vs Academia Puerto Cabello",
+        "fixture": "Roma vs Real Sociedad",
         "prediction": "Under 2.5",
-        "date": "8/03/2023"
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Tacuary vs General Caballero",
+        "fixture": "Sporting Lisbo vs Arsenal",
+        "prediction": "Under 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Manchester United vs Betis",
+        "prediction":"Over 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Juventus vs Freiburg",
+        "prediction":"Over 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Zhetysu vs FC Astana",
         "prediction": "GG & Over 2.5",
-        "date": "8/03/2023"
+        "date": "9/03/2023"
     },
     {
-        "fixture": "Plaza Colonia CD vs CA Fenix Pilar",
+        "fixture": "FK Aktobe vs FC Okzhetpes",
+        "prediction": "Over 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Oriente Petrolero vs Guabirá",
+        "prediction":"Under 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Club Guaraní vs Sportivo Ameliano",
+        "prediction":"Home Win & GG & Over 2.5",
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Estudiantes Merida vs Deportivo Táchira",
         "prediction":"GG",
-        "date": "7/03/2023"
-    }
-    
-    
+        "date": "9/03/2023"
+    },
+    {
+        "fixture": "Estudiantes Merida vs Deportivo Táchira",
+        "prediction":"GG",
+        "date": "9/03/2023"
+    }   
 ],
 
 
