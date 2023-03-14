@@ -7,118 +7,138 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Tuesday, 14th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Wednesday, 15th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Tuesday, 14th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Wednesday, 15th March 2023", "odds":"Total Basic Tips = 20.95 + Odds","id":"id_basic_sub","length":9
        },
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Tuesday, 14th March 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":13
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Wednesday, 15th March 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":13
      },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Tuesday, 14th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Wednesday, 15th March 2023", "odds":"Total Standard Tips = 30.45 + Odds", "id":"id_standard_sub","length":12   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Tuesday, 14th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Wednesday, 15th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":15
         }    
      ],
 
 
    "jackpotPredictions":[
         {
-            "fixture": "FC Porto – Inter",
-            "prediction": "X",
-            "date": "14/03/2023"
-        },
-        {
-            "fixture": "Tlaxcala FC – Merida",
-            "prediction": "X",
-            "date": "15/03/2023"
-        },
-        {
-            "fixture": "Independiente Santa Fe – America De Cali",
+            "fixture": "Rotherham United – Cardiff City",
             "prediction": "1",
-            "date": "15/03/2023"
+            "date": "18/03/2023"
+        },
+        {
+            "fixture": "Aberdeen FC – Heart of Midlothian FC",
+            "prediction": "1",
+            "date": "18/03/2023"
+        },
+        {
+            "fixture": "Stoke City – Norwich City",
+            "prediction": "2",
+            "date": "18/03/2023"
         },
     
         {
-            "fixture": "Correcaminos UAT – Tepatitlan FC",
+            "fixture": "Albacete Balompie – Granada CF",
+            "prediction": "1",
+            "date": "18/03/2023"
+        },
+        {
+            "fixture": "Portimonense SC – FC Vizela",
+            "prediction": "1",
+            "date": "18/03/2023"
+        },
+        {
+            "fixture": "Espanyol Barcelona – RC Celta de Vigo",
+            "prediction": "2",
+            "date": "18/03/2023"
+        },
+        {
+            "fixture": "FC Emmen – Sparta Rotterdam",
             "prediction": "X",
-            "date": "15/03/2023"
+            "date": "18/03/2023"
         },
         {
-            "fixture": "NK Celje – Olimpija Ljubljana",
+            "fixture": "Chamois Niort FC – Stade Lavallois MFC",
             "prediction": "2",
-            "date": "15/03/2023"
+            "date": "18/03/2023"
         },
         {
-            "fixture": " Southampton – Brentford",
-            "prediction": "1",
-            "date": "15/03/2023"
-        },
-        {
-            "fixture": "Real Madrid – Liverpool",
-            "prediction": "1",
-            "date": "15/03/2023"
-        },
-        {
-            "fixture": "Fenerbahce – Sevilla FC",
-            "prediction": "1",
-            "date": "16/03/2023"
-        },
-        {
-            "fixture": " Slovan Bratislava – FC Basel",
-            "prediction": "1",
-            "date": "16/03/2023"
-        },
-        {
-            "fixture": "Djurgardens IF – Lech Poznan",
+            "fixture": "Quevilly-Rouen Metropole – FC Metz",
             "prediction": "X",
-            "date": "16/03/2023"
+            "date": "18/03/2023"
         },
         {
-            "fixture": "AZ Alkmaar – Lazio",
-            "prediction": "2",
-            "date": "16/03/2023"
+            "fixture": " FC Groningen – SC Heerenveen",
+            "prediction": "1",
+            "date": "18/03/2023"
         },
         {
-            "fixture": "Real Sociedad – Roma",
+            "fixture": "Sampdoria Genoa – Hellas Verona",
             "prediction": "2",
-            "date": "16/03/2023"
+            "date": "18/03/2023"
         },
         {
-            "fixture": "Union Saint Gilloise – Union Berlin",
+            "fixture": "Eintracht Braunschweig – Hannover 96",
+            "prediction": "X",
+            "date": "19/03/2023"
+        },
+        {
+            "fixture": "Excelsior Rotterdam – SC Cambuur",
+            "prediction": "X",
+            "date": "19/03/2023"
+        },
+        {
+            "fixture": "ESTAC Troyes – Stade Brest 29",
             "prediction": "2",
-            "date": "16/03/2023"
+            "date": "19/03/2023"
+        },
+        {
+            "fixture": "CA Osasuna – Villarreal CF",
+            "prediction": "2",
+            "date": "19/03/2023"
+        },
+        {
+            "fixture": "FK Austria Wien – SK Rapid Wien",
+            "prediction": "1",
+            "date": "19/03/2023"
+        },
+        {
+            "fixture": "Lazio Rome – AS Roma",
+            "prediction": "2",
+            "date": "19/03/2023"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture":"wigan athletic vs coventry city",
-            "prediction": "Under 2.5",
-            "date": "14/03/2023"
+            "fixture":"real madrid vs liverpool",
+            "prediction": "GG & Over 2.5",
+            "date": "15/03/2023"
         },
         {
-            "fixture": "Manchester City vs RB Leipzig",
+            "fixture": "Napoli vs Eintracht Frankfurt",
             "prediction":"Home Win",
-            "date": "14/03/2023"
+            "date": "15/03/2023"
         },
         {
-            "fixture": "Walsall vs Swindon",
-            "prediction":"GG",
-            "date": "14/03/2023"
+            "fixture": "Huddersfield vs Norwich",
+            "prediction":"Away win",
+            "date": "15/03/2023"
         },
         {
-            "fixture": "Akron Tolyatti vs Lokomotiv Moscow",
-            "prediction":"Away Win & Over 2.5",
-            "date": "14/03/2023"
+            "fixture": "Brighton vs Crystal Palace",
+            "prediction":"Under 3.5",
+            "date": "15/03/2023"
         },
         {
-            "fixture": "Cerro Porteno vs Sportivo Luqueño",
+            "fixture": "Istanbul Basaksehir vs KAA Gent",
             "prediction":"Under 2.5",
-            "date": "14/03/2023"
+            "date": "15/03/2023"
         }
         
  ],
@@ -154,85 +174,85 @@
  
  "paidPredictions":[
     {
-        "fixture":"Rotherham United vs Preston North End",
-        "prediction": "Over 2.5",
-        "date": "14/03/2023"
+        "fixture":"Napoli vs Eintracht Frankfurt",
+        "prediction": "Under 2.5",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Watford vs Birmingham",
-        "prediction":"Home Win or Draw",
-        "date": "14/03/2023"
+        "fixture": "Hull City vs Burnley",
+        "prediction":"Away win or Draw",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Sutton United vs Grimsby",
+        "fixture": "Luton Town vs Bristol City",
         "prediction":"Home Win",
-        "date": "14/03/2023"
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Spartak Moscow vs Ural",
-        "prediction": "GG & Over 2.5",
-        "date": "14/03/2023"
+        "fixture": "Blackburn Rovers vs Reading",
+        "prediction": "Home Win",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Cerro Porteno vs Sportivo Luqueño",
-        "prediction": "Under 2.5",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "FC Paris vs SC Amiens",
-        "prediction": "GG",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "Velez Sarsfield vs Platense",
-        "prediction": "Under 2.5",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "Accrington Stanley vs Portsmouth",
-        "prediction":"Over 3.5",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "Burton Albion vs Peterborough United",
-        "prediction":"GG & Over 2.5",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "Morecambe vs Charlton Athletic",
-        "prediction": "GG & Over 3.5",
-        "date": "14/03/2023"
-    },
-    {
-        "fixture": "Bristol Rovers vs Wycombe Wanderers",
+        "fixture": "Sunderland vs Sheffield United",
         "prediction": "Over 2.5",
-        "date": "14/03/2023"
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Once Caldas vs Deportivo Pasto",
-        "prediction":"Under 2.5",
-        "date": "14/03/2023"
+        "fixture": "Southampton vs Brentford",
+        "prediction": "Over 2.5",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Audax Italiano Santiago vs O'Higgins",
-        "prediction":"GG & Over 2.5",
-        "date": "14/03/2023"
+        "fixture": "Radnicki Sremska Mitrovica vs Crvena Zvezda",
+        "prediction": "Over 2.5",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Coquimbo Unido vs Cobresal",
+        "fixture": "Metalac Gornji vs FK Cukaricki",
         "prediction":"Over 2.5",
-        "date": "14/03/2023"
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Defensor Sporting vs Liverpool Montevideo",
-        "prediction":"Over 2.4",
-        "date": "14/03/2023"
+        "fixture": "Bravo vs Maribor",
+        "prediction":"Away Win & Over 2.5",
+        "date": "15/03/2023"
     },
     {
-        "fixture": "Defensor Sporting vs Liverpool Montevideo",
-        "prediction":"Over 2.4",
-        "date": "14/03/2023"
-    }    
+        "fixture": "Domzale vs NK Radomlje",
+        "prediction": "Home win & Over 1.5",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "Deportes Tolima vs Deportivo La Equidad",
+        "prediction": "Under 2.5",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "Independiente Santa Fe vs America de Cali",
+        "prediction":"GG & Over 2.5",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "Zenit St Petersburg vs Dinamo Moscow",
+        "prediction":"Under 2.5",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "00:00Club Guaraní- : -Tacuary",
+        "prediction":"Home Win",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "Istra 1961 vs Dinamo Zagreb",
+        "prediction":"Away Win",
+        "date": "15/03/2023"
+    },
+    {
+        "fixture": "Istra 1961 vs Dinamo Zagreb",
+        "prediction":"Away Win",
+        "date": "15/03/2023"
+    }   
 ],
 
 
