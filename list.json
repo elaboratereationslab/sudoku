@@ -7,19 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Thursday, 23rd March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Monday, 27th March 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh80" , "accessDays": "Thursday, 23rd March 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":8
-       },
+          "name": "Basic Tips", "amount": "Ksh90" , "accessDays": "Monday, 27th March 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":11
+       },  
        {
-        "name": "Jackpot Tips", "amount": "Ksh150" , "accessDays": "Thursday, 23rd March 2023", "odds":"Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
-     },  
-       {
-           "name": "Standard Tips", "amount": "Ksh200" , "accessDays": "Thursday, 23rd March 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":10   
+           "name": "Standard Tips", "amount": "Ksh150" , "accessDays": "Monday, 27th March 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":15   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh350" , "accessDays": "Thursday, 23rd March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":13
+           "name": "Premium Tips", "amount":"Ksh250" , "accessDays": "Monday, 27th March 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":19
         }    
      ],
 
@@ -116,29 +113,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Kazakhstan vs Slovenia",
-            "prediction": "Under 2.5",
-            "date": "23/03/2023"
+            "fixture":"Kazakhstan- : -Denmark",
+            "prediction": "1 0-2(Handicap)",
+            "date": "27/03/2023"
         },
         {
-            "fixture": "Slovakia vs Luxembourg",
-            "prediction":"Under 3.5",
-            "date": "23/03/2023"
+            "fixture": "Austria- : -Estonia",
+            "prediction":"Over 2.5",
+            "date": "27/03/2023"
         },
         {
-            "fixture": "Portugal vs Liechtenstein",
-            "prediction":"Under 5.5",
-            "date": "23/03/2023"
+            "fixture": "Rep of Ireland- : -France",
+            "prediction":"Over 2.5",
+            "date": "27/03/2023"
         },
         {
-            "fixture": "Denmark vs Finland",
-            "prediction":"No GG",
-            "date": "23/03/2023"
+            "fixture": "Sweden- : -Azerbaijan",
+            "prediction":"Over 2.5",
+            "date": "27/03/2023"
         },
         {
-            "fixture": "Millonarios vs Deportivo Pasto",
-            "prediction":"No GG",
-            "date": "23/03/2023"
+            "fixture": "Hungary- : -Bulgaria",
+            "prediction":"Home Win",
+            "date": "27/03/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,74 +170,89 @@
  
  "paidPredictions":[
     {
-        "fixture":"San Marino vs Northern Ireland",
-        "prediction": "Over 2.5",
-        "date": "23/03/2023"
+        "fixture":"Moldova- : -Czech Republic",
+        "prediction": "HT/FT 2/2",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "North Macedonia vs Malta",
-        "prediction":"Home Win",
-        "date": "23/03/2023"
-    },
-    {
-        "fixture": "El Salvador vs Honduras",
-        "prediction":"Draw",
-        "date": "23/03/2023"
-    },
-    {
-        "fixture": "New Zealand vs China",
+        "fixture": "South Sudan- : -Congo",
         "prediction": "Under 2.5",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Malaysia vs Turkmenistan",
+        "fixture": "Central African Republic- : -Madagascar",
         "prediction": "Home Win",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Hong Kong vs Singapore",
-        "prediction": "Home Win",
-        "date": "23/03/2023"
+        "fixture": "Rwanda- : -Benin",
+        "prediction": "Home Win or Draw",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Hungary vs Estonia",
-        "prediction": "Over 2.5",
-        "date": "23/03/2023"
+        "fixture": "Guinea Bissau- : -Nigeria",
+        "prediction":"Away Win",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Madagascar vs Central African Republic",
+        "fixture": "Club Nacional Montevideo- : -River Plate Montevideo",
         "prediction":"Home Win",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Ghana vs Angola",
+        "fixture": "La Luz- : -Racing Club de Montevideo",
+        "prediction":"Draw",
+        "date": "27/03/2023"
+    },
+    {
+        "fixture": "Malaga- : -Leganes",
+        "prediction":"Draw",
+        "date": "27/03/2023"
+    },
+    {
+        "fixture": "Sportivo Luqueño- : -Tacuary",
         "prediction":"Home Win",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Zambia vs Lesotho",
-        "prediction":"Home Win",
-        "date": "23/03/2023"
+        "fixture": "FC Martigues- : -Le Mans",
+        "prediction":"Home Win or Draw",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Gabon vs Sudan",
+        "fixture": "Independiente Santa Fe- : -Millonarios",
+        "prediction":"Over 1.5",
+        "date": "27/03/2023"
+    },
+    {
+        "fixture": "Deportivo Cali- : -America de Cali",
         "prediction":"Under 2.5",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
     },
     {
-        "fixture": "Algeria vs Niger",
-        "prediction":"Over 2.5",
-        "date": "23/03/2023"
+        "fixture": "CA Independiente- : -Ciudad de Bolivar",
+        "prediction":"Home Win",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "San Marino vs Northern Ireland",
-        "prediction":"Over 2.5",
-        "date": "23/03/2023"
+        "fixture": "North Macedonia- : -Faroe Islands",
+        "prediction":"Home Win",
+        "date": "27/03/2023"
     },
     {
-        "fixture": "San Marino vs Northern Ireland",
+        "fixture": "Greece- : -Lithuania",
         "prediction":"Over 2.5",
-        "date": "23/03/2023"
+        "date": "27/03/2023"
+    },
+    {
+        "fixture": "Poland U21- : -Albania U21",
+        "prediction":"Home Win",
+        "date": "27/03/2023"
+    },
+    {
+        "fixture": "Poland U21- : -Albania U21",
+        "prediction":"Home Win",
+        "date": "27/03/2023"
     }
     
 ],
