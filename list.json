@@ -7,140 +7,143 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Wednesday, 5th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Thursady, 6th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh60" , "accessDays": "Wednesday, 5th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thursady, 6th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":10
        },  
        {
-           "name": "Standard Tips", "amount": "Ksh120" , "accessDays": "Wednesday, 5th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":13   
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thursady, 6th April 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
+     },
+       {
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thursady, 6th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":13   
         },      
         {
-           "name": "Premium Tips", "amount":"ksh200" , "accessDays": "Wednesday, 5th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
+           "name": "Premium Tips", "amount":"ksh500" , "accessDays": "Thursady, 6th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":17
         }    
      ],
 
 
    "jackpotPredictions":[
         {
-            "fixture": "Peterborough United – Derby County",
-            "prediction": "X",
-            "date": "25/03/2023"
+            "fixture": "Brentford FC – Newcastle United",
+            "prediction": "1",
+            "date": "08/04/2023"
         },
         {
-            "fixture": "Doncaster Rovers – Northampton Town",
+            "fixture": " Fulham FC – West Ham United",
             "prediction": "2",
-            "date": "25/03/2023"
+            "date": "08/04/2023"
         },
         {
-            "fixture": "Racing Santander – Levante UD",
-            "prediction": "X",
-            "date": "25/03/2023"
+            "fixture": "Tottenham Hotspur – Brighton & Hove Albion",
+            "prediction": "1",
+            "date": "08/04/2023"
         },
     
         {
-            "fixture": "UD Ibiza – Burgos CF",
+            "fixture": "Sampdoria Genoa – US Cremonese",
             "prediction": "X",
-            "date": "25/03/2023"
+            "date": "08/04/2023"
         },
         {
-            "fixture": "Bogota FC – Tigres FC",
+            "fixture": "Hellas Verona – Sassuolo Calcio",
             "prediction": "2",
-            "date": "25/03/2023"
+            "date": "08/04/2023"
         },
         {
-            "fixture": " Portland Timbers – Los Angeles Galaxy",
+            "fixture": "Torino FC – AS Roma",
+            "prediction": "2",
+            "date": "08/04/2023"
+        },
+        {
+            "fixture": "Lazio Rome – Juventus Turin",
+            "prediction": "X",
+            "date": "08/04/2023"
+        },
+        {
+            "fixture": "KAA Gent – Union Saint-Gilloise",
+            "prediction": "2",
+            "date": "08/04/2023"
+        },
+        {
+            "fixture": " Olympique Lyon – Stade Rennes",
+            "prediction": "X",
+            "date": "09/04/2023"
+        },
+        {
+            "fixture": "Real Valladolid – RCD Mallorca",
             "prediction": "1",
-            "date": "25/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Charlotte FC – New York Red Bulls",
+            "fixture": " AC Ajaccio – AJ Auxerre",
             "prediction": "X",
-            "date": "26/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Columbus Crew – Atlanta United FC",
-            "prediction": "X",
-            "date": "26/03/2023"
-        },
-        {
-            "fixture": "DC United – New England Revolution",
-            "prediction": "X",
-            "date": "26/03/2023"
-        },
-        {
-            "fixture": " Houston Dynamo – New York City FC",
-            "prediction": "2",
-            "date": "26/03/2023"
-        },
-        {
-            "fixture": "Sporting Kansas City – Seattle Sounders",
-            "prediction": "X",
-            "date": "26/03/2023"
-        },
-        {
-            "fixture": "CF Correcaminos UAT – CD Mineros de",
+            "fixture": "Montpellier HSC – Toulouse FC",
             "prediction": "1",
-            "date": "26/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Pumas de Tabasco – Raya2 Expansion",
+            "fixture": "ESTAC Troyes – Clermont Foot 63",
             "prediction": "1",
-            "date": "26/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Iwaki FC – Machida Zelvia",
-            "prediction": "X",
-            "date": "26/03/2023"
-        },
-        {
-            "fixture": "FC Dordrecht – Helmond Sport",
+            "fixture": "Borussia Monchengladbach – VfL Wolfsburg",
             "prediction": "2",
-            "date": "26/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "SD Ponferradina – CD Mirandes",
+            "fixture": "Liverpool FC – Arsenal FC",
             "prediction": "2",
-            "date": "26/03/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Real Zaragoza – Albacete Balompie",
+            "fixture": "VfL Bochum – VfB Stuttgart",
             "prediction": "X",
-            "date": "26/03/2023"
+            "date": "08/04/2023"
+        },
+        {
+            "fixture": "UD Almeria – Valencia CF",
+            "prediction": "2",
+            "date": "08/04/2023"
         }
     ],
     
     
    "freePredictions":[
         {
-            "fixture":"Cremonese- : -Fiorentina",
-            "prediction": "Away Win",
-            "date": "05/04/2023"
+            "fixture":"Sturm Graz- : -LASK Linz",
+            "prediction": "Over 2.5",
+            "date": "06/04/2023"
         },
         {
-            "fixture": "Barcelona- : -Real Madrid",
+            "fixture": "Patronato Parana1 : 2Atletico Nacional Medellin",
+            "prediction":"Over 2.5 & GG",
+            "date": "06/04/2023"
+        },
+        {
+            "fixture": "SD Aucas2 : 1Flamengo",
+            "prediction":"Over 2.5 & GG",
+            "date": "06/04/2023"
+        },
+        {
+            "fixture": "Cerro Porteno2 : 1Barcelona SC",
             "prediction":"GG",
-            "date": "05/04/2023"
+            "date": "06/04/2023"
         },
         {
-            "fixture": "Nurnberg- : -Stuttgart",
+            "fixture": "Nublense0 : 2Racing Club",
+            "prediction":"Away Win",
+            "date": "06/04/2023"
+        },
+        {
+            "fixture": "Sporting Cristal1 : 3Fluminense RJ",
             "prediction":"Over 2.5",
-            "date": "05/04/2023"
-        },
-        {
-            "fixture": "RB Leipzig- : -Borussia Dortmund",
-            "prediction":"GG",
-            "date": "05/04/2023"
-        },
-        {
-            "fixture": "West Ham United- : -Newcastle",
-            "prediction":"Over 2.5",
-            "date": "05/04/2023"
-        },
-        {
-            "fixture": "Manchester United- : -Brentford",
-            "prediction":"1X",
-            "date": "05/04/2023"
+            "date": "06/04/2023"
         }
  ],
  "fixedPredictions":[
@@ -175,94 +178,94 @@
  
  "paidPredictions":[
     {
-        "fixture":"Gil Vicente- : -Sporting Lisbon",
-        "prediction": "Away Win",
-        "date": "05/04/2023"
+        "fixture":"Club Bolivar3 : 1Palmeiras",
+        "prediction": "Home Win & Over 2.5",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Melbourne City FC- : -Melbourne Victory",
+        "fixture": "Deportes Pereira1 : 1Colo Colo",
+        "prediction": "Away Win / Draw",
+        "date": "06/04/2023"
+    },
+    {
+        "fixture": "FK Novi Pazar- : -Radnik Surdulica",
         "prediction": "Home Win",
-        "date": "05/04/2023"
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Perugia- : -Reggina",
-        "prediction": "No GG",
-        "date": "05/04/2023"
+        "fixture": "FK Krasnodar- : -Rostov",
+        "prediction": "Home Win",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Gornik Leczna- : -Rakow Czestochowa",
-        "prediction": "Away Win",
-        "date": "05/04/2023"
+        "fixture": "Sepsi Sfantu Gheorghe- : -CS Mioveni",
+        "prediction":"Home Win",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Feyenoord- : -Ajax",
-        "prediction":"Over 2.5",
-        "date": "05/04/2023"
-    },
-    {
-        "fixture": "Hermannstadt- : -Universitatea Cluj",
+        "fixture": "CFR Cluj- : -Arges Pitesti",
         "prediction":"1X",
-        "date": "05/04/2023"
+        "date": "06/04/2023"
     },
     {
-        "fixture": "CSKA Moscow- : -Krylia Sovetov Samara",
+        "fixture": "Slask Wroclaw- : -Piast Gliwice",
+        "prediction":"No GG",
+        "date": "06/04/2023"
+    },
+    {
+        "fixture": "Gornik Zabrze- : -Korona Kielce",
+        "prediction":"Over 2.5",
+        "date": "06/04/2023"
+    },
+    {
+        "fixture": "Mes Rafsanjan FC- : -Naft Masjed-Soleyman",
         "prediction":"1",
-        "date": "05/04/2023"
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Spartak Subotica- : -Crvena Zvezda",
-        "prediction":"Over 2.5",
-        "date": "05/04/2023"
+        "fixture": "Persepolis- : -Malavan",
+        "prediction":"1",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Galatasaray- : -Istanbul Basaksehir",
+        "fixture": "Foolad Khuzestan- : -Nassaji Mazandaran",
+        "prediction":"1",
+        "date": "06/04/2023"
+    },
+    {
+        "fixture": "Fortaleza4 : 0Palestino Santiago",
+        "prediction":"1",
+        "date": "06/04/2023"
+    },
+    {
+        "fixture": "Danubio2 : 0Emelec Guayaquil",
         "prediction":"Under 2.5",
-        "date": "05/04/2023"
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Rapid Vienna- : -SV Ried",
-        "prediction":"Home Win",
-        "date": "05/04/2023"
-    },
-    {
-        "fixture": "lympiakos Piraeus- : -PAOK Thessaloniki",
-        "prediction":"Under 2.5",
-        "date": "05/04/2023"
-    },
-    {
-        "fixture": "Aris- : -Panathinaikos",
-        "prediction":"Under 2.5",
-        "date": "05/04/2023"
-    },
-    {
-        "fixture": "Volos NFC- : -AEK Athens",
-        "prediction":"Under 2.5",
-        "date": "05/04/2023"
-    },
-    {
-        "fixture": "Nantes- : -Lyon",
+        "fixture": "Oriente Petrolero0 : 1Estudiantes",
         "prediction":"Away Win",
-        "date": "05/04/2023"
+        "date": "06/04/2023"
     },
     {
-        "fixture": "FC Nordsjaelland- : -Aarhus Fremad",
-        "prediction":"Over 2.5",
-        "date": "05/04/2023"
+        "fixture": "Silkeborg- : -SonderjyskE",
+        "prediction":"Over 2.5 & GG",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Jablonec- : -Slovacko",
-        "prediction":"Under 2.5",
-        "date": "05/04/2023"
+        "fixture": "Fenerbahce- : -Kayserispor",
+        "prediction":"Over 2.5 & GG",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Slavia Prague- : -FK Bohemians Praha",
-        "prediction":"Home Win",
-        "date": "05/04/2023"
+        "fixture": "Vejle- : -Copenhagen",
+        "prediction":"Away Win",
+        "date": "06/04/2023"
     },
     {
-        "fixture": "Slavia Prague- : -FK Bohemians Praha",
-        "prediction":"Home Win",
-        "date": "05/04/2023"
+        "fixture": "Vejle- : -Copenhagen",
+        "prediction":"Away Win",
+        "date": "06/04/2023"
     }
     
 ],
