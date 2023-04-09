@@ -2,24 +2,24 @@
      
     "visibility": true,
     "showBannerAd": true,
-    "showInterstitialAd": false,
+    "showInterstitialAd": true,
     "showNativeAd": true,
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Saturday, 8th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Sunday, 9th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh80" , "accessDays": "Saturday, 8th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":10
+          "name": "Basic Tips", "amount": "Ksh80" , "accessDays": "Sunday, 9th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":13
        },  
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Saturday, 8th April 2023", "odds":"Sportpesa Guaranteed Jackpot Bomus Win","id":"id_jackpot_sub","length":17
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Sunday, 9th April 2023", "odds":"Sportpesa Guaranteed Jackpot Bomus Win","id":"id_jackpot_sub","length":17
      },
        {
-           "name": "Standard Tips", "amount": "Ksh200" , "accessDays": "Saturday, 8th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":13   
+           "name": "Standard Tips", "amount": "Ksh200" , "accessDays": "Sunday, 9th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":15   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh400" , "accessDays": "Saturday, 8th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":18
+           "name": "Premium Tips", "amount":"Ksh400" , "accessDays": "Sunday, 9th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":21
         }    
      ],
 
@@ -116,34 +116,34 @@
     
    "freePredictions":[
         {
-            "fixture":"Udinese Calcio- : -Monza 1912",
-            "prediction": "Over 2.5",
-            "date": "08/04/2023"
+            "fixture":"Lyon- : -Stade Rennais",
+            "prediction": "GG",
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Torpedo Moscow- : -Fakel",
-            "prediction":"Home Win",
-            "date": "08/04/2023"
+            "fixture": "Real Valladolid- : -Mallorca",
+            "prediction":"Home Win / Draw",
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Osasuna- : -Elche",
-            "prediction":"Under 2.5",
-            "date": "08/04/2023"
+            "fixture": "Dundee United- : -Hibernian",
+            "prediction":"No GG",
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Manchester United- : -Everton",
+            "fixture": "Monchengladbach- : -VfL Wolfsburg",
             "prediction":"GG",
-            "date": "08/04/2023"
+            "date": "09/04/2023"
         },
         {
-            "fixture": "Celtic- : -Rangers",
-            "prediction":"Under 3.5",
-            "date": "08/04/2023"
-        },
-        {
-            "fixture": "Augsburg- : -FC Koln",
+            "fixture": "Sochi- : -Krylia Sovetov Samara",
             "prediction":"GG",
-            "date": "08/04/2023"
+            "date": "09/04/2023"
+        },
+        {
+            "fixture": "Liverpool- : -Arsenal",
+            "prediction":"Over 2.5 & GG",
+            "date": "09/04/2023"
         }
  ],
  "fixedPredictions":[
@@ -178,99 +178,114 @@
  
  "paidPredictions":[
     {
-        "fixture":"Sampdoria- : -Cremonese",
-        "prediction": "Under 2.5",
-        "date": "08/04/2023"
+        "fixture":"Montpellier HSC- : -Toulouse",
+        "prediction": "Over 2.5",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Atalanta- : -Bologna",
+        "fixture": "Lorient- : -Marseille",
+        "prediction": "Over 2.5",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Betis- : -Cadiz",
         "prediction": "Home Win",
-        "date": "08/04/2023"
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Hellas Verona- : -Sassuolo",
-        "prediction": "GG",
-        "date": "08/04/2023"
+        "fixture": "Almeria- : -Valencia",
+        "prediction": "GG & Over 2.5",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Real Sociedad- : -Getafe",
-        "prediction": "Home Win",
-        "date": "08/04/2023"
+        "fixture": "TSG Hoffenheim- : -Schalke 04",
+        "prediction":"GG & Over 2.5",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Manchester United- : -Everton",
-        "prediction":"GG",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Wolverhampton Wanderers- : -Chelsea",
-        "prediction":"Away Win",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Brentford- : -Newcastle",
+        "fixture": "Lokomotiv Moscow- : -Zenit St Petersburg",
         "prediction":"Over 2.5",
-        "date": "08/04/2023"
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Nice- : -Paris SG",
-        "prediction":"Away Win",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Freiburg- : -Bayern Munich",
-        "prediction":"HT/FT 2/2",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Bayer 04 Leverkusen- : -Eintracht Frankfurt",
-        "prediction":"Over 3.5",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "PSV- : -Excelsior Rotterdam",
-        "prediction":"Over 3.5",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Arouca- : -Maritimo",
-        "prediction":"HT/FT 1/1",
-        "date": "08/04/2023"
-    },
-    {
-        "fixture": "Pacos Ferreira- : -Famalicao",
+        "fixture": "Leeds United- : -Crystal Palace",
         "prediction":"GG",
-        "date": "08/04/2023"
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Kasimpasa- : -Trabzonspor",
+        "fixture": "Spartak Varna- : -Beroe",
         "prediction":"GG",
-        "date": "08/04/2023"
+        "date": "09/04/2023"
     },
     {
-        "fixture": "OH Leuven- : -Mechelen",
-        "prediction":"Over 2.5 & GG",
-        "date": "08/04/2023"
+        "fixture": "Ajax- : -Fortuna Sittard",
+        "prediction":"Over 3.5",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Farul Constanta- : -Univ. Craiova",
-        "prediction":"Over 2.5 & GG",
-        "date": "08/04/2023"
+        "fixture": "Feyenoord- : -RKC Waalwijk",
+        "prediction":"Over 2.5",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "Tondela- : -Leixões",
+        "fixture": "Antwerp- : -Cercle Brugge",
         "prediction":"Home Win",
-        "date": "08/04/2023"
+        "date": "09/04/2023"
     },
     {
-        "fixture": "FC Wil 1900- : -Thun",
-        "prediction":"Over 3.5",
-        "date": "08/04/2023"
+        "fixture": "Willem II- : -VVV-Venlo",
+        "prediction":"Home Win",
+        "date": "09/04/2023"
     },
     {
-        "fixture": "FC Wil 1900- : -Thun",
-        "prediction":"Over 3.5",
-        "date": "08/04/2023"
+        "fixture": "Sportivo Luqueño- : -Guairena",
+        "prediction":"Home Win",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Ponferradina- : -Leganes",
+        "prediction":"Over 1.5",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Jeonbuk- : -Incheon United",
+        "prediction":"Home Win",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Godoy Cruz- : -Club Atletico Tigre",
+        "prediction":"Over 2.5 & GG",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "New York Red Bulls- : -San Jose Earthquakes",
+        "prediction":"GG & Over 2.5",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "New England Revolution- : -Montreal Impact",
+        "prediction":"Over 2.5",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Real Salt Lake- : -Charlotte FC",
+        "prediction":"Home Win",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Kolos-Kovalivka Kyiv- : -Metalist 1925",
+        "prediction":"Home Win",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Club America- : -Monterrey",
+        "prediction":"Over 2.5",
+        "date": "09/04/2023"
+    },
+    {
+        "fixture": "Club America- : -Monterrey",
+        "prediction":"Over 2.5",
+        "date": "09/04/2023"
     }
     
 ],
