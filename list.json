@@ -7,19 +7,19 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Thursday, 13th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Friday, 14th April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Thursday, 13th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":8
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Friday, 14th April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":12
        },  
        {
-        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Thursday, 13th April 2023", "odds":"SportPesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
+        "name": "Jackpot Tips", "amount": "Ksh200" , "accessDays": "Friday, 14th April 2023", "odds":"SportPesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
        },
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Thursday, 13th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":10   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Friday, 14th April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":16   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Thursday, 13th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":14
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Friday, 14th April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
         }    
      ],
 
@@ -116,29 +116,29 @@
     
    "freePredictions":[
         {
-            "fixture":"KAA Gent- : -West Ham United",
-            "prediction": "Away Win",
-            "date": "13/04/2023"
+            "fixture":"Standard Liege- : -Charleroi",
+            "prediction": "Over 2.5",
+            "date": "14/04/2023"
         },
         {
-            "fixture": "Feyenoord- : -Roma",
-            "prediction":"Under 2.5",
-            "date": "13/04/2023"
+            "fixture": "Toulouse- : -Lyon",
+            "prediction":"Over 2.5 & GG",
+            "date": "14/04/2023"
         },
         {
-            "fixture": "Botev Vratsa- : -Hebar",
-            "prediction":"Under 2.5",
-            "date": "13/04/2023"
+            "fixture": "Lokomotiv Sofia- : -Pirin Blagoevgrad",
+            "prediction":"No GG",
+            "date": "14/04/2023"
         },
         {
-            "fixture": "PAOK Thessaloniki- : -Lamia 1964",
-            "prediction":"HT/FT 1/1 ",
-            "date": "13/04/2023"
-        },
-        {
-            "fixture": "Nacional- : -Sporting de Braga",
+            "fixture": "Excelsior Rotterdam- : -Go Ahead Eagles",
             "prediction":"Away Win",
-            "date": "13/04/2023"
+            "date": "14/04/2023"
+        },
+        {
+            "fixture": "Ross County- : -Aberdeen",
+            "prediction":"Under 2.5",
+            "date": "14/04/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,79 +173,109 @@
  
  "paidPredictions":[
     {
-        "fixture":"Juventus- : -Sporting Lisbon",
-        "prediction": "Under 2.5",
-        "date": "13/04/2023"
-    },
-    {
-        "fixture": "Bayer 04 Leverkusen- : -Royale Union Saint-Gilloise",
-        "prediction": "Over 2.5",
-        "date": "13/04/2023"
-    },
-    {
-        "fixture": "Manchester United- : -Sevilla",
-        "prediction": "Home Win or Draw",
-        "date": "13/04/2023"
-    },
-    {
-        "fixture": "Sportivo Luqueño- : -Olimpia Asuncion",
+        "fixture":"Septemvri Sofia- : -CSKA Sofia 1948",
         "prediction": "Away Win",
-        "date": "13/04/2023"
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Tacuary- : -Sportivo Trinidense",
-        "prediction":"Away Win",
-        "date": "13/04/2023"
+        "fixture": "Rayo Vallecano- : -Osasuna",
+        "prediction": "Home Win or Draw",
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Belgrano- : -Huracan",
-        "prediction":"Draw",
-        "date": "13/04/2023"
+        "fixture": "Cremonese- : -Empoli",
+        "prediction": "HT/FT X/X",
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Racing Club- : -Newells Old Boys",
-        "prediction":"Home Win or Draw",
-        "date": "13/04/2023"
+        "fixture": "Spezia Calcio- : -Lazio",
+        "prediction": "Over 2.5",
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Vejle- : -Hvidovre",
+        "fixture": "Antalyaspor- : -Alanyaspor",
+        "prediction":"GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Schalke 04- : -Hertha BSC",
+        "prediction":"GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Famalicao- : -Vitoria Guimaraes",
+        "prediction":"GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Heracles Almelo- : -Roda Kerkrade",
+        "prediction":"Home Win",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "PEC Zwolle- : -Stormvogels Telstar",
         "prediction":"Over 2.5",
-        "date": "13/04/2023"
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Levski Krumovgrad- : -Maritsa Plovdiv",
+        "fixture": "VVV-Venlo- : -Eindhoven",
+        "prediction":"GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "River Plate- : -Gimnasia La Plata",
         "prediction":"Home Win",
-        "date": "13/04/2023"
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Envigado- : -Deportes Tolima",
-        "prediction":"Over 1.5",
-        "date": "13/04/2023"
-    },
-    {
-        "fixture": "Independiente Medellin- : -Deportivo Cali",
+        "fixture": "Atletico San Luis- : -Juarez FC",
         "prediction":"Home Win",
-        "date": "13/04/2023"
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Paralimni- : -Nea Salamina",
-        "prediction":"Home Win or Draw",
-        "date": "13/04/2023"
+        "fixture": "Al-Wakrah- : -Al Shamal",
+        "prediction":"GG",
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Doxa Katokopias- : -Olympiakos Nicosia",
+        "fixture": "Dunajska Streda- : -Zeleziarne Podbrezova",
         "prediction":"Home Win",
-        "date": "13/04/2023"
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Colon- : -Talleres",
-        "prediction":"Under 2.5",
-        "date": "13/04/2023"
+        "fixture": "Neuchatel Xamax- : -FC Wil 1900",
+        "prediction":"Over 2.5",
+        "date": "14/04/2023"
     },
     {
-        "fixture": "Colon- : -Talleres",
-        "prediction":"Under 2.5",
-        "date": "13/04/2023"
+        "fixture": "Greuther Furth- : -Jahn Regensburg",
+        "prediction":"Home Win",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Isloch- : -Belshina Bobruisk",
+        "prediction":"GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Botev Plovdiv II- : -Dunav Ruse",
+        "prediction":"GG & Over 2.5",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Athletico Junior- : -Boyaca Chico FC",
+        "prediction":"Home Win",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "SV Ried- : -WSG Tirol",
+        "prediction":"Over 2.5 & GG",
+        "date": "14/04/2023"
+    },
+    {
+        "fixture": "Athletico Junior- : -Boyaca Chico FC",
+        "prediction":"Home Win",
+        "date": "14/04/2023"
     }
     
 ],
