@@ -113,29 +113,39 @@
     
    "freePredictions":[
         {
-            "fixture":"Arsenal- : -Southampton",
-            "prediction": "HT/FT 1/1",
-            "date": "21/04/2023"
+            "fixture":"TSG Hoffenheim- : -FC Koln",
+            "prediction": "GG",
+            "date": "22/04/2023"
         },
         {
-            "fixture": "Botev Vratsa- : -Cherno More Varna",
-            "prediction":"No GG",
-            "date": "21/04/2023"
+            "fixture": "Fulham- : -Leeds United",
+            "prediction":"Home Win / Draw",
+            "date": "22/04/2023"
         },
         {
-            "fixture": "Volendam- : -Cambuur",
+            "fixture": "Coventry City- : -Reading",
             "prediction":"Over 2.5",
-            "date": "21/04/2023"
+            "date": "22/04/2023"
         },
         {
-            "fixture": "Angers SCO- : -Paris SG",
-            "prediction":"Under 3.5",
-            "date": "21/04/2023"
+            "fixture": "Zenit St Petersburg- : -Dinamo Moscow",
+            "prediction":"GG",
+            "date": "22/04/2023"
         },
         {
-            "fixture": "Casa Pia Atletico- : -Sporting de Braga",
-            "prediction":"Away Win",
-            "date": "21/04/2023"
+            "fixture": "Heart of Midlothian- : -Ross County",
+            "prediction":"Home Win",
+            "date": "22/04/2023"
+        },
+        {
+            "fixture": "Heerenveen- : -Emmen",
+            "prediction":"Home Win",
+            "date": "22/04/2023"
+        },
+        {
+            "fixture": "Sampdoria- : -Spezia Calcio",
+            "prediction":"GG",
+            "date": "22/04/2023"
         }
  ],
  "fixedPredictions":[
@@ -170,108 +180,108 @@
  
  "paidPredictions":[
     {
-        "fixture":"Septemvri Sofia- : -CSKA Sofia 1948",
-        "prediction": "Away Win",
-        "date": "14/04/2023"
+        "fixture":"16:30Hertha BSC- : -Werder Вremen",
+        "prediction": "Over 2.5",
+        "date": "22/04/2023"
     },
     {
-        "fixture": "Hellas Verona- : -Bologna",
-        "prediction": "Under 2.5",
-        "date": "21/04/2023"
+        "fixture": "Borussia Dortmund- : -Eintracht Frankfurt",
+        "prediction": "GG",
+        "date": "22/04/2023"
     },
     {
-        "fixture": "Espanyol- : -Cadiz",
-        "prediction": "No GG",
-        "date": "21/04/2023"
+        "fixture": "Crystal Palace- : -Everton",
+        "prediction": "Over 2.5 & GG",
+        "date": "22/04/2023"
     },
     {
-        "fixture": "Racing Club3 : 2SD Aucas",
-        "prediction": "Home Win",
-        "date": "21/04/2023"
+        "fixture": "Liverpool- : -Nottm Forest",
+        "prediction": "Over 2.5",
+        "date": "22/04/2023"
     },
     {
-        "fixture": "San Lorenzo0 : 2Fortaleza",
+        "fixture": "Coventry City- : -Reading",
+        "prediction":"Over 2.5 & GG",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Preston North End- : -Blackburn Rovers",
+        "prediction":"GG",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Heart of Midlothian- : -Ross County",
+        "prediction":"Home Win",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Groningen- : -NEC",
+        "prediction":"GG",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Umraniyespor- : -Besiktas",
+        "prediction":"Over 2.5",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "CSKA Sofia 1948- : -Lokomotiv Plovdiv",
+        "prediction":"GG",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Real Sociedad- : -Rayo Vallecano",
+        "prediction":"Home Win",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Seraing- : -Westerlo",
+        "prediction":"Over 2.5",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Brann- : -Valerenga",
+        "prediction":"Home Win",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Cerro Largo2 : 1Racing Club de Montevideo",
+        "prediction":"home Win",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Pogon Szczecin- : -Stal Mielec",
+        "prediction":"Home Win",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Modena- : -SPAL",
+        "prediction":"Over 2.5",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Aberystwyth Town- : -Caernarfon",
+        "prediction":"Over 2.5",
+        "date": "22/04/2023"
+    },
+    {
+        "fixture": "Deportivo Rayo Zuliano1 : 1Zamora FC",
         "prediction":"Under 2.5",
-        "date": "21/04/2023"
+        "date": "22/04/2023"
     },
     {
-        "fixture": "06:00Botafogo4 : 0Universidad Cesar Vallejo",
+        "fixture": "Crvena Zvezda- : -TSC Backa Topola",
         "prediction":"Over 2.5",
-        "date": "21/04/2023"
+        "date": "22/04/2023"
     },
     {
-        "fixture": "21:00Almere City- : -PEC Zwolle",
-        "prediction":"Over 3.5",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Eindhoven- : -NAC",
-        "prediction":"Home Win",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Stormvogels Telstar- : -VVV-Venlo",
-        "prediction":"GG",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Roda Kerkrade- : -Den Bosch",
-        "prediction":"Over 2.5",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Tigres1 : 0Puebla",
-        "prediction":"Home Win",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "FC Wil 1900- : -Schaffhausen",
-        "prediction":"GG",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "ASC Sepsi- : -Univ. Craiova",
-        "prediction":"GG",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Wisla Plock- : -Jagiellonia Bialystok",
-        "prediction":"Over 2.5",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Lokomotiva Zagreb- : -HNK Sibenik",
-        "prediction":"Over 2.5",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Chengdu Rongcheng- : -Cangzhou",
-        "prediction":"Home Win",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Shandong Taishan- : -Nantong Zhiyun",
-        "prediction":"Ovber 2.5 & GG",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Rapid Wien II- : -SK Vorwärts Steyr",
+        "fixture": "Aarau- : -Neuchatel Xamax",
         "prediction":"GG & Over 2.5",
         "date": "21/04/2023"
     },
     {
-        "fixture": "FAC Wien 1904- : -Liefering",
-        "prediction":"Home Win",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Villefranche- : -Cholet",
-        "prediction":"GG",
-        "date": "21/04/2023"
-    },
-    {
-        "fixture": "Villefranche- : -Cholet",
-        "prediction":"GG",
+        "fixture": "Aarau- : -Neuchatel Xamax",
+        "prediction":"GG & Over 2.5",
         "date": "21/04/2023"
     }
     
@@ -280,8 +290,220 @@
 
 
    "predictionResults":[ 
+    
+    {
+        "date": "Friday, 21st April 2023",
+        "gamesList": [
+         {
+             "fixture": "Radcliffe Borough VS Guiseley AFC",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.04",
+             "results": "Odds 6.04 (WIN)"
+         },
+         {
+             "fixture": "S達o Jo達o de Ver VS CF Canelas 2010",
+             "prediction": "HT/FT 2/X",
+             "odds": "5.33",
+             "results": "5.33 (WIN)"
+         },
+         {
+             "fixture": "TuSpo Surheide VS Union Bremen",
+             "prediction": "HT/FT 1/2",
+             "odds": "5.53",
+             "results": "Odds 5.53 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "Odds 3.28 (WIN)"
+         },
+             {
+             "fixture": "ASEC Koudougou VS Douanes",
+             "prediction": "Under 0.5 Goals",
+             "odds": "6.81",
+             "results": "Odds 6.81 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Thursday, 20th April 2023",
+        "gamesList": [
+         {
+             "fixture": "Khor Fakkan Club VS Al Dhafra",
+             "prediction": "Over 5.5 & GG",
+             "odds": "6.46",
+             "results": "Odds 6.46 (WIN)"
+         },
+         {
+             "fixture": "Niki Volos VS Veria FC",
+             "prediction": "Fixed Draw",
+             "odds": "3.28",
+             "results": "3.28 (WIN)"
+         },
+         {
+             "fixture": "Shabab Alsamu VS Shabab Al Am'ari",
+             "prediction": "HT/FT X/1",
+             "odds": "5.33",
+             "results": "Odds 5.33 (WIN)"
+         },
+             {
+             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
+             "prediction": "Correct Score 2-0",
+             "odds": "7.05",
+             "results": "Odds 7.05 (WIN)"
+         },
+             {
+             "fixture": "Wolves U23s VS Reading U23s",
+             "prediction": "HT/FT 1/1",
+             "odds": "4.97",
+             "results": "Odds 4.97 (WIN)"
+         }
+        ]
+     }, 
+    {
+        "date": "Wednesday, 19th April 2023",
+        "gamesList": [
+         {
+             "fixture": "Juventude VS Flamengo RJ",
+             "prediction": "HT/FT 1/X",
+             "odds": "5.11",
+             "results": "Odds 5.11 (WIN)"
+         },
+         {
+             "fixture": "Alashkert VS FC Urartu",
+             "prediction": "Under 0.5 Goals",
+             "odds": "5.09",
+             "results": "5.09 (WIN)"
+         },
+         {
+             "fixture": "Avtomobilist Noginsk VS Dinamo Vladivostok",
+             "prediction": "Fixed Draw",
+             "odds": "3.24",
+             "results": "Odds 3.24 (WIN)"
+         },
+             {
+             "fixture": "Tavagnacco W VS Pomigliano W",
+             "prediction": "Over 4.5 & GG",
+             "odds": "6.19",
+             "results": "Odds 6.19 (WIN)"
+         },
+             {
+             "fixture": "KF Ballkani VS KF Llapi",
+             "prediction": "Over 4.5 Goals",
+             "odds": "4.06",
+             "results": "Odds 4.06 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Tuesday, 18th April 2023",
+        "gamesList": [
+         {
+             "fixture": "Viktoria Plzen VS 1. FC Brno",
+             "prediction": "Over 3.5 & NG ",
+             "odds": "4.97",
+             "results": "Odds 4.97 (WIN)"
+         },
+         {
+             "fixture": "SC Gagnoa VS ASEC Mimosa",
+             "prediction": "HT/FT 1/2",
+             "odds": "5.64",
+             "results": "5.64 (WIN)"
+         },
+         {
+             "fixture": "Azam VS Dodoma Jiji",
+             "prediction": "CS 2-1 ",
+             "odds": "7.65",
+             "results": "Odds 7.65 (WIN)"
+         },
+             {
+             "fixture": "Gaziantep B.B. VS Kutahyaspor",
+             "prediction": "HT/FT 1/1",
+             "odds": "5.27",
+             "results": "Odds 5.27 (WIN)"
+         },
+             {
+             "fixture": "Shabab (KUW) VS Yarmouk (KUW)",
+             "prediction": "Draw",
+             "odds": "3.06",
+             "results": "Odds 3.06 (WIN)"
+         }
+        ]
+     },
+    
+    {
+        "date": "Monday, 17th April 2023",
+        "gamesList": [
+         {
+             "fixture": "MFK Skalica VS MFK Ruzomberok",
+             "prediction": "Correct Score 1-1",
+             "odds": "5.21",
+             "results": "Odds 5.21 (WIN)"
+         },
+         {
+             "fixture": "Hotiza La Storia VS NK Domzale",
+             "prediction": "Over 5.5",
+             "odds": "5.24",
+             "results": "5.24 (WIN)"
+         },
+         {
+             "fixture": "Wakiso Giants VS Vipers SC",
+             "prediction": "Draw",
+             "odds": "3.24",
+             "results": "Odds 3.24 (WIN)"
+         },
+             {
+             "fixture": "Ahli Amman VS El Alia ",
+             "prediction": "Under 1.5 Goals",
+             "odds": "4.21",
+             "results": "Odds 4.21 (WIN)"
+         },
+             {
+             "fixture": "Bologna U19 VS Ascoli U19 ",
+             "prediction": "HT/FT 1/2",
+             "odds": "5.18",
+             "results": "Odds 5.18 (WIN)"
+         }
+        ]
+     },
+    {
+        "date": "Sunday, 16th April 2023",
+        "gamesList": [
+         {
+             "fixture": "Qoqon FK VS FC Bunyodkor ",
+             "prediction": "Correct Score 0-1",
+             "odds": "5.91",
+             "results": "Odds 5.91 (WIN)"
+         },
+         {
+             "fixture": "Sogdiana Jizzakh VS Lok. Tashken",
+             "prediction": "HT Over 3.5",
+             "odds": "5.44",
+             "results": "5.44 (WIN)"
+         },
+         {
+             "fixture": "Dinamo Minsk Res. VS Neman Grodno Res",
+             "prediction": "Draw",
+             "odds": "3.24",
+             "results": "Odds 3.24 (WIN)"
+         },
+             {
+             "fixture": "Kremin' II VS VAST",
+             "prediction": "HT/FT 2/2",
+             "odds": "3.67",
+             "results": "Odds 3.67 (WIN)"
+         },
+             {
+             "fixture": "Vitosha Bistritsa VS PFK Dobrudzha",
+             "prediction": "HT/FT 2/X ",
+             "odds": "4.13",
+             "results": "Odds 4.13 (WIN)"
+         }
+        ]
+     },
    {
-        "date": "Tuesdayy, 4th April 2023",
+        "date": "Tuesday, 4th April 2023",
         "gamesList": [
          {
              "fixture": "CD Huarte VS CD Ardoi",
@@ -1607,323 +1829,8 @@
              "results": "Odds 3.05 (WIN)"
          }
         ]
-     },
-    {
-        "date": "Wednesday, 15th February 2023",
-        "gamesList": [
-         {
-             "fixture": "EG El Palmar VS Racing Murcia",
-             "prediction": "Over 5.5 Goals",
-             "odds": "4.87",
-             "results": "Odds 4.87 (WIN)"
-         },
-         {
-             "fixture": "Lija Athletic VS Zejtun Corinthians ",
-             "prediction": "HT/FT X/2 ",
-             "odds": "3.88",
-             "results": "3.88 (WIN)"
-         },
-         {
-             "fixture": "Yangon United VS Ayeyawady United",
-             "prediction": "Under 0.5 Goals",
-             "odds": "6.44",
-             "results": "Odds 6.44 (WIN)"
-         },
-             {
-             "fixture": "Kaganat VS FC Alay Osh",
-             "prediction": "Draw & Under 2.5 ",
-             "odds": "5.92",
-             "results": "Odds 5.92 (WIN)"
-         },
-             {
-             "fixture": "Hougang United VS Albirex Niigata (S) ",
-             "prediction": "1 & Over 4.5 ",
-             "odds": "4.23",
-             "results": "Odds 4.23 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Tuesday, 14th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Sekka Al Hadid VS Itesalat ",
-             "prediction": "HT/FT X/X ",
-             "odds": "4.53",
-             "results": "Odds 4.53 (WIN)"
-         },
-         {
-             "fixture": "Porto El Sokhna VS Petrojet Suez",
-             "prediction": "Fixed Draw",
-             "odds": "3.26",
-             "results": "3.26 (WIN)"
-         },
-         {
-             "fixture": "KIMA Aswan SC VS El Gouna",
-             "prediction": "CS 0-2 ",
-             "odds": "7.44",
-             "results": "Odds 7.44 (WIN)"
-         },
-             {
-             "fixture": "Bristol City U23 VS Newcastle U23s ",
-             "prediction": "Over 3.5 & NG",
-             "odds": "6.01",
-             "results": "Odds 6.01 (WIN)"
-         },
-             {
-             "fixture": "Almopos Aridaea VS Panserraikos ",
-             "prediction": "HT/FT X/2",
-             "odds": "3.94",
-             "results": "Odds 3.94 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Monday, 13th February 2023",
-        "gamesList": [
-         {
-             "fixture": "CSD Municipal VS Deportivo Mixco",
-             "prediction": "Under 1.5 Goals",
-             "odds": "4.20",
-             "results": "Odds 4.20 (WIN)"
-         },
-         {
-             "fixture": "Paysandu VS Sao Raimundo/AM",
-             "prediction": "HT/FT 1/1",
-             "odds": "5.29",
-             "results": "5.26 (WIN)"
-         },
-         {
-             "fixture": "Britannia VS Santa Fe",
-             "prediction": "GG & Over 5.5",
-             "odds": "6.05",
-             "results": "Odds 6.05 (WIN)"
-         },
-             {
-             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
-             "prediction": "Fixed Over 6.5 Goals",
-             "odds": "3.86",
-             "results": "Odds 3.86 (WIN)"
-         },
-             {
-             "fixture": "River Plate VS Nacional",
-             "prediction": "HT/FT X/1",
-             "odds": "4.54",
-             "results": "Odds 4.54 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Sunday, 12th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Radcliffe Borough VS Guiseley AFC",
-             "prediction": "Over 5.5 & GG",
-             "odds": "6.04",
-             "results": "Odds 6.04 (WIN)"
-         },
-         {
-             "fixture": "S達o Jo達o de Ver VS CF Canelas 2010",
-             "prediction": "HT/FT 2/X",
-             "odds": "5.33",
-             "results": "5.33 (WIN)"
-         },
-         {
-             "fixture": "TuSpo Surheide VS Union Bremen",
-             "prediction": "HT/FT 1/2",
-             "odds": "5.53",
-             "results": "Odds 5.53 (WIN)"
-         },
-             {
-             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
-             "prediction": "Fixed Draw",
-             "odds": "3.28",
-             "results": "Odds 3.28 (WIN)"
-         },
-             {
-             "fixture": "ASEC Koudougou VS Douanes",
-             "prediction": "Under 0.5 Goals",
-             "odds": "6.81",
-             "results": "Odds 6.81 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Saturday, 11th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Khor Fakkan Club VS Al Dhafra",
-             "prediction": "Over 5.5 & GG",
-             "odds": "6.46",
-             "results": "Odds 6.46 (WIN)"
-         },
-         {
-             "fixture": "Niki Volos VS Veria FC",
-             "prediction": "Fixed Draw",
-             "odds": "3.28",
-             "results": "3.28 (WIN)"
-         },
-         {
-             "fixture": "Shabab Alsamu VS Shabab Al Am'ari",
-             "prediction": "HT/FT X/1",
-             "odds": "5.33",
-             "results": "Odds 5.33 (WIN)"
-         },
-             {
-             "fixture": "Ethiopian Medhin VS Mebrat Hayl",
-             "prediction": "Correct Score 2-0",
-             "odds": "7.05",
-             "results": "Odds 7.05 (WIN)"
-         },
-             {
-             "fixture": "Wolves U23s VS Reading U23s",
-             "prediction": "HT/FT 1/1",
-             "odds": "4.97",
-             "results": "Odds 4.97 (WIN)"
-         }
-        ]
-     }, 
-    {
-        "date": "Friday, 10th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Juventude VS Flamengo RJ",
-             "prediction": "HT/FT 1/X",
-             "odds": "5.11",
-             "results": "Odds 5.11 (WIN)"
-         },
-         {
-             "fixture": "Alashkert VS FC Urartu",
-             "prediction": "Under 0.5 Goals",
-             "odds": "5.09",
-             "results": "5.09 (WIN)"
-         },
-         {
-             "fixture": "Avtomobilist Noginsk VS Dinamo Vladivostok",
-             "prediction": "Fixed Draw",
-             "odds": "3.24",
-             "results": "Odds 3.24 (WIN)"
-         },
-             {
-             "fixture": "Tavagnacco W VS Pomigliano W",
-             "prediction": "Over 4.5 & GG",
-             "odds": "6.19",
-             "results": "Odds 6.19 (WIN)"
-         },
-             {
-             "fixture": "KF Ballkani VS KF Llapi",
-             "prediction": "Over 4.5 Goals",
-             "odds": "4.06",
-             "results": "Odds 4.06 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Thursday, 9th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Viktoria Plzen VS 1. FC Brno",
-             "prediction": "Over 3.5 & NG ",
-             "odds": "4.97",
-             "results": "Odds 4.97 (WIN)"
-         },
-         {
-             "fixture": "SC Gagnoa VS ASEC Mimosa",
-             "prediction": "HT/FT 1/2",
-             "odds": "5.64",
-             "results": "5.64 (WIN)"
-         },
-         {
-             "fixture": "Azam VS Dodoma Jiji",
-             "prediction": "CS 2-1 ",
-             "odds": "7.65",
-             "results": "Odds 7.65 (WIN)"
-         },
-             {
-             "fixture": "Gaziantep B.B. VS Kutahyaspor",
-             "prediction": "HT/FT 1/1",
-             "odds": "5.27",
-             "results": "Odds 5.27 (WIN)"
-         },
-             {
-             "fixture": "Shabab (KUW) VS Yarmouk (KUW)",
-             "prediction": "Draw",
-             "odds": "3.06",
-             "results": "Odds 3.06 (WIN)"
-         }
-        ]
-     },
-    
-    {
-        "date": "Wednesday, 8th February 2023",
-        "gamesList": [
-         {
-             "fixture": "MFK Skalica VS MFK Ruzomberok",
-             "prediction": "Correct Score 1-1",
-             "odds": "5.21",
-             "results": "Odds 5.21 (WIN)"
-         },
-         {
-             "fixture": "Hotiza La Storia VS NK Domzale",
-             "prediction": "Over 5.5",
-             "odds": "5.24",
-             "results": "5.24 (WIN)"
-         },
-         {
-             "fixture": "Wakiso Giants VS Vipers SC",
-             "prediction": "Draw",
-             "odds": "3.24",
-             "results": "Odds 3.24 (WIN)"
-         },
-             {
-             "fixture": "Ahli Amman VS El Alia ",
-             "prediction": "Under 1.5 Goals",
-             "odds": "4.21",
-             "results": "Odds 4.21 (WIN)"
-         },
-             {
-             "fixture": "Bologna U19 VS Ascoli U19 ",
-             "prediction": "HT/FT 1/2",
-             "odds": "5.18",
-             "results": "Odds 5.18 (WIN)"
-         }
-        ]
-     },
-    {
-        "date": "Tuesday, 7th February 2023",
-        "gamesList": [
-         {
-             "fixture": "Qoqon FK VS FC Bunyodkor ",
-             "prediction": "Correct Score 0-1",
-             "odds": "5.91",
-             "results": "Odds 5.91 (WIN)"
-         },
-         {
-             "fixture": "Sogdiana Jizzakh VS Lok. Tashken",
-             "prediction": "HT Over 3.5",
-             "odds": "5.44",
-             "results": "5.44 (WIN)"
-         },
-         {
-             "fixture": "Dinamo Minsk Res. VS Neman Grodno Res",
-             "prediction": "Draw",
-             "odds": "3.24",
-             "results": "Odds 3.24 (WIN)"
-         },
-             {
-             "fixture": "Kremin' II VS VAST",
-             "prediction": "HT/FT 2/2",
-             "odds": "3.67",
-             "results": "Odds 3.67 (WIN)"
-         },
-             {
-             "fixture": "Vitosha Bistritsa VS PFK Dobrudzha",
-             "prediction": "HT/FT 2/X ",
-             "odds": "4.13",
-             "results": "Odds 4.13 (WIN)"
-         }
-        ]
      }
+    
     
     
    ],
