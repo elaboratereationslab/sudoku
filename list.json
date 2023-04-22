@@ -7,16 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Friday, 21st April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Saturday, 22nd April 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Friday, 21st April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":12
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Saturday, 22nd April 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":12
        },  
        {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Friday, 21st April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":16   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Saturday, 22nd April 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":16   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Friday, 21st April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Saturday, 22nd April 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":20
         }    
      ],
 
