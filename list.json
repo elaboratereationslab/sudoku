@@ -7,19 +7,16 @@
        
        "plans":[
        {
-          "name": "Free Tips", "amount": "0" , "accessDays": "Saturday, 6th May 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
+          "name": "Free Tips", "amount": "0" , "accessDays": "Monday, 8th May 2023", "odds":"5 to 10 Odds Daily","id":"id_free_sub", "length":1
        }, 
        {
-          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Saturday, 6th May 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":6
+          "name": "Basic Tips", "amount": "Ksh100" , "accessDays": "Monday, 8th May 2023", "odds":"Total Basic Tips = 15.95 + Odds","id":"id_basic_sub","length":6
        },
        {
-          "name": "Sportpesa Jackpot", "amount": "Ksh200" , "accessDays": "Saturday, 6th May 2023", "odds":"Sportpesa Guaranteed Jackpot Bonus Win","id":"id_jackpot_sub","length":17
-       },   
-       {
-           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Saturday, 6th May 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":10   
+           "name": "Standard Tips", "amount": "Ksh300" , "accessDays": "Monday, 8th May 2023", "odds":"Total Standard Tips = 25.45 + Odds", "id":"id_standard_sub","length":10   
         },      
         {
-           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Saturday, 6th May 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":14
+           "name": "Premium Tips", "amount":"Ksh500" , "accessDays": "Monday, 8th May 2023", "odds":"Total Premium Tips = 50.29 + Odds",  "id":"id_premium_sub","length":14
         }    
      ],
 
@@ -116,29 +113,29 @@
     
    "freePredictions":[
         {
-            "fixture":"Manchester City- : -Leeds United",
-            "prediction": "HT/FT 1/1 ",
-            "date": "06/05/2023"
+            "fixture":"Swansea vs West Bromwich Albion",
+            "prediction": "GG & Over 2.5",
+            "date": "08/05/2023"
         },
         {
-            "fixture": "Tottenham Hotspur- : -Crystal Palace",
+            "fixture": "Huddersfield vs Reading",
             "prediction":"Over 2.5",
-            "date": "06/05/2023"
+            "date": "08/05/2023"
         },
         {
-            "fixture": "Motherwell- : -Kilmarnock",
+            "fixture": "Norwich vs Blackpool",
             "prediction":"Home win",
-            "date": "06/05/2023"
+            "date": "08/05/2023"
         },
         {
-            "fixture": "FK Khimki- : -Dinamo Moscow",
-            "prediction":"GG & Over 2.5",
-            "date": "06/05/2023"
+            "fixture": "Arouca vs Porto",
+            "prediction":"Away Win",
+            "date": "08/05/2023"
         },
         {
-            "fixture": "Rostov- : -Fakel",
-            "prediction":"Home Win",
-            "date": "06/05/2023"
+            "fixture": "Brighton vs Everton",
+            "prediction":"Home win & Over 2.5",
+            "date": "08/05/2023"
         }
  ],
  "fixedPredictions":[
@@ -173,34 +170,34 @@
  
  "paidPredictions":[
     {
-        "fixture":"Sparta Rotterdam- : -PSV",
-        "prediction": "Away Win",
-        "date": "06/05/2023"
-    },
-    {
-        "fixture": "21:00Cambuur- : -Utrecht",
-        "prediction": "GG & Over 2.5",
-        "date": "06/05/2023"
-    },
-    {
-        "fixture": "Ajax- : -AZ Alkmaar",
+        "fixture":"Lokomotiv Moscow vs Sochi",
         "prediction": "Over 2.5",
-        "date": "06/05/2023"
+        "date": "08/05/2023"
     },
     {
-        "fixture": "AC Milan vs Lazio",
-        "prediction": "Home Win, Over 2.5",
-        "date": "06/05/2023"
+        "fixture": "Beroe vs Hebar",
+        "prediction": "Over 2.5",
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Roma vs Inter Milan",
-        "prediction":"GG & Over 2.5",
-        "date": "06/05/2023"
+        "fixture": "CSKA-Sofia vs Botev Vratsa",
+        "prediction": "Home Win",
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Augsburg vs Union Berlin",
-        "prediction":"Over 2.5",
-        "date": "06/05/2023"
+        "fixture": "Empoli vs Salernitana 1919",
+        "prediction": "GG, Over 2.5",
+        "date": "08/05/2023"
+    },
+    {
+        "fixture": "Udinese Calcio vs Sampdoria",
+        "prediction":"Home Win",
+        "date": "08/05/2023"
+    },
+    {
+        "fixture": "Trabzonspor vs MKE Ankaragucu",
+        "prediction":"GG",
+        "date": "08/05/2023"
     },
     {
         "fixture": "TSG Hoffenheim vs Eintracht Frankfurt",
@@ -210,42 +207,42 @@
     {
         "fixture": "Werder Вremen vs Bayern Munich",
         "prediction":"Away & Over 2.5",
-        "date": "06/05/2023"
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Nice vs Stade Rennais",
-        "prediction":"GG & Over 2.5",
-        "date": "06/05/2023"
+        "fixture": "Resistencia SC1 vs 2Cerro Porteno",
+        "prediction":"Away Win",
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Boavista vs Estoril",
-        "prediction":"GG & Over 2.5",
-        "date": "06/05/2023"
-    },
-    {
-        "fixture": "CSKA Sofia 1948 vs Slavia Sofia",
-        "prediction":"GG & Over 2.5",
-        "date": "06/05/2023"
-    },
-    {
-        "fixture": "Rosenborg vs Valerenga",
+        "fixture": "AL Duhail SC vs Al Shamal",
         "prediction":"Home Win",
-        "date": "06/05/2023"
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Consadole Sapporo vs Tokyo",
+        "fixture": "Jong PSV Eindhoven vs PEC Zwolle",
+        "prediction":"Over 2.5",
+        "date": "08/05/2023"
+    },
+    {
+        "fixture": "Estudiantes2 vs 0Velez Sarsfield",
         "prediction":"Home Win",
-        "date": "06/05/2023"
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Modena vs Bari",
-        "prediction":"GG & Over 2.5",
-        "date": "05/05/2023"
+        "fixture": "Kryvbas Kryvyi Rih vs Dynamo Kyiv",
+        "prediction":"Over 2.5",
+        "date": "08/05/2023"
     },
     {
-        "fixture": "Modena vs Bari",
-        "prediction":"GG & Over 2.5",
-        "date": "05/05/2023"
+        "fixture": "Fylkir Reykjavik vs Breidablik",
+        "prediction":"Over 3.5",
+        "date": "08/05/2023"
+    },
+    {
+        "fixture": "Fylkir Reykjavik vs Breidablik",
+        "prediction":"Over 3.5",
+        "date": "08/05/2023"
     }
     
 ],
